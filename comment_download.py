@@ -5,41 +5,16 @@ import traceback
 from typing import List
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
-from google.oauth2.credentials import Credentials
-
+os.environ["HTTPS_PROXY"] = "http://127.0.0.1:33210"
+os.environ["HTTP_PROXY"] = "http://127.0.0.1:33211"
 # 配置
-CLIENT_SECRETS_FILE = 'client_secrets.json'
-SCOPES = ['https://www.googleapis.com/auth/youtube.readonly']
-TOKEN_FILE = 'token.json'
+API_KEY = 'AIzaSyBX_Yz8CiSx-XQdPEEJYvBQQDxNH2buLXU'
 INPUT_DIR = 'video_id'
 OUTPUT_DIR = 'video_comment'
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-def get_credentials():
-    creds = None
-    if os.path.exists(TOKEN_FILE):
-        creds = Credentials.from_authorized_user_file(TOKEN_FILE, SCOPES)
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            try:
-                creds.refresh(Request())
-            except Exception as e:
-                print("Refresh failed, re-auth:", e)
-                creds = None
-        if not creds or not creds.valid:
-            flow = InstalledAppFlow.from_client_secrets_file(CLIENT_SECRETS_FILE, SCOPES)
-            # 默认本地回调端口即可
-            creds = flow.run_local_server(port=8080, prompt='consent')
-        with open(TOKEN_FILE, 'w', encoding='utf-8') as f:
-            f.write(creds.to_json())
-    return creds
-
 def build_service():
-    creds = get_credentials()
-    service = build('youtube', 'v3', credentials=creds)
-    return service
+    return build('youtube', 'v3', developerKey=API_KEY)
 
 def fetch_comments(youtube, video_id: str, max_per_page: int = 100, max_retries: int = 5, base_delay: float = 2.0) -> List[str]:
     comments: List[str] = []
