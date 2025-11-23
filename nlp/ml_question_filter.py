@@ -1,110 +1,138 @@
 import os
-import re
-from typing import List
+import langdetect
+# 确保导入 DebertaV2TokenizerFast，以解决 SentencePiece 转换问题
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, DebertaV2TokenizerFast 
+import torch
 
-# External ML libs: transformers (zero-shot classification) + langdetect
-# Install (PowerShell): pip install transformers torch langdetect
+# 1. 代理设置 (保留，这是通过网络连接 Hugging Face 的关键)
+os.environ["http_proxy"] = "http://127.0.0.1:33210"
+os.environ["https_proxy"] = "http://127.0.0.1:33210"
+os.environ["all_proxy"] = "socks5://127.0.0.1:33211"
+
+# 2. 模型设置
+MODEL_ID = "MoritzLaurer/DeBERTa-v3-small-mnli-fever-docnli-ling-2c"
+device = torch.device("cpu") # 强制使用 CPU
+
+print(f"正在尝试从云端加载模型: {MODEL_ID}")
+print(f"运行设备: {device}")
 
 try:
-    from langdetect import detect, LangDetectException  # type: ignore
-    _LANG_OK = True
-except Exception:
-    _LANG_OK = False
+    # 关键修正：直接使用 DebertaV2TokenizerFast 绕过 AutoTokenizer 的转换错误
+    tokenizer = DebertaV2TokenizerFast.from_pretrained(MODEL_ID)
+    
+    # 模型主体仍然使用 AutoModelForSequenceClassification
+    model = AutoModelForSequenceClassification.from_pretrained(MODEL_ID)
+    model.to(device)
+    model.eval()
+    print("模型加载成功！")
 
-try:
-    from transformers import pipeline  # type: ignore
-except ImportError:
-    raise SystemExit('Missing transformers. Run: pip install transformers torch langdetect')
+except Exception as e:
+    print(f"\n致命错误：模型加载失败。请检查代理设置和网络连接。")
+    print(f"详细错误: {e}")
+    exit()
 
-# Initialize zero-shot pipeline once
-_ZS = pipeline('zero-shot-classification', model='facebook/bart-large-mnli')
 
-INPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'video_comment')
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'video_comment_NLP_ML')
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+def model_question(text: str, threshold: float = 0.6) -> bool:
+    """使用 NLI 模型判断文本是否为问题 (基于 Entailment 分数)。"""
+    hypothesis = "This sentence is a question."
 
-WORD_RE = re.compile(r"\b\w+\b")
+    inputs = tokenizer(
+        text,
+        hypothesis,
+        return_tensors="pt",
+        truncation=True,
+        padding=True
+    ).to(device)
 
-CANDIDATE_LABELS = ["question", "statement"]
+    with torch.no_grad():
+        logits = model(**inputs).logits
+
+    probs = torch.softmax(logits, dim=1)[0]
+    # Entailment 概率通常在索引 2
+    entail_score = probs[2].item() 
+
+    return entail_score >= threshold
+
 
 def is_english(text: str) -> bool:
-    if not _LANG_OK:
-        # fallback: majority ASCII letters heuristic
-        letters = sum(ch.isalpha() for ch in text)
-        return letters / max(len(text), 1) > 0.6
+    """使用 langdetect 快速判断文本是否为英文。"""
     try:
-        return detect(text) == 'en'
-    except LangDetectException:
+        return langdetect.detect(text) == "en"
+    except:
         return False
 
-def word_count(t: str) -> int:
-    return len(WORD_RE.findall(t))
 
-def is_question_ml(text: str, threshold: float = 0.6) -> bool:
-    # Use MNLI zero-shot classification
-    res = _ZS(text, CANDIDATE_LABELS, multi_label=False)
-    # res['labels'] is ordered by score desc
-    top_label = res['labels'][0]
-    top_score = res['scores'][0]
-    return top_label == 'question' and top_score >= threshold
+MIN_WORDS = 6
 
-def filter_comment(text: str, min_words: int = 6) -> bool:
-    if word_count(text) < min_words:
-        return False
+def keep(text: str) -> bool:
+    """筛选文本：必须是英文、满足最小词数，且模型判断为问句。"""
     if not is_english(text):
         return False
-    if not is_question_ml(text):
+    if len([w for w in text.split() if w.isalpha()]) < MIN_WORDS:
         return False
-    return True
+    return model_question(text)
 
-def process_file(in_path: str, out_path: str) -> int:
-    kept: List[str] = []
+
+def process_file(in_path, out_path):
+    """处理单个文件，筛选问句并保存。"""
+    if os.path.exists(out_path):
+        print(f"{os.path.basename(in_path)} 已存在，跳过")
+        return
+
+    kept = []
     try:
-        with open(in_path, 'r', encoding='utf-8') as f:
-            for line in f:
-                c = line.strip()
-                if not c:
-                    continue
-                if filter_comment(c):
-                    kept.append(c)
+        with open(in_path, "r", encoding="utf-8", errors="ignore") as f:
+            lines = f.readlines()
+            total_lines = len(lines)
+            
+            print(f"正在处理 {os.path.basename(in_path)} - 共 {total_lines} 行...")
+            
+            for i, line in enumerate(lines):
+                text = line.strip()
+                if text and keep(text):
+                    kept.append(text)
+                
+                # 打印进度，防止 CPU 运行时用户以为程序卡死
+                if (i + 1) % 100 == 0:
+                    print(f"  已处理 {i + 1}/{total_lines} 行...", end="\r")
+            
+            print(f"  处理完成。")
+
     except Exception as e:
-        print(f'Read error {in_path}: {e}')
-        return 0
+        print(f"读取文件出错 {in_path}: {e}")
+        return
 
-    # Deduplicate preserving order
-    seen = set()
-    deduped = []
-    for c in kept:
-        if c not in seen:
-            seen.add(c)
-            deduped.append(c)
+    if not kept:
+        print(f"{os.path.basename(in_path)} 无有效问句")
+        return
 
-    if deduped:
-        try:
-            with open(out_path, 'w', encoding='utf-8') as f:
-                for c in deduped:
-                    f.write(c + '\n')
-            print(f'Saved {len(deduped)} -> {os.path.basename(out_path)}')
-        except Exception as e:
-            print(f'Write error {out_path}: {e}')
-    else:
-        print(f'No qualified comments in {os.path.basename(in_path)}')
-    return len(deduped)
+    with open(out_path, "w", encoding="utf-8") as out:
+        out.write("\n".join(kept))
+
+    print(f"✔ 保存 {len(kept)} 条问句 → {out_path}")
+
 
 def main():
-    if not os.path.isdir(INPUT_DIR):
-        print(f'Input dir missing: {INPUT_DIR}')
-        return
-    total_files = 0
-    total_kept = 0
-    for fname in os.listdir(INPUT_DIR):
-        if not fname.endswith('.txt'):
-            continue
-        in_path = os.path.join(INPUT_DIR, fname)
-        out_path = os.path.join(OUTPUT_DIR, fname)
-        total_files += 1
-        total_kept += process_file(in_path, out_path)
-    print(f'Done. Files processed: {total_files}, total kept comments: {total_kept}')
+    """主函数，遍历输入目录并处理文件。"""
+    INPUT_DIR = "video_comment/"
+    OUTPUT_DIR = "video_comment_transformer/"
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-if __name__ == '__main__':
+    if not os.path.exists(INPUT_DIR):
+        print(f"错误：找不到输入文件夹 '{INPUT_DIR}'")
+        return
+
+    files = [f for f in os.listdir(INPUT_DIR) if f.endswith(".txt")]
+    print(f"发现 {len(files)} 个文件待处理...")
+
+    for fname in files:
+        process_file(
+            os.path.join(INPUT_DIR, fname),
+            os.path.join(OUTPUT_DIR, fname)
+        )
+
+    print("\n所有文件处理完成！")
+
+
+if __name__ == "__main__":
     main()

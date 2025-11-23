@@ -1,21 +1,34 @@
 import os
 import torch
 import langdetect
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from transformers import pipeline  # 1. 导入 pipeline
 
-MODEL_ID = "nlpodyssey/bert-multilingual-uncased-geo-countries-headlines"
-HF_TOKEN = os.getenv("HUGGING_FACE_HUB_TOKEN", "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")  # 建议改为仅用环境变量
+# 2. 设置代理 (如果需要)
+os.environ["http_proxy"] = "http://127.0.0.1:33210"
+os.environ["https_proxy"] = "http://127.0.0.1:33210"
+os.environ["all_proxy"] = "socks5://127.0.0.1:33211"
 
-input_folder = "sample/"
-output_folder = "sample_out/"
+# 3. 使用更合适的零样本分类模型
+MODEL_ID = "facebook/bart-large-mnli"
+# HF_TOKEN = os.getenv("HUGGING_FACE_HUB_TOKEN", "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") # pipeline不需要token
+
+input_folder = "video_comment/"
+output_folder = "video_comment_transformer/"
 
 # 创建输出目录
 os.makedirs(output_folder, exist_ok=True)
 
-# 载入远程模型 (自动下载缓存)
-tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, token=HF_TOKEN)
-model = AutoModelForSequenceClassification.from_pretrained(MODEL_ID, token=HF_TOKEN)
-model.eval()
+# 4. 载入零样本分类 pipeline
+print(f"正在加载模型: {MODEL_ID}...")
+try:
+    classifier = pipeline("zero-shot-classification", model=MODEL_ID, device=0 if torch.cuda.is_available() else -1)
+    print("模型加载成功！")
+except Exception as e:
+    print(f"模型加载失败: {e}")
+    print("将尝试使用 CPU 加载...")
+    classifier = pipeline("zero-shot-classification", model=MODEL_ID)
+    print("模型已在 CPU 上加载。")
+
 
 QUESTION_WORDS = {"who","what","when","where","why","how","which","whom","whose"}
 QUESTION_PATTERNS = ["i wonder", "could you", "can you", "can anyone", "does anyone", "any idea", "do you know", "can someone"]
@@ -56,21 +69,26 @@ for filename in os.listdir(input_folder):
     question_sentences = []
 
     with open(input_path, "r", encoding="utf-8", errors="ignore") as f:
-        for line in f:
-            text = line.strip()
-            if not text:
-                continue
-            if not is_english(text):
-                continue
-            inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True)
-            with torch.no_grad():
-                logits = model(**inputs).logits
-            pred = torch.argmax(logits, dim=1).item()
-            label_map = getattr(model.config, "id2label", None)
-            label_text = "" if not label_map else (label_map.get(pred, "") if isinstance(label_map, dict) else "")
-            # 放宽：模型标签里含 question / 询问词启发式 任一满足即可
-            if "question" in label_text.lower() or heuristic_is_question(text):
+        # 5. 批量处理以提高效率
+        lines = [line.strip() for line in f if line.strip() and is_english(line.strip())]
+        
+        if not lines:
+            print(f"{filename}: 无有效英文评论，跳过")
+            continue
+
+        print(f"正在处理 {filename} 中的 {len(lines)} 条英文评论...")
+        
+        # 使用 pipeline 进行批量预测
+        candidate_labels = ["question", "statement"]
+        results = classifier(lines, candidate_labels, multi_label=False)
+
+        for i, text in enumerate(lines):
+            model_is_question = results[i]['labels'][0] == 'question' and results[i]['scores'][0] > 0.8 # 设置一个置信度阈值
+            
+            # 放宽：模型认为是问题 或 启发式规则认为是问题
+            if model_is_question or heuristic_is_question(text):
                 question_sentences.append(text)
+
     # 新增：如果无问句则不创建文件
     if not question_sentences:
         print(f"{filename}: 无英文问句，跳过创建文件")

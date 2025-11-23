@@ -1,24 +1,37 @@
 import os
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+# 如果没有安装 huggingface_hub，请先运行: pip install huggingface_hub
+from huggingface_hub import snapshot_download
 
-MODEL_ID = "nlpodyssey/bert-multilingual-uncased-geo-countries-headlines"
-HF_TOKEN = "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"  # 建议改为放环境变量
-# 若需安全: HF_TOKEN = os.getenv("HUGGING_FACE_HUB_TOKEN", HF_TOKEN)
+# 1. 设置国内镜像环境变量 (确保下载顺畅)
+os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
 
-tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, token=HF_TOKEN)
-model = AutoModelForSequenceClassification.from_pretrained(MODEL_ID, token=HF_TOKEN)
+# 2. 设置下载参数
+# 目标模型 ID
+repo_id = "MoritzLaurer/DeBERTa-v3-small-mnli-fever-docnli-ling-2c"
+# 目标本地路径
+local_dir = "./model_local/DeBERTa-v3-ling-2c" 
 
-def classify(texts):
-    if isinstance(texts, str):
-        texts = [texts]
-    enc = tokenizer(texts, padding=True, truncation=True, return_tensors="pt")
-    outputs = model(**enc)
-    probs = outputs.logits.softmax(dim=-1)
-    return probs.detach().cpu().tolist()
+print(f"正在从镜像站重新下载/修复模型文件 {repo_id} ...")
+print(f"目标保存路径: {local_dir}")
 
-if __name__ == "__main__":
-    samples = [
-        "Where is Germany?",
-        "This video is amazing",
-    ]
-    print(classify(samples))
+try:
+    # 3. 开始下载，使用 resume_download 确保续传和修复缺失文件
+    snapshot_download(
+        repo_id=repo_id,
+        local_dir=local_dir,
+        local_dir_use_symlinks=False,  
+        resume_download=True,
+        max_workers=8 # 提高下载速度
+    )
+    print("-------------------------------------------------")
+    print("✅ 模型文件下载/修复完成！")
+    
+    # 最终检查 tokenizer.model 文件
+    tokenizer_model_path = os.path.join(local_dir, "tokenizer.model")
+    if os.path.exists(tokenizer_model_path):
+        print(f"✅ 关键文件 'tokenizer.model' 已成功找到: {tokenizer_model_path}")
+    else:
+        print(f"❌ 警告：'tokenizer.model' 仍未找到！请检查网络或权限。")
+        
+except Exception as e:
+    print(f"下载过程中发生错误: {e}")

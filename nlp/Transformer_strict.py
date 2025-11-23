@@ -5,10 +5,10 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # 放宽筛选：移除 strict_question 与双重条件，仅需模型预测为 question 或简单启发式
 MODEL_ID = "nlpodyssey/bert-multilingual-uncased-geo-countries-headlines"
-HF_TOKEN = os.getenv("HUGGING_FACE_HUB_TOKEN", "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")  # 建议用环境变量
+HF_TOKEN = os.getenv("HUGGING_FACE_HUB_TOKEN", "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")  # 建议用环境变量
 
-INPUT_DIR = "video_comment_NLP/"  # 可以换成原始目录
-OUTPUT_DIR = "comment_transformer_strict/"
+INPUT_DIR = "video_comment/"  # 可以换成原始目录
+OUTPUT_DIR = "video_comment_transformer/"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, token=HF_TOKEN)
@@ -52,11 +52,11 @@ def keep(text: str) -> bool:
     if not is_english(text):
         return False
     # 放宽：模型或启发式任一判定为问句即可
-    return model_question(text) or heuristic_question(text)
+    return model_question(text)
 
 def process_file(in_path: str, out_path: str):
     if os.path.exists(out_path):
-        print(f"{os.path.basename(in_path)} 已存在，跳过")
+        print(f"{os.path.basename(in_path)} 已存在，Ciallo~")
         return
     kept = []
     with open(in_path, "r", encoding="utf-8", errors="ignore") as f:
