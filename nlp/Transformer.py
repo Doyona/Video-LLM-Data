@@ -30,25 +30,7 @@ except Exception as e:
     print("模型已在 CPU 上加载。")
 
 
-QUESTION_WORDS = {"who","what","when","where","why","how","which","whom","whose"}
-QUESTION_PATTERNS = ["i wonder", "could you", "can you", "can anyone", "does anyone", "any idea", "do you know", "can someone"]
-
-def heuristic_is_question(text: str) -> bool:
-    t = text.strip().lower()
-    if not t:
-        return False
-    if t.endswith("?"):
-        return True
-    first = t.split(maxsplit=1)[0]
-    if first in QUESTION_WORDS:
-        return True
-    for p in QUESTION_PATTERNS:
-        if t.startswith(p):
-            return True
-    # 中间有问号也算
-    if "?" in t:
-        return True
-    return False
+# 移除启发式规则，只使用分类器
 
 def is_english(text):
     try:
@@ -85,8 +67,8 @@ for filename in os.listdir(input_folder):
         for i, text in enumerate(lines):
             model_is_question = results[i]['labels'][0] == 'question' and results[i]['scores'][0] > 0.8 # 设置一个置信度阈值
             
-            # 放宽：模型认为是问题 或 启发式规则认为是问题
-            if model_is_question or heuristic_is_question(text):
+            # 只使用分类器判断
+            if model_is_question:
                 question_sentences.append(text)
 
     # 新增：如果无问句则不创建文件

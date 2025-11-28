@@ -1,0 +1,192 @@
+Why not use the cnc to cut the whole thing accurately and quickly?
+Do you sell these?
+Wait, so a pi can run mario 64? What about other 64 and ps1 games? I thought those were too weak to do anything in that era decent.
+Love the video! Looking into making one of these. What capacity of RAM did you buy your raspberry pi with? It seems like there are options of 1GB, 2GB, 4GB, and 8. I don’t want to buy one that can’t properly run games! Thanks in advance!
+Couldn't you use the cnc to cut out every part of the arcade?
+Why did you make the bezel too big..I hope you didn't block out a huge portion of the screen...
+Do anyone here know the name of old ninja game say hopa when do magic as he can become twice the game look such shinobi plzzz
+What is the cost of this?  Thinking about doing this at a school I work at.
+Is it possible to use a small motherboard inside the cabinet?
+has any lag gotten better with these games? or at least barely noticeable?
+Can these play mortal kombat 2 player? Or will it need more than 6 buttons?
+Could you share the link for the amplifier? I cant find any cheap on ebay :/ thanks!
+Arènes.t your T-nuts installed reverse ?? They don.t give strength to the build...
+Do u  have a link where I can buy the wood parts already cut?
+No face mask cutting MDF ?
+What version of pacman was that? NES?
+The buttons and joysticks, cant you use encoder boards?  Then connect to the raspberry with a USB cable?
+We are also game developers, do you have a chance to talk about it? Check out www.usun8.com for more information on our website  www.usun8.com
+hello there! greetings from philippines. i have some question regarding to your diy arcade cabinet. do you have a arcade cabinet plans for sitdown style so i can install coinslot below of them.
+What are all of the power tools I need to do all this woord work? :D
+How much will it cost for you to build one for me and install all the MK games and street fighter games?
+Question:  what do you do if you don’t have access to a woodshed and these tools and still want to build an arcade cabinet
+Do you sell these?
+One thing I guess I missed is what are all of your GPIO's connected to?
+This is incredible! How much would you sell one?
+Would you be interested in selling one of these bare frames
+i've read that a simple hdmi to vga cable won't work because the output signal is digital and vga is analog. but you seem to have no problems with this at all? i ordered a hdmi to vga converter (hasn't been delivered yet), was this unnecessary?
+Do u know who joe is
+I'd like to know how wide it really is? Because I cut everything to 55cm wide and used your template for the holes and there is nowhere near the space for the controls that your completed one seems to have.
+hello is it possible that you can help me consult me on my build please?
+Is this a feasible project for someone who never did any type of woodworking?
+Have you ever had it where that recalbox doesn’t play sound?  I uploaded the latest version but I can’t get sound?
+Any one know what buttons he used I’m interested in making my own?
+Aren't those T-Nuts installed on the wrong side?
+Nice job. Any issues with the raspberry generating too much heat?
+I have one last question my friend. How many 4x8' sheets of 1/2" thick MDF did you use for your whole build?
+Great video! How much do you rent these out for? I might be doing that as well once I have a few built.
+How much do you charge for one of these?
+can you upload instructions how you install the emulator and games in the android pi. everyhing on the net just shows how to build the cabinet but no instructions how you install or program the android pi . thanks
+how much it cost in the end ? i'm interested in building my own soon
+Where do these guys get all the tools?
+How much would you charge to build a couple of these & ship them to Austin Texas?
+But are the games real like is pac man going to run like the original or is it a rip off?
+What specs do  I need to make this?(Software)
+Does it matter what type of amp board you use for the volume adjustment?
+Hi, do you sell these? My mate might be interested in these? He likes stuff like that? And how much and how does he get in contact.. cant promise he will buy it though
+Who's here from Aldo Jones?
+Where do you get power tools to work with the wood ?, what is this place called ?
+Where is this shit filmed?
+beautiful design how do you add a coin slot
+I've seen hundreds of videos like these, all of them using sophisticate tools and saws. Anyone doing that in a simple, realistic, average joe, garage budget way??
+Can the Retropie/Raspberry Pi be reset within the software? What is the advantage of having a Reset button? Thank you to anyone that answers this question
+1. Is it okay to use a cnc router on a sheet of mdf to do this?   2. Can I use MDF for those smaller supports that go on the inside?
+I dont get the reset button why ?
+Awesome video, do you build this also for a living... I would like to buy one lol
+Do you have video for guys with fuck all space for expensive tools?
+Any site where l can get a arcade cabinet sent to me?
+Is there a good way to determine where to put the support pieces of wood on the side panels?
+hey We Build Stuff, how did you get your hot key working with the usb ones?
+Does any one have a problem with there raspberry pi overheating when its in an arcade machine? i build a full size one and would like to know if i should put fan or not?
+didn't see the overall cost? How much?
+Cool but how do you make one if you don't have a gigantic workshop full of tools lol
+What is the approximate price for the build?
+As someone who doesn't have access to any of the tools and resources to build a casing myself, is there somewhere I can buy an empty case?
+cool job..but where did you find the games for the rasbery pi?
+why do you use the I/O for the controls when you could just rig a usb controller under the hood?
+What is the measurement for the edges? I see the bottom sits some off the ground but how far?
+Hey mate! Love this! Do you have the GPIO diagram you used for the buttons?
+First music?
+Can these legally be sold? with all the software?
+What were the dimensions for the control panel?
+Nice!!! How can I get one!?!?
+Sweet build! Question, do you think it's necessary to bevel the edges to fit perfectly between the pieces? What if I don't do bevels?
+What wood does he use
+how much do you charge to build me a unit because I don't have all that equipment to make everything. email me at thedit068@yahoo.com
+how much in hardware does it cost you ? Awesome build!
+Amazing tutorial, I have a question with the microswitchs I connect everything and a little soldering but the ground cable (connected in series) can I connect on any ground pin on the raspberry?
+Was just wandering how you made the game fit the whole screen with no black borders around it? Thanks!
+I was wondering if you sell custom kits? Just the frame of the arcade.
+the hotkey button of player 1 and player 2 can be joined in a single button ??? or do they all have to go in their player?
+I don't mean this in a bad way, but why "cheap off" and not buy a keyboard encoder (like the ipac 2)?
+I need help with the placement blocks. There is no info on the pdf specs
+What are the legalities involved with renting this out to parties?
+what was the overall price of this?
+Can you give me the specs of the power supply please?  I’m using led buttons and I get a low power warning when I try to configure the arcade controls.  I tried with a 2.5a and a 3.5a.
+Is there any way we can talk on the phone
+So if someone wanted you to build this for them. How much would you charge?
+that attention to detail rounding stuff you wont even see is a sign of quality man.  it has to be nice everywhere, NOT JUST where people see.  Like wal mart toys only painted on 1 side. Like nerf stuff, WTF WHY IS ONLY ONE SIDE OF MY BLASTER PAINTED?!?!!?!? that shit pisses me off
+do you sell the wood already cut out in a package
+question on the wood part, I thought MDF board was toxic? any recommendations on a wood with good finish that is just as smooth?
+How did you do the marquee?
+is this for sell
+How was the process of painting the mdf
+Why do the mesurements from the side panel layout and the arcade plans package not match (I printed out everything from the PDF-File -> no distorsions)? For Instance the top measures 150mm on the side panel but it sais 166.4mm on the arcade plans package....
+Friend, how wide is your bartop?
+Do u sell any..send info djecko22@gmail.com
+how do I download your plans?
+Why did you use a pilot hole with a forstner bit and a drill press?  By hand it would see like a good idea but I don't really see the point with a drill press.  Is there something I'm missing?
+I would love to build this, if the raspberry pi didn't have so much input lag between button presses. By the way, do you know how to fix input lag on raspberry pi?
+How do you change between games without using the keyboard ? O_o?
+What did you end up doing for the power? Do you just plug and unplug to turn off and on? Great video!
+We build stuff, I'm just wondering but what high school do you teach at these kids must be lucky!
+im ashamed to ask but can you build me one i cant afford it my mom doesnt work my dad left me when i was little please help me at least send me a raspberry pi and ill find someone else to build the cabinet please
+I may have missed something here, but isn't it problematic that the monitor control buttons are covered so you can't access them without taking the monitor off?
+Which HDMI to VGA cable you used? or you got a converter?
+Dose anyone know if he sells any of them?
+Hey I am just finishing up my own build. Just wanted to know how you wired the reset switch. I know the part on the board. But I have 4 connectors on my arcade button and not sure which ones to attach it to. Also I would like that button to light up if possible.Thanks for the video! Turned out to be a really fun project!
+How much did all this cost you?
+great vid! what amp did you use for the speakers?
+you guys actually sell those cabinets?
+Any chance that you could post or email the CnC file for your carving on the sides. I am currently trying to do a similar build and a friend who is helping me on the CnC side is new to it and would like the file as a template for building similar diagrams for my build. ....that said, I may use your's for one side, as it is very cool!
+I'm making an arcade too. Similar design, mine has a keyboard drawer under the switches.  I just want to ask why you didn't use a keyboard encoder for the buttons? It makes wiring much easier, and they aren't that expensive. Bought an Ipac 2 for 40 bucks.
+I only have a small bandsaw and some power tools so a lot of these cuts seem a little beyond me.  How much do you normally sell or rent these out for?
+do you listen to mediocre show?
+Nicely done.  What model of CNC are you using? i am looking to buy one that will engrave and cut small pieces.
+@We Build Stuff: Didn't you have to use a IPAC 2 for a 2 player bar top? Are there any instruction files of how to plug all the button cables on the raspberry?
+i'm in the 80's...do u sell these Arcade?what games is it in there?how many games
+How does Recalbox compare to RetroPie?
+Hello, I have a question about using this for school fundraising, can you thing of a way to get the game started only when you put a coin? and when the game is over be able to stop so they would need to put more coins. In schools Fetes, festivals and events could be a good way for schools to get some revenue for their IT budget.
+Where did u get all the ROMs together ?
+Was that 3rd Strike I saw? Are there many hoops to jump through to get CPS 3 roms running on pi or does just natively work?
+How are the lighted buttons? Do they hurt your eyes after long play sessions? Are the bulbs easy to replace?
+Where can i buy that audio amp? Thanks
+this has alot of games?
+so do you sell these? I do not have the time time to put in to this, and I would really like to have an arcade box to play old classic games. thnx
+I'm currently using your prints off your website. The blueprints the are taped together for the side panels are undersized compared to measurements given on the page with all the cuts. Should they be the same size?   (I used the 8.5x11 PDF print out at 100%)
+How the protecting screen makes the colours better? I am intrigued.
+If I had no tools how much the wooden box will cost if a professional make it for me ?
+Do you use a brad nailer or finish nailer? Thanks
+I have the same monitor you used in the video that I want to use for my project. How did you power on the monitor when the buttons are all blocked?
+is there a way to make it boot up to a single game upon start? I want to make a Rainbow Islands one for my Dad
+How much do You charge for these Units ?
+what size of screen would fit this screen cutaway?  17inch 1080p?
+cost total made as a DIY? vs bought ?
+Loved the video ! , is there a way to prevent the balls in the joysticks from "spinning" and prevent them from falling off ?
+Noticed how you connect the joystick & buttons onto the GPIO.   I did some searching, and the best i'd found was the GPIO pins diagram. How do you know which input goes where?
+hican you tell me how you hooked the mini amp up with the Raspberry Pi 3?    thank you
+All this work and you fitted it with a shitty LCD...WTF????
+What size monitor did you use for the build?  I am in the middle of using your instructions to build my own.... beautiful job.
+how much did this cost in total?
+Great stuff! Do you make for people, I am looking one to support 24 inch monitor?
+MDF, that must be one heavy mini-cab unless it's that paper stuff.  Also, aren't you using the T-nuts wrong?  I mean, mounting on the back side of the wood would be difficult with all of that installed, but they really should be on the bottom and not the top.
+Awesome video! I'm thinking of building one of these for my friends and I, how much would you say it costs when it's all said and done? Thanks!
+how much for one
+could u upload plans for cabinets?
+Witch one is better r2 or r3?
+how did you connect all the buttons and joystick to the gpio, aren't only 17 of the GPIO headers usable like this?
+Hi, great project! I have RP Model B and my GPIO header is with only 26 pins. I really want to use it but I don't know how. Any idea?
+do you sell these ?
+nice build, only thing i wonder is why you would put the controls so close together looks like theres plenty of space left.
+Hi me again! just wondering if you cut everything straight and to length and then make your angle cuts? or cut everything with angles from the outset?
+Do I need all of the extremely expensive tools and tables to make a quality cabinet?
+Do you need to use a 4:3 monitor, or can you use a 16:9 and it can scale depending on the system emulated?
+do you have a list of the parts you used?
+Hey Mike, I was wondering if you can help me. If you have to pick one which one would you buy and why?  Monster arcade launchbox big box mini arcade or mini arcade extreme 114 in 1.    Thanks
+Nice job! I wanna build my own now lol.     Maybe I missed it, but how do you get the monitor to power up when your build is complete and everything is assembled and sealed up? Is there a trick to this, or do you need access to the monitor power button?
+Another question I used the small 12v audio amp in my build and I'm getting a lot of hissing sounds before I load a game? Is there anything in the settings I can change?
+Coooool vid! Will try to make one of these! Just out of curiosity, is there a lot of interest in hiring these? And how much do you rent them out at? Thx Daz (uk)
+A quick question, how did you go about running the power to the surge protector? do you open the back and connect an extension cable, i was thinking about adding an inlet box to the back.
+Hi just wondering if you have a vector version of the cut sheet? I'd love to get it cut out on our CNC at uni.. thanks tom
+does the arcade just use standard mame ROMs? how is the button performance?I was tossing up whether to try a pi or pandora4s
+Gday Mike. Thank you for the video. Am wondering if RECALBOX works with the USB arcade joy kits.  http://www.ebay.com.au/itm/Zero-Delay-Arcade-Game-Controller-USB-Joystick-Kit-for-MAME-Raspberry-Pi-1-2-3-/282212138335?var=&hash=item41b5277d5f:m:m6Cqx89awHVXiwhBwKOQ28Q   Cheers Bob
+we build stuff i have a question when you are configuring the controls how do you do it for  buttons and a joystik
+So wiring the buttons and Joysticks directly to the pi, does it see it as a keyboard or Controllers? I normally use xin mo or zero delays usb hubs, but I like the idea of wiring them like you did.  Thanks.
+this looks amazing and i'm planning on doing the dame thing, could you please tell me how much did dit cost to you and how exactly did you plug the differents wires ?
+Do you sale them??
+Before I start measuring and cutting, is this design based on a 17in or 19in monitor? And would it make a difference if I made the with of all the cross pieces 22.5inches instead of 55cm?
+we build stuff how wide is the cabinet im trying to build one could i have the dimensions
+how long is the top control pannel
+Hey can you build one for me? No paint and no display or raspberry pi, I'll provide that. I'll buy it from you, I don't have the tools nor the expertise to build it, but I really liked it, I'll pay you time and materials let me know please serious buyer here
+Do you need to set up the controls individually for each game? I consider playing all kinds of retro games on my Pi3, but haven't gotten into connecting the buttons yet.
+What does this rent for when you rent them for parties?
+I have a question.  Say i wasn't to build 2-4 of these for gifts can i set the first one up then copy the SD card for the other ones and they would be ready to go?  Giving i plug everything in the same spots.  Sorry for the dumb question.  Never used a Pi before I don't even eat them.  But I have my first Pi Zero getting delivered tomorrow.
+Hi,  The DIY combo I'm looking at getting has 2 zero delay LED encoder. Can I use these (2 of them) instead of connecting directly to the GPIO? I figure this might tidy things up a bit since each set of buttons have their own controller and the RPi can be positioned close to the side (or back) for USB/Ethernet access
+do u have that bartop arcade for sale?
+do you sell them??
+Quick question. Do you need a separate usb control interface for the buttons or can you use pi. Thanks
+do you sell these builds
+how much is the final cost ?
+What would you say is the total cost of the project?
+Do you sell these? If so I'm am very interested and would pay whats needed ajnapoleonwok@gmail.com I am military and wanting this in my game room
+Is there a way to make an on/off switch . Thanks
+What is the dimension for just the joysticks that you used for it because i plan on just making a 2 player arcade joysticks that could plug into any HDMI TV or Monitor and i plan on making it a little portable by installing a power brick inside the joystick and also what would be the best wood to use that is also very affordable because for my project i am planning on spending a total of 150$ +15$ for it (the 15$ is for the 50mm fan i plan on installing in the joystick so the Pi could kind of stay cooler since it will be locked away in it).
+wait so you didn't need a controller (ipac, xin-mo,..) and just wired the buttons directly to the pi? I wish I had knew that before buying a kit on ebay. Every youtube tutorial I've watched all used a controller of sort.   I like  your tutorial the best. Hope you get more views soon!
+Did anyone else freestyle over this beat while watching the video?
+Can you program the pi to accept CC &/or coins for the arcade machine?  would you need add'l pis to do it?
+Wouldnt it be a good idea to install a cooler to cool the raspberry?
+what software are you using to drawn in 3d @ 20:15 ?
+Very nice! Are you a fan of Bob from I like to make stuff? Definitely subbing!
+What's the response time like on these 4:3 dell monitors?   Any ghosting?
+So, raspberry pi doesn't need a separate usb control pcb?  All the buttons, joysticks etc just plug directly into the raspberry pi?
+how big is the monitor?

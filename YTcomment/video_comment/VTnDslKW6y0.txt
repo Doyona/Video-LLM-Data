@@ -1,0 +1,68 @@
+I have a front loading dryer Kenmore dryer that won't heat
+This video was a life saver for me. I was just about to finally cave and call a tech for this one because I replaced every component in the chain in terms of heating. Everything was reading good and I was at a loss. This video helped me figure out it was my timer that was defective. I took the test one step further and figured out I get continuity on the timer if I turn it in a certain way. Plugged it back in and sure enough my dryer heats up if I turned the timer slightly and goes cold if I let go. Really appreciate the info here
+I wish I would of found this video sooner. I bought a kit and replaced every switch. Now the timer is acting up. I know where this box of metal is going next.
+THANK YOU  !!!
+This video has been super helpful to me. I have been able to troubleshoot and repair my dryer twice in the past three years. Ended up costing me $35 for a heating element. Same issue both times. Heating element is readily available on Amazon. Huge savings over having to buy a new dryer! Thank you so much!
+Great video! It looks like none of the problems are difficult to fix. BTW, I replaced the motor switch (a $35 part at the time) on my old dryer and gave it 5 more years or so, after Handyman Appliance Parts told me I couldn't do that and needed a new dryer.
+Thank y'all so much for saving me time and money with the tip to reset the breaker! That did the trick.
+All of my thermostats have continuity and go t zero on all of them.  The heating element has 120 volts on both legs but does not heat up. Makes no sense.  Thermal fuse  and high limit thermostat all show continuity at zero and they all have 120 volts on both legs where ever I check. Never seen anything like it.
+My problem is different:  (gas dryer):  1. set to WARM -> close door -> press start  (WORKS) 2. set to HIGH -> close door -> press start (stays cold)  strangely:  3. set to WARM -> close door -> press start ->  WAIT a minute -> then set to HIGH  (WORKS)  All thermostats read fine. So its motor centrifugal switch  or defective circuit breaker maybe?
+my heating element reads 10, the timer reads nothing. the full circut was 10. the heating element had read 10 on both the new and old after replacing. the rest were as video showed. should i only replace the timer this time?
+Just Excellent - simple and accurate!
+My Kenmore dryer is continually blowing 30 amps fuses. I had  an electrician re-run the line and replace the outlet, still blowing, so found this video and used it to troubleshoot. I am measuring 9-11 ohms of resistance on my heating element, not 15. The dryer will run and heat up, but will still blow fuses - always one of the two 30 amp dedicated (240 volts). The heating element loses power, while the motor still tumbles. Wondering if I should replace the element? All other circuits have continuity, no lint/obstructions tripping the cut off. the only apparent issue is the element measuring less than 15 ohms. Thx for any help you can provide.
+Great and easy diagnosis for all the potential areas that could be at fault.
+First, this video is amazing!!! Great explanations.   My heating element is measuring 9.7-9.8 ohms. You state it should be 15 ohms.   I'm getting no heat. I've inspected the heating element, no breaks (which is why it has continuity in the first place, I guess). So my thought is 9.8 ohms is not enough to heat the coils? Is this correct?   I've had the dryer completely apart. The vents are clean. Everything seems to be working, just no heat.
+Thank you mr Wayne
+Thanks for the video! Troubleshooting took me right to the timer. $90 and 20 minutes labor and she was back up and running
+161 appliance repair companies disliked this video LOL :)
+Can't believe how relevant this is today. I bought the entire heating set; minus the timer, for 30 dollars and just replaced them all in under 30 minutes. Thanks to this video and showing me where components were at.
+i done all that last thing i change the wire from the breaker box to outlet was 27 years old . replace with a new one and it runs like new
+Wow. What a great video!  Well organized and easy to understand. I wish Wayne could explain all of life's problems
+Awesome video!  Can't thank you enough
+super nice！
+I did the circuit check between timer and heating element but i was only getting 4-11 ohms. It mostly hangs around 5 ohms. The new heating element gets about 13 by itself. Does this mean one of my components is bad? I tested each other component including the timer and they all have continuity. Also, i checked the screw for the plugs and i'm getting 120 120 230 so it is getting proper power. It runs, but there's no heat.
+Model: C1108456290 Type: DR-6     Won't start at all, what should I do?
+My kenmore dryer is not heating.  Through this testing I found he thermal cut off fuse was bad and I replaced it, but still not heating. All other fuses/thermostats and the heating element are testing good, but I don’t have continuity through the whole series. From your comments I’m thinking now the motor centrifugal switch, but I saw something else online that pointed to the temperature selection switch.  When I tested it I only get continuity on low, not the other two settings.    If this switch is bad would this also cause there to be no continuity through entire series?  Having a hard time finding videos online showing how to test this switch, only read a description and I want to be sure it’s bad before I pay for the part.  Haven’t tackled looking at the motor switch as it involves so much more work to get at and the comments indicated it’s better left to a pro.  Any thoughts?
+GREAT video. BUT when I take the back off my Canadian Kenmore it doesn't look anything like this. I think the heating element might be on the front. But the front of the cabinet does not have an upper and lower panel. It is all one piece. How do I access the lower panel to see if the heating element is there. Thanks.
+kenmore 110.60022010 has a total circuit ohm of 9, not 15. the timer isn't reading but the dryer is a different model. just wondering if a step is different between the two models?
+I have replaced my fuse, coil and thermostat and I still dont have any hot air.  What else can I check?
+No continuity on Thermal Cut-Off was my issue!  Thanks for this video!
+Good job. Easy to understand and i fixed my dryer.
+Just saved me $100s.  Thanks!
+thanks for a great video smileappliances.com
+Thank you for the greatest diagnostic video ever. This helped so much.
+Trying to get into the back panel, I removed the screws only to discover it appears to be spot-welded in strategic places. Model: 110.630321
+I just replaced the heating element and the thermal fuse near the blower housing on my Kenmore series 80 dryer plugged it in and motor is running but no heat I tested the timer and the hi limit thermostat on the heating element and get 9.5 ohms of resistance do you happen to know what could be the problem or what I should test with the voltmeter
+Wayne! Timer for me. TU.
+You helped me fix my dryer thank you
+Thanks. It helped a lot. Fixed mine
+Thank you so much for making this available.  I used this video to determine my heating element was bad.  We bought the replacement parts, tested it, installed it and now my dryer works great again!  Thank you!  RIP Sears!
+I just replaced the element in my dryer. The element works and glows orange but will only heat for a short while then goes cool. Thats when using the Auto Moisture Sensing Setting on the timer. But set it on Timed Dry and it heats and dries but more slowly than the other setting on the timer. Could the timer be bad? My dryer looks exactly like the one in the video. Mine is model # 110.61212011  Since it dries on Timed Dry I don't think it is the Thermal Fuse. But right now I am lost. I did make sure the dryer vent was clean and blew out the dryer with a weed blower. (I took in outside) and I can feel the heat in the vent ducting so I am sure it is clear of lint. Any help is appreciated.
+The dryer timer in the video is  W10186032. I followed link in the info and gave me the wrong timer model.
+Thank you sir! Great video, short sweet and to the point! You saved me some good money in a house where the damn clothes washer and dryer seem to run constantly and the world ends when they don’t!
+I wish I would have seen this video before I spent $50 on a heating element for my dryer. Turns out its my timer. Thank you for this video though  it definitely helped me!
+Thank you my dryer is working again.
+I have an old Maytag dryer DE8200. Will this video help me figure out why the timer won't advance and why the dryer won't heat?
+Wayne, Thank you, your are a very good teacher!!!!!
+Thanks for the great video. Just replaced the thermal cut-off fuse and dryer is back in business.
+Me toooooooo👍👍👍👍👍
+Be sure to remove and clean the INSIDE-rear air duct!  If this is clogged with lint and debris, it can cause the system to run hot and the thermal cutoff fuse to fail!
+Fantastic information. I tracked my problem down to the thermal cutoff fuse.  I bridged those 2 wires as a test and the dryer ran normally.  A new $11 part and it's back in business!
+Well done, but that's a little over my head. Good info though.
+muy bueno es de grandes este  tutorial ayuda bastante.  saludos
+what if everything you said tests good and 0nly the elemet doesn't get 220?
+Stupid breaker! I never would have thought about it with the motor spinning. Thank you bearded genie man
+Without this video, I’d have never thought it was the TIMER that was giving the problem. I put a new one and so glad it’s working.  Bought a $60 timer from Amazon and $20 Multimeter from Walmart, learnt the basics of Multimeter after watching few videos. There you go!  And, I liked the approach of checking the overall circuit first without having to go through each element such as thermostats, fuse, etc.  Thank you so much!
+Hello.  I agree with the other posts,,  great video.  However, after checking everything as shown, I still have no heat on my Kenmore dryer.  I plugged the dryer in, placed it on high heat.  The heater terminals themselves are reading 120 volts on each of the 2 terminals.  Any ideas? Thank you Sir!
+Great help.  Although all the tests proved all working properly, it sent me looking elsewhere,  I found a hot lead in the circuit panel that was screwed down over the wire insulation, which eventually failed.  Dryer back up and running at zero cost.  Thanks!
+I wish every troubleshooting video was as thorough and organized as this one. So glad I found it. Another reason why Kenmore has been our fav major appliance brand.
+my dryer does not heat long enough to thoroughly dry. I have replaced the element and cleaned all vents. the dryer heater will cycle on an off but does not seem to stay on long enough to dry.
+awesome video. thank you, i fixed my dryer .
+Thank you Wayne! Lots of good videos on YouTube about how to test & repair a dryer. BUT - yours is absolutely the best! That lil trick about testing the whole circuit got me to find where the problem was. My new thermal cut-off fuse had a loose connection inside. Slightest wiggle & no continuity. So a great big thanks to you for showing us the best way to test the entire circuit!
+Of all the videos I've seen on checking for no heat yours was the easiest to understand.  It gave clear values for what to look for in a logical sequence.  It was a little fast so I had to keep pausing the video to go back to hear what was said and look at the values on the meter but overall the best.  And I fixed my dryer.  :-)
+My heating element measures 9 ohms. is that ok
+When I worked at Sears Parts, we sold a ton of Thermal Fuses (p/n 3392519). Why is it not something that was checked in this video?
+Hi. I have an LG  electric dryer model number DLE2050W. Dryer worked fine. We recently moved and had to change the cord now it doesn't heat up. We checked the thermostat and heating element, both are in working order. Please help. thanks
+Thank you Wayne!!!
+thank you wayne
+hi wayne  I have frigidaire affinity,model# faqg7072wd  in normal setting in the dial, does not heat up, if I move the dial  to the next setting , it work perfect, what is my problem  please help me, I watched almost all yours videos,  thank you, from ontario ca

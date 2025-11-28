@@ -1,0 +1,322 @@
+Yes thank you for your time
+I truly appreciate your detailed explanation of this process. I’ve just invested in a submerged well system setup, and your insights have illuminated how it operates. This newfound understanding brings a sense of clarity and reassurance to my decision.
+Mosfets are used as make or break switches.....remember mosfets are voltage devices not current...at the gate and junction...fet bjts are current ontrolled at base to emitter. Peter
+This is what duck hunting companies are building ice eaters from !!
+Great video and explanation of a deep well pump.
+My pump didn't even last two years before it stopped working so I'm not impressed with this franklin brand. Used it in a grey water tank with sprinkler head discharge.
+What year was on the label ? It seems newer than 1972.
+My penis is beefy when pumped!
+Simply stated, a centrifugal pump works by throwing water against the sides of the space the impellor is in, and the only place for it to go is out the top. That space is usually called a bowl, and on some of them, it is bowl shaped. The motor and hence the impellor is spinning very fast, so it is being thrown very hard.
+Thank you for the explanation...
+Wow. I am so glad I found this. Building a new house and first time I've ever had a well. My curiosity has been through the roof and thanks to you I can sleep without wondering: "how does that skinny pump work down there?"  Cheers!
+$400? It's about $3,500 now.
+A pre seal picture video🤣
+I don't think it was a temp sensor - I think it was a timer and when the pump INDUSTRY wantS you to buy another pump $400. that little white thing simply stops your pump from working - I found a similar "Non replaceable Fuse" in a shop vac that stopped working - it was just a little hole in the motor housing and I looked in and it looked like two burned ends of two wires.....I folded a penny to fit into the hole and press agains both wires and the vacuum worked for many years after that.
+My Franklin 3/4 hp just cost me $750. I’m not happy but that’s what you get when you live remote.
+you sound like me , i will keep this and that.
+That could be a name for a new soap opera, *_AS THE EMPELLER TRUNS!!!_*_ it could be all about the __*_LIFE of Deep Well Water Pumps!!!_* I suspect the MOSFET is to handle the high current draw if the pump. I have a video on my YouTube channel on how I made a sand filter for my well pump.
+Oh dear. Mine has also been in since about 1972 on the old property i have.  So i guess i can’t repair myself. Thank you. Saved me from wasting time.
+One of the biggest issues with failed submersible pumps is the installation of a piece of crap like the one you disassembled. The motor is a Franklin Electric product ( no issue with their motors ). The wet end however ( pump ) is a dumpster. Proper sizing and overall system design greatly improves longevity of the pump and motor. Power quality, frequency of starts, motor cooling, motor controls and water quality all factor into the performance and reliability of any system.  As soon as I saw the composite discharge adapter I had my doubts. Hopefully a professional grade replacement was installed in its place.
+The pump is just like a scroll compressor on modern air conditioning units .
+Prolly no filter, gets grime in it. Seals prolly wore out then water dmg. Just a guess
+thank you for showing us. how a pump works.always thinking if motor went out. could you put above ground pump and suck thru old pump????  low cost. ??? my pump getting old and don't want to replace it..thanks for showing how it works.
+Thanks a lot
+I just learn something new from ur disassembly
+👍Subscribed. this is awesome stuff. I'm gonna have my own work garage too👍🙏THANK YOU for inspiring.
+Very interesting.
+I just did an identical set up. Our system is 3phsse 415v motor. I have to replace the impeller pump end (not the motor) every 12 months as it gets clogged with muddy silt from our old borehole and the flow to our storage tank dwindles. I also cut one open but could not quite grasp the magic of how the plastic discs worked!
+Wow, that was great.  Loved the mystery ejecting sequence.  Everything I take apart, ever since I was 10 years old taught me to expect something under tension to come flying out. It was satisfying to see that rule still holds and I'm well over 60.  Anyway, I'll be paying someone to pull my submersible, though I do damn well want to do it myself.   "Damn well" ... ha ha get it?
+Isn’t the mosfet just to drop the voltage to the temperature sensor
+No way that's a 70's pump. It's a modern day Pentair Rustler series judging by the plastic head configuration. Probably not older than 7 years.
+since 1972 ??
+bro buy a new pump
+https://youtu.be/rVgDq7gB6Qg
+The sensor in there looks lie ka hall effect sensor, it probably senses the rotation of the motor/pump and cuts power if the motor doesn't spin up, and may or may not also incorporate a temperature sensor.
+The pump having an integrated check valve, does there need to be another check valve at the expansion tank?
+Hello there folks. Anyone know how we can find our well which is hidden under ice and snow at our new home in the North of Sweden? The pump has died and we know roughly where the well is, tried an iron rod to probe the snow to try and hear/feel a change but this area has so many rock that we keep on digging only to find a huge rock. Any advice would be greatly appreciated. Thanks
+Hello there folks. Anyone know how we xan find our well which is hidden under ice and snow at our new home in the North of Sweden? The pump has died and we know roughly where the well is, tried an iron rod to probe the snow to try and hear/feel a change but this area has so many rock that we keep on digging only to find a huge rock. Any advice would be greatly appreciated. Thanks
+1972 ??  Lasted more than 40 years ??
+I just replaced my well pump for the cost of $4k.
+If your area is anything like mine, calling the well company is dreaded. Guaranteed to cost thousands of dollars every time.
+The knowledge and work it took to invent and produce these mechanical gadgets amaze me.
+Knowledge is Power.  You should do a Saturday morning TV show. I'd watch it for sure!
+looks like Teslas patent turbine
+Thank you
+So when water leaks into the 230V motor, why aren't you electrocuted in the shower? Is there any fault current flowing?
+the pump could be seeing 100+ psi depending on the depth of your well system. that's why this design is required. the pressure required to push water that high is way more than a single impeller pump can provide. i just had another one fail today. we can't seem to get more than a few years out of these pumps for some reason.
+I believe that switch is a thermal overload designed to shut off the motor when it overheats
+submersible centrifugal pump...
+Thankyou sir
+Thank you for taking both the cost hit of the new submersible pump + the time to disassemble and explain the components of a submersible pump. This has value for many families. Well done.
+Do you feel you have a "big hose" that needs clamping with your "big hose clamps"?
+Just for giggles, grew up on a hill, the well was 440 feet deep. That would mean on the order of 250 psi at the pump!
+Thank you for sharing
+This is what I do. Work for hours and use power tools to subject tools and machinery to tear and ware, besides, self fatigue and sometimes injury. Result is accumilation of junk to probably use some time next century or my wife will thow away with damnation
+Good old Archimedes. That was my nick name in high school. Or was it Hugh Jerdon’ ?
+Turbine. Kinda.
+You have to be a fellow hoarder as I am to. Always looking for a use for old parts. Nice video. Thumbs up.
+my name is IDRISS frm chad, I want to know about one good pump to used in to my field. Thank you.
+Man, I thought I repurposed stuff...you are awesome!
+The hear of the heatsink activate the contacts maybe because is incloused
+I found it very interesting that no start box was mentioned at all in the vid.
+cool teardown
+Any chance you remember the rpm on that pump? Those backwards curved impellers require very high rpm to move their intended liquid or vapour.
+The motors are filled with water when they manufacture them.
+Dang i wanted you to cut open the motor :-(
+Very important video dear
+I was think thermal overload protection to prevent the motor burning up.  Simar to those on most electric motors
+Franklin Electric, the Old Jacuzzi brand submersible well pumps.
+Would it be possible to generate electricity simply by flipping the deep well pump upside down
+Im glad you did this so I didn't have to see what mine looks like on the inside.
+I believe switch is a thermal overload protection. The start switch is capacitor and separate magic timer in a box . Just so happens taking my pump out today ( only 8 yrs old) .  Sesrching too purchace pump and found your interresting video.i save parts too lol. When your a hobby machinist one becomes a collector to put it gently. Lol
+Great video. This comment (question) might seem silly, but I have been wondering---- if I have a submersible pump 50 ft from my house and 110 feet deep, is it possible to plumb a hand pump (valved off of course) into my main water line in my house for use if electricity is off. After your interesting tear down of a submersible pump do you feel it is possible to hand pump water up through the submersible pump, or is there something in the pump that would prevent this?
+I actually rebuild these forms living...well except mine are 250-2000gpm pumps. Kinda cool to see this lil baby pump
+that little electronic component looks like a magnetic relay
+Date code on the Franklin motor was April 2005. The pump was an F&W, probably similar vintage. So it lasted 13 years.
+Tnx bro !
+That switch you were holding that popped out the inside looks like a Silicon Controlled Rectifier (SCR)  they area high current/voltage switch.  possibly hooked up to a temp switch and would turn off the motor if overheat.
+The motor was limed up but that pump could have been re used if you had broken it down as intended for repair.
+Better hope that there is water inside since they are water filled and must keep that fill. There is a diaphragm that breathes water in and out dependent on expansion.
+A mans favorite line, I can use it for something! LOL
+Cool video... But I install well pump for a living and that pump isn't from 1970's. 1990's at best.
+Came across your video looking up info on well pumps. Good to know I'm not the only one who saves things you somehow know you'll use later down the line. 👍🏼
+great video. Thanks for sharing. https://www.diy-pump.com
+So that is a 2 wire pump rather than a 3 with a control box...
+awesome, thanks for taking the time and showing the steps the pump is taking to get water where I needed it!!!!!
+how much did you pay to change a pump? labor and pump?
+thank you,  much better info than pump diagrams from the pump suppliers and makers.
+Thermal overload switch
+What this Submersible is from 1972 03:08
+40 something years underwater. Amazing build quality...
+Haha I did what you did  A year ago it’s fun  Take a lot of time  Though I did not break any part of the motor
+If I wasn't on a shared well, I'd use a Brumby pump for my well.  It uses compressed air not electricity to get the water to the surface.  You could've replaced the motor and kept the pump part and had a backup for 30 years from now.
+Which part is damaged first?
+Interesting video, Ive always wondered about the inner workings of a pump like that.
+Not quite 70’s that’s identical to one I just bought at tractor supply company yesterday
+I had a Deep well Put in in the late '90s and made the mistake of going cheap on the pump with a 'rebuilt' one @ 1/2 Price of New (rebuilt was $400). Total cost of the well was $1400. After SIX Months I started getting an Inline Filter  i put in clogged with what looked like small particles of MUD and sent filter to the Locally owned company to examine. They said SILT that would eventually clear.. so I went with replacing the filters every Other DAY.    Finally after over Two WEEKS and my Plumbing starting to clog too... I took another clogged filter to another drilling Company to inspect. They (Two Man Company) told me it was PLASTIC (ABS?) . That the Impeller was breaking down. They came out.. replaced the pump (@ $800) with a Stainless Steel Impeller  and NEVER had a problem since .    BOTH Companies were  in business over FORTY Years but the First I used was Two 20-something BROTHERS.. (They took over from aging Grandfather... always arguing..very Unprofessional and NEVER Returned calls when I was asking for assistance. The second was The owner and his hired help ..very Professional and knowledgeable.    Saving Money NOW... MAY cost you MORE Later. I got what I paid for with the first!
+Hello .. can l put the pump motor  above the well depth 50 meters to drow  water?
+Very well done and instructive video! I just change my old (220 Volts-3 phase and 3.5hp) deep well pump by a new one in Argentina. The old one it lasts about 10 years of use for the irrigation. I think its burned because some high voltage peak. Thanks to your video, I learned what's inside and how it works. Thanks!
+Would bet you that you are correct FarmCraft101. Water got inside and corroded either the bearings or the laminations. Also, even if the unit is totally watertight condensation will fill the unit with water anyway. How long did the pump last you ???? The hose clamps are the hi-corrosion type heavy duty type. Great stuff.
+Thermal OL
+Great detective work, lot of engineering want to that pump.
+Who is motar ac
+I work on water Wells it's awesome you took it apart and were interested pretty cool
+oh cool bro thanks for this video!!!  i got 2 well pumps from the scrap yard for cheap and i wanted to take one apart to see whats inside.  found your video and saved me all the work!!!
+I run a well pump farm. We usually get them in as Aquarium or more often fountain pumps and then feed them until they are self priming and are ready to move to the deep well pump pool. Most often we'll sell them off at around 120 volts, but some we let go up to 240.   Your pump appears to have suffered from pulmonary embolism, which is brought on by filling your pool several times in a row, or throwing a washing machine party. I suggest only feeding your new pump clean watts and avoid any future water parties or late night bucket filling adventures. Pumps work best between 6am and after sunset right before dusk unless you can sneak up on them during noon when they are napping.  The part you were inquiring about is a simple proximity sensor. It's looking for other pumps in the general area. Most people think of the well pump as a solitary creature, but they have been known to pair up.
+No....  its a GIANT Light saber!!!
+How do they pump water in space?
+How much was the replacement with labor...did u have to replace the pipe? Thanks!
+Покрасить да выбросить!
+Thanks
+Is there way to check the pump before goes all together .   I am On a well like to know when to change the pump .   Hate to it just stop working .  No water at all would be a big problem .  lol
+those motors are designed to pull water into them from the bottom to help with cooling- the windings are in resin so the water will not cause a short- if the holes at the bottom of the motor become plugged pressure will build up inside, causing the ejection of the parts- the motor died from bad bearings-
+Can you change our the check valve only?
+I want to import water pumps and also cut off the contents of the diver.  Great
+Where are you from
+Power surge or lighting causes rotor to become stuck the stator should be smooth on the inside,you could have driven it out without all the fuss. They are called thermal overloads the motors are water cooled not sure in all my years doing well work if a bad motor has ever been dry? They should have reused the SS hose adapter even the SS clamps the wet end/pump unscrews apart wet end stacks can be rebuilt but age and cost better off new pump with a full warranty !  You need to go out on a few well jobs been more than happy to show you ..lol
+Cheap Chinese pumps from Zhejian Doyin pump industry are better.They cost only 120 Dollars(60+30+30).
+I would also be able to disassemble a pump, but then to put everything back together and make it work.  It doesn't fix you or me.
+2:23 be funny if another one plunked out when he looked LOL jk jk
+i can tell ur doing alot of guessing
+Thanks Sir Thise is Excelent videos  am Prakash From india i had some Franklin & Red Jacket STP s  i want spare of Franklin & Red Jacket STP can u sent links of Service Senters
+Explains why my new pump cost $400, thanks
+I’ve had stuff like this I’ve fixed but still didn’t use them again. Depending on the difficulty of getting to the part new just makes more sense. I took a pump apart that was drawing to much current and it was just a bearing.  The problem is even if I fix it the o-rings would need to be replaced exactly or they would leak.   The down times not worth the savings. It can be used somewhere less critical than my water supply.  I do what you did, scavenge parts.  Lots of stainless nuts and bolts and tid bits for future projects.
+Thanks for the tutorial!!! I do have a question,if the pump is incased in a stainless steel cover,why is it rusted?
+My God since 1972????  DAMMMM
+We paid 1200 to have our pump replaces last summer, The pump they charged us for cost 800, the same one cost 200 bucks at the local farm store, Never seeing or have removed a pump myself, I paid out, Next time I will do it my self.
+little bit like Archimedes screw huh?
+and your plumber pump guy shafted you, by charging you for a new stainless steel 1"  npt to hose fitting to put in your new pump, instead of using the one you have, you dont use hose clams on the well pipe you use stainless steel bands, you blow 2 or 3 capacitors (box on the wall) before the pump totally fails, the biggest rip off these pump guys do,, the sell you a 3/4hp 25 gpm pump, when your well recovery is say only 6gpm, GMHC  financing reqires a well recovery of 4gpm, so you end up paying big bucks for the 3/4hp 25gpm pump but your well only recovers at say 6gpm, the pump over runs your well and the presser switch kicks out on safty at 20psi so you dont burn out the pump, so you have to go down and manualy restart the pump to get it above 20psi, but they install the cheap presser switch with out the leaver on the side of the presser switch, witch dont have the safty 20psi cut out, and your well drops to low and burns out, and they get to come again and sell you a new pump, just a few short years after waranty
+Nice video good explanation.
+It’s a Franklin motor and they are water-cooled.
+Something springs out of motor *puts face in front of it*
+They tell you "Never mix electricity and water" as a kid, then you find out they've been stealing all the fun for themselves the whole time.
+How Does A Deep Well Pump Work?  It works well, thanks.
+I think the TO-220 package might be a triac for switching AC current - like a mosfet but capable of switching AC
+4Ø years seems ok, but not awesome. 😒
+My house was built in 1975 and i have a deep well aka double drop, meaning there are two pipes, oh i hope i never need to replace mine
+I just wish my $1000 pump would last 5 years.
+Excelente conocimiento, pensé en que la repararías, pero no me voy con mal sabor de boca, tengo algo mas en mi cabeza gracias men
+Interesting. Used to have troubles with one of these pumps. After just 7 months of use it was causing the terminal switch from my house to cut the power (don't know the correct terminology in English). Everytime it was plugged, instantly power was cut off. An electrician installed it without the terminal protection, directly to my house service connection and worked. Had to buy a new one, never knew why it did that
+What was the part number on the TO-220 mosfet looking thing? Could have just been a BT### series triac from the way it is wired. The bimetallic strip heats up, disconnects, and that disconnect only happens at a few miliamps, leaving the heavy duty beefy switching to the silicon. That way your heat sensor contacts will not wear out ever. Edit: I was almost right, it was only for the start winding.
+Its an internal submersible pump thermal, if your panel that runs your pump may have landings for wires from the pump. If three phase power wires would be black, red, white, seals would be orange and red, thermals would be black and white. The seal and thermal wires would be smaller gauge wire. I'm guessing this is a single phase with no pump seals or thermal besides the internal one to the pump which would act like a hair dryer when tripped it will take time to cool and remake the path of electricity a closed circuit again . Just my thoughts with working with submersible sewage pumps. I'm guessing as well that the pumps turn off and on by a up stream pressure sensor if the sensor senses psi is below 60 psi the well pump turns on. Great channel keep up the good work.
+OMG, 1972? Incredible! Look like from 2000's
+excellent video.  thanks.
+Now you can melt it down for metal parts XD
+I work on water wells for q living and this guy is a moron. Has no idea of what he's talking about. I guess anyone can make a video with no expertise
+If you want to burn one up in a HURRY, let it FREEZE in Freezing Weather.  The Pump does not "know" it is blocked with ICE and will run "against the ice" until it destroys itself.  Does not take long with it running against the ICE.  And then, if you are down at the DREGS of your well, and it picks up SAND, that GRIT will wipe it out.  But if you are down to THAT, you are about out of business in that "sand" will have to drill DEEPER or do without water.     I am NOT a "well guy" but have lived on a farm with a Deep Well all of my life, I am 67 years old.  Where I live we can get GREAT Water at 500 feet.  But many places not so far away, they have to go 1,000 feet or more.  Pulling that pump up from the BOTTOM is where the EXPENSE is.  They will last for DECADES if everything at the SURFACE is maintained and taken care of.  But just a few minutes of a MALFUNCTION can wipe it out.  Letting it FREEZE is the easiest screw up.     Anyway, GOOD VIDEO, I bet a LOT of people are interested in this.  Well, YES you have 2.7 K LIKES!!!  Just noticed that.  Ain't crazy about the Music at the end, but can turn that down.   Good Video!!!  BB
+They make motor replacements , I've never seen the stack of impellers go bad unless it sucked up a ton of sand .. the more impellers you have, the more head feet you get.. the deeper the well the more head feet that are needed to meet your gallons per minute requirements . I've replaced hundreds of them..
+We've got very corrosive salty water on our farm, and we've had to change out a few of those submersible pumps over the years. The pump side was still perfectly fine, its mostly plastic impeller parts, we've learned to just buy a replacement motor and couple it to the existing pump ellement.
+You may or may not believe this. I had to replace my deep well pump a month ago. It was installed 08/1988 and finally died. Luckily I bought a brand new one 13 years ago still in the box from a friend of a friend of a friend . For $50.00 bucks. I thought wow, hell yes, I know they aren't cheap. I tend to see the good in people, it didn't dawn on me at the time, but found out years later it's probably stolen. This is the place where I need to stop being so trust worthy in people. Yes sorry to say, I'm gullible.lol
+That is late 80 to early 90 pump I used to put them in so even twenty years is great. I'm surprised they warranty a twenty year old pump never heard of that. An besides the well has a lot of iron in it you see that red on side of pump that's iron in well stainless doesn't rust that's from well.
+Not more than 10 year's old...
+3:21 the moment I realized there wont be a repair!
+Can a 1kva stabilizer be used to bust the voltage for 0.75hp  pump?
+2:22 This unit has a bad motivator
+I would love to see a side-by-side tear-down of a new pump vs that old pump!
+3:50 That's a Thermal Overload switch. It cuts power to the motor if the Temperature gets to high preventing damage to the motor. Overheating in well pumps is usually caused by either a bad bearing (starting to seize up) or debris jamming the pump impeller.
+Very nice 👌👍 🇧🇩
+bimetall temperature sensor to protect nearby objects (motor overheat , electronic part overheat) @ 3:45 . The electronic component may overheat when the engine is blocked.
+That Piece is Franklin's BIAC switch. http://www.franklinwater.com/more/news-events/news-frankly-speaking/2007/06/the-facts-about-2-wire-motor-design-split-phase-vs-psc/
+1972?
+At least you look on the bright side,its ain't much but least you got something  from it.Also it was informative and interesting  so thats good
+Cool video!
+Hahaahaha
+Canned motor, I know it. Thank you
+good job and I see you are like this video I put some calculator for  grundfos in / https://www.youtube.com/watch?v=dTQL6l1DuKI&t=122s
+Hi
+you can use everything for something.. lol
+Man that’s crazy,from 1972 until 2018  that’s about 46 years.
+if u got all water out it would turn
+Fantastic . Great Explanation,
+When was this pump design invented? Amazing technology! Great lesson, thank you.
+The pressure tank is the key to-pump motor longevity. Also look for a pump end with a brass or stainless discharge. Plastic ones usually crack after a few years of service
+I took a lighting hit a few years ago  and it blew a hole in my pump 300 feet down and shook the pipes so hard it broke loose the connection  on pipes 300 feet long
+Does the pump pump water into a pressure tank?
+I might have silly sense of humor but that shooting pimple made me in tears. I'm a serious grown man btw.
+very nice bro.
+Those motors are oil filled wit mineral oil new that keep all moisture out of the motor Electrical wilding and. Iinsulate and lube the Bearings
+Hi
+The switch contacts would be normally closed when the motor is stopped. When the pressure switch at the tank closes, current flows through the small contacts to energize the start winding in the stator assembly. As the motor accelerates  the small contacts open and remain so untill the motor decellerates to a stop. The start winding is what provides the initial torque in the proper direction.Without it the motor would  just growl and cook its stator winding, or posibly even begin rotateing in the wrong direction. The video doesn't clearly show the wireing path from the watertight connector plug to the stator switch, but I am sure you do not have a mosfet transistor there. The simple and rugged AC motor would have no need for such. It is definately part of the power circuit, but my guess would be a fuse unit.
+Nice to see the curiosity, tried to show the kid but really no interest in just learning how things work.  To me that is the most fun also.  Being on city water we can only experience the deep well pump teardown  from guys like you that take the time to film.  Thank you sincerely.    Lawson di Ransom Canyon
+And never to pump again after MR CLUMSY FKD IT.
+Thanks for this.
+Nice and informative video please do check #solarbasedwaterpumpingsystem
+You just know how to disassemble and  mostly people can do it but you don't know shit.
+Great video...smart guy
+I repair and replace these pumps and motors every day and I can tell you that setup isn’t more than 20 years old
+Cool ,never seen any one open that kink of motor before!
+bkwas
+thanks  so cool
+Thank!
+Nice work
+Thanks for the video.. I faced problem in my submersible pump.(1hp) I checked resistance in motor found ok. Further checked found pump electric panel card fault. So replaced the card now works fine..
+mine went out in May, 165 ft down it lasted 15 years. Got a 1hp replacement and that thing cost me $850 for just the pump and $300 to pull the well and put the new one back down.
+Thanks!
+May be LED temperature sensor. Now a days you can use LED temperature sensor with relay.
+Good Video .. thanks for sharing ..   ,   I like the way you think .. !!     Great minds think alike !
+The motor insides the well went out got an estimate of $4000 to fix it. Feel his estimate is way off
+This is a positive displacement pump
+30 yr.s later " Where the hell did all this crap come from, Bob? "  " I dunno…"
+I bet the new pump wont last as long as the old one, they don’t make them that long lasting anymore.
+Don't you hate it when small parts fly out at you?!  lol
+definitely not a 1972 pump at all..
+I love the AVE style green mat.
+If that thing was from 1972 ... holy hell, it lasted quite a while for something that is pretty much maintenance free. (Deep down a well hole lol)
+I use rods like that for  metal chisels . Just grind down a cutting head on it  even the small rods for punches "So its good to part it out" get some good nuts and bolts ect as well cause there stainless steel  Recycle the copper wires and metal
+It is fun and educational open up a fail pump. Thank you!
+About the temeperature thing... I think it's a Bi-Metal switch, connected to the Triac (Triacs are used to switch AC Power, MOSFET's can only switch DC). But i don't know why there are 3 Connection-Pins. Eventually this connections are Live, Neutral and the switched one, who is connectet to the Motor.
+Just replaced pump etc. $2,500.00
+I highly doubt that that pump was in youre well since 72'. Considering they only last about 25 years (if youre lucky)
+I am not a centrifugal pump guru by no means. But all the pumps I have ever worked on always turned with the vanes pulling fluid into the center of the pump, not pushing it out. To me, you explained the pump backwards..... I will do some research on this just to satisfy my curious mind.
+You’re very lucky today.... you can reuse them....
+@&9-8&(_+*+))+"!+_!)-8&$:2#_-
+The plug w/3 wires is for the start and run compasitor.  U have a 2 wire pump.  A3 wire pump has start and run located above ground.  (I prefer this type, easy to service.
+Muy Buena
+mine last 5 years at the most and all are water soaked to cool them
+Infinite ohms??  I am no electrician, but doesn't that just mean a closed circuit or "continuity"?
+Wow, only $400 bucks, those hose clamps probably cost that much by themselves if bought for industry.
+The thing you took out is not a temperature sensor if you put a pump you must put a thermic protector that cuts off the power if the pump is getting more amps than it should and it heats up
+FOCUS U FUCK!!
+my pumps been down in the hole for 40 years so I know the clocks ticking thanks for the tear down looks like an easy fix unless I change to surface top pump
+Prolly made in Siloam Springs, AR Franklin makes only the motor, not the pump... now made in Mexico...It won't last as long
+We share the same philosophy. Don't throw anything out if there is a chance that it can be used for something some day.
+The temperature sensor with the mosfet; Not sure, but I think the temperature sensor switches off the mosfet. The motor windings are connected to the mosfet, so when the mosfet is turned off the motor is turned off to prevent it from burning the windings. I think this becouse you just have two wires to connect the pump as you explane. So there must be done something inside the pump with the temperature/mosfet sensor and the motor windings.
+It's not a temperature sensor it is what starts the motor
+Interesting.  Lots of stages. In an industrial application, that number of stages, would produce hundreds of psi differential pressure.  This one works for a well though.
+My well is 600 feet according to above calculating pump pressure my pump pressure would need to be 260psi, sounds too high for my existing pump, going on 20 years now.
+That barb fitting is brass not stainless , cool video tho
+Imagine a go kart with that motor
+Interesting...I had a casing well and had to buy a new pump..Pretty sure its brand was yellowjacket....Every one in a while had to put air in the compressing tank..I think it kicked off and on between 20- 40 psi...Well was 45 feet deep and kept about  ten foot of water..
+The rubber and plastic seals cause most of the failures with the pumps. Sand in the bottom of the well can scour the impeller rendering it useless. Even with the long-term wear issues we replaced windmills with submersibles and have not looked back. The maintenance on the submersible electric is nothing like the replacing of leathers and the annual maintenance on older windmills. Plus, the old Aeromotor windmills were worth a good deal of money, people wanted them for their aesthetics which offset the cost of the new elelctric pumps.
+I am from Coimbatore, India and we manufacture millions of pumps every year.  Every 5 years the pump goes bad and we need to call them to fix it.  So the pump company charges us $350 ~ 400 in total for labor and new pump.  But you get the refurbished pump for half of that price.
+Many thanks for this video,super! Good music at the end !Regards,Ben.
+Hmm, I'm used to primed deepwell pumps, never seen one in the ground
+I think that the mosfet gate is controlled by the thermal switch.  The mosfet is running the motor current.
+is it just me or does no part of that reflect 70's tech. not sure a mosfet would have been utilized in that era pump as well as the multi stage abs impeller pump.  i've been wrong before but something just doesn't add up here.
+Well done, quite interesting.
+Very informative.  Question - after watching the well company install the new pump - would you think it could be a DIY project to replace one?  Thanks for the video -- I've wondered exactly how these pumps are structured.  We have a 30+ year old pump, I've been considering replacing it before it fails, its about 500' deep.   One would hate to reach SHTF and then have the well become inop.  Even under normal conditions it would be a problem, being without until the well company could do an install.   PARTS is PARTS.....   You think like I do,... what can I salvage for parts -- LOL!!    Most recent video on our channel was about salvaging a multifunction printer - amazing how many useful parts, numerous SS rods, dozens of useful springs, etc.  And the cost, if I had to buy those parts separately would be well above $100, ...from a broken printer that originally cost about $50.
+thanks I'll never sleep again
+Been working since 1972 ??? I bet they don't make them like that any more lol
+froze up and spent the last moments of it's life as an expensive heater....
+I don’t understand why a pump like this would have a temperature sensor.
+$400  lmao.... mine cost $1200+ on my 3rd or 4th one in 20 years.   Thanks!
+The resale value of that pump has taken a serious hit.
+It's probably a triac.  When power is applied the bi-metallic strip is in contact so the triac energizes the start winding. As the motor spins up it generates heat which in turn causes the strip to bend and opens the switch. This bypasses the start winding and the motor continues to run on the main winding alone.
+We have our well pressure set to 100. Makes for the best showers ever.
+Good d
+The white thing is probably the motors "internal thermal protection" (built in overlaod protection) it will open if the motor draws too much current.
+had one of those at the farm i worked at, 85 feet down, pulled it to change the pump cause the check valve failed. put in the new pump and added a check valve to the old one. two years later swapped out the newer pump cause the motor burned out.
+No way in hell the new one will last that long!
+The motor is made by Franklin electric, your pump looks like a Goulds or Grundfos. That pump looks like its 10-15 years old, definitely not from the 70s lol
+first...if you cant turn the shaft you are done. time for a new one. period.
+ahaha the impeller or motor failed.. you cant fix this ahahah.. you might make it work but it will never work enough for downhole
+My dad had a similar attitude to yours.  Well, so far as finding parts and materials to save.  Although he was a city boy, he was the first generation city hoy.  My granddad grew up in the country and probably still had the understanding broken things weren’t junk, especially living in the country in the early 1900’s.  But my dad wasn’t as interested in how things worked.  That’s me...also with the salvage gene.
+Be wary using a grinder with a gas can on the floor next to you. Good video- stay curious.
+I can only imagine what your property looks like.......
+my wild guess on the FET thing that popped out is that it's not temperature, but a motor start. Once the motor is up to speed, it'll disengage the start winding.
+great video ! I always wondered what was inside one of these. I've gone through 4 pumps in 30 years living in the Sierra foothills. Enjoy
+Nice! I've always wondered how they worked, I'm dreading the when the time comes to replace mine.
+Has been in the well from 1972, so 46 years. Yeah... In general you might be able to fix it, but how long it will last?
+I inherited my grandparent's house. They had the well pump replaced back in 1982 and just last year it finally broke and so lasted 36 years. The new owner of the same business who previously replaced the pump said the average consumer will NEVER get a well pump like they use to make. Now they are only made to last approx 15 years, most commonly come with only a 10 year warranty, and you're EXTREMELY lucky if they last 20 years... by reducing the quality of pumps, keeps businesses like theirs in business by being guaranteed to come back in 10-15 years!
+ours lasted from 1992 to 2018 it was a good one replaced it not long ago and yes they do cost about 400 took 3 people to do the job of pulling it all out
+Nice Homart fan under the workbench!
+When you pull high amps that's what trips that sensor
+I had to replace a pump motor that was a 2012 unit.  The well guys said that could be part of the problem, and if I wanted to save them coming back in the foreseeable future that I should just replace it while they were there.  They had one on the truck, a little more horse power, and went with new install. You always wonder about such things, but you have my decision easier to bare.  Thanks.  Love the fact that you breezed through all the tedious part of screw removal and other time consumers.  Good job.
+It would have been better to see the control  circuit (switch gear) of the pump Great video
+I don’t think that pump is that old
+Motor had it but you messed up a good pump
+I can't get over all the dirt and gunk. All that is being sent into your house, through your pipes, and into your stomach if you drink it. I'm pretty sure public water supplies aren't any cleaner, hence all the chemicals they add to it. Still, it's information I don't want to think about.
+so... why is that worth $400?
+very informative...thanks
+How do well pumps not get clogged so far under ground?
+i always wondered how a deep well pump worked - thank you!
+Looks like a P channel FET cuts power to windings when thermocouple makes contact between source and gate.
+Being an AC induction motor that TO220 package you believe to be a MOSFET could be a triac instead.  A triac is a type of transistor, but for AC instead of DC.
+Motor seized, doesn’t run, overheats, dies
+Great video / disection. Thanks
+I got about half way through the video and came to the conclusion that camera focus just wasn't a core competency, and I was starting to get a headache.  For close up work, I suggest the following:  - turn on auto focus - hold a "target" (clipboard with a big "X" on it) where you want your focus to be - while holding the target in place, switch your lens to manual focus - resume recording  Best regards.
+So the whole unit is submerged under water?
+Interesting autopsy!!!  Thanks.
+You did a good job with your video - it got to the facts without being boring.
+Thanks for the video...I just replaced my well pump in my 450 foot deep well. 15 psi for every 33 feet of well depth makes my pump output pressure about 200 PSI
+i work for a well water supply and water treatment system wholesale company i deliver Franklin pumps to well drillers daily and i can say they hold up pretty good too.
+Looks like the triac in the escape pod there is, as another commented, a biac switch, as described in the middle of this page:  http://www.franklinwater.com/media/124008/Page-10.pdf Apparently it disconnects the startup winding once the motor gets up to speed.
+A bit too quick to cut up the pump part. Are you really sure it's actually as old as you claim? Some parts did look a bit more modern than that. I'm not sure when the TO-220 packaging of electronic components appeared, maybe it was as early as '74 and then this must be one of the early applications for that. Notice that most electronic components have a date stamp on them consisting of year and week.
+that thing popping out of it made my day. probably the contact cant handle the current draw of the motor so the mosfat is used to turn the motor on and off with the signal of the contact switch
+You had lots of service. Be thankful.
+i have two old pumps out in the yard, your welcome to them
+the sooner you learn to wear plactic gloves the better off your hands will be when your old, the best ive found are 9mm thick black nitrile at harbor frieght, easy to put on and easy to get off.
+I'm betting the mechanical seal failed
+This pump has been quite cost effective; 400$ purchase price over more than 40 years, less than 10$/year for the pump itself (not factoring in the cost of the little pixies making it chooch).
+Wow, yours lasted a long time! Great video, now I know what to expect when mine fails.
+Fhasebuch is now putting ads into vids every three minutes for our pleasure and enjoyment adding to the front end ad we have to endure.
+Knowledge always has value. Be it good, bad, or indifferent. Its use will become apparent.
+that pumps maybe 20 years old
+What brand pump was that?
+I used to work at a nursery that had pumps like this to water the plants except they were 40 hp three phase 480 volts.
+We where down 326 feet.... once at ground level, it still had to then keep pump up hill 251 feet more (a total 577 feet up hill)  to our 8,000 gal holding tank. Where is would gravity flow back to the house 210 feet.  Almost forgot we had about 60+PSI  577/2.3=250.86 Pump was almost 8 feet long..  Pump was changed once and it took them 14 hours pulling pipe to get to the bottom.
+you have to much free time!
+I believe the temp switch uses a mosfet as a switch. Use very small signal to control a larger voltage.
+By Goulds Pumps   best on the market  FYI.  They aren't cheap
+Only $400.00? You got a good deal!
+Necropsy of a pump “the movie”
+Thanks
+I had what looks to be the same model of Franklin deep well pump go bad on me 5 years after installation in 1977, the electrical connector on the motor shorted out from water leaking in somehow.
+That switch is the mechanism that disconnects the start winding and energizes the running windings. The motor is supposed is filled with clean water with a bit of non hazardous anti-freeze so they don't freeze and burst open in a warehouse or building somewhere. The top "rubber part" is not a main seal and can be gone and still function. It is called a sand slinger. Helps to keep sand away from the top bearing. The swelling inside causing the rotor to be locked and not turn is most likely due to a power surge and swelled the windings. Seen it many times. I was hollering at the video saying the liquid end screws on. The liquid end was probably OK, though very few installers any more will just replace the motor only like we used to do 30 years ago. The liquid end will usually pump in excess of 100#'s in order to push water up the well and still create cut off pressure on the switch above ground. It takes 1500 degrees to turn the epoxy to sand and free the copper. Cost more to get a furnace to that temp than what it is worth unless you have a huge amount of motors.
+How can you determ if it was hit by Lightning or not.?
+hammer mechanic - just cut it open.  Next time ask a mechanic!
+Very interesting and I must say you have a special attitude of which I wish I had.  Thanks for the show.
+I was always told that the motors are filled with a toxic oil and you shouldn't mess with them.
+They can be either water filled or oil filled.  I would imagine oil filled is better.
+I hope my well will give me 43 years of service. Great video
+Really cool stuff. What made the biac switch just pop out?
+Oh I know that style pump all to well but bigger/longer, since my father has a son (me) he preferred to save money and do things himself with a bit of free child labor and a tractor.  We pulled all 800 feet. What a P.I.A.
+The next video will be a person who takes apart what you've made w/what you found, and then hear his explanation of how it worked and what he's going to do w/the left over parts :)
+It pays to tinker with stuff
+Broken thing, take apart, find good stuff, throw in bucket, repeat
+Bi-metallic temp switch - opens with over-heat, then trips the triac (solid state relay) to shut off motor power. Maybe. Just guessing.
+I love that your first reaktion when a thing shoot out of the motor, was to look into where it just shot a thing out from :D
+The hose clamps are there to connect the pump assembly to a plastic hose.  The hose also carries the weight of the pump and is subject to its starting torque.  Many submersible pumps are hung on 1" galvanized pipe.  If your pump has been in there for forty years, hanging on plastic pipe I would worry about the plastic.  Ask the people who put you new pump in.
+These Stihl screwdrivers had conquered the world
+Nice, I’ve been wondering how one of these works and seeing the insides is a plus!!
+It works buy  jfm.  That’s my guess before watching.

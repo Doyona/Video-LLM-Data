@@ -1,0 +1,287 @@
+The Display has nothing to do with this problem, your display was fine. The problem was in the cable connecting your display to the motherboard it's called LVDS cable. It would have costed you a 100$ maximum, but apple charged you a whole new 27"" display because they want more profit, and of course they took the 600$ and the old display an d gave another one. Anyway i hope your mac is doing great!
+I seriously suspect this is Apple's planned obsolescence so they can sell a new one every few years...
+My late 2009 iMac had a display problem and I took it apart and cleaned the display cable and it started working
+Two of my 3 imacs of that era started having this issue. Over here we don’t bother going to Apple to have them fix it, we just get a cheap another oldie MAC witha good monitor, and switch them inhouse saving runing with this big box, a lot of time, and significant amount od cash.  Enjoy your expensive now imac 2013...
+You said, "Bad parts can affect good parts." Not usually. But a failed test can cause other tests in a sequence of tests to fail if for no other reason that one test depends on the results of another. So then once the display was fixed then the GPU can be tested again to see if it still fails. And your case the GPU was not bad - only your display was bad. But maybe that is what you meant.
+Apple are scammers
+had the same problem with my 11,4 mbp. i fixed the problem by setting up the colorfilter in options
+my 2015 leaves imprints from the internet all over the screen, weird, screen saver helps, but can't use it all the time. It's like the internet bleeds out all over the screen, and if using multiple aps it gets real bad.
+MY DISPLAY IS BROKEN 300 EUROS DO REPAIR]
+Thx for the post. I am having the same problem with iMac M1 2021. That too within 18 months. Can you suggest options ? Other than going to Apple service store. ( Diagnostics shows no hardware issue and OS reinstall does not help).
+I have the same problem on my macbook pro mid 2014 and its a Retina display. It flickers after turning it on. When I turn it on its fine, but after 2 to three minutes of usage the issue happens. I have not hit my MacBook anywhere and the laptop has just been on my desk. I have tried all gpu resets, and all the different software issues and the screen has refused to get well. But when connected to another monitor, it works very well. So I don’t know whether the problem is with the whole screen or the lvds cable as told by someone in the comments
+My 2013 iMac just did this and I came on youtube and saw your video. Your issue looks a bit diff than mine. Mine was going complete white screen with a black box where the login is and I couldn't move anything. Then It crashed a program and flickers off on the sides.  It seems we can't do anything about it... but one thing I am doing right now... using time machine.  I really didn't want to buy a new computer just yet ( wanted to wait for the next iMac ) but, if I see this continue...then I gotta do what I gotta do :(
+Actually craint over mh computer
+That hurt! Great lesson.
+It just happened to me, I opened my iMac and replaced the cable, 25€ on Amazon and it works fine now
+i am watching your video with my screen flickering lol. exempt its displaying the windows 10 welcome screen on the top half of my screen, int splitters vertical lines... quite weird. no issue on my external screen
+Mine is a macbook air 2018 and it just started
+What's The Solution For Thin Red Line On Mac Desktop?
+i like your video editing and character. It's quite original for here. Breaks up the monotony of watching the TYPICAL youtubers
+My mac screen haves lines and i dont know how to fix it
+Is that bald Lester ?!?!?!?!?!?!
+I love the way you explain things in your videos! 😁
+I have a 2017 MacBook Pro and this same problem has just started up on mine this past week. 😒
+I really liked your video. I was suspecting the display cables of my Toshiba Satellite Radius P55W-B5224 laptop (wait a minute, why this guy is here, this is a iMac discussion!?!) for the same issue.  Your video posting and the discussion of @Y010 confirmed that I need to wait before attempting to replace the screen (which is more than $200 (because it is a combo of LCD and Touch screen) just for parts alone.  I hooked up my laptop to an external monitor via a HDMI cable and watched a movie for more than 1 hour, which was perfect.  However, it did not occur to me that for that one hour, it was damaging the laptop's screen, which I am realizing now since I had not disconnected the display cables of my laptop while watching the movie in the external monitor. Your video presentation style is great.  Keep up the good work - you and @Y010.
+My pretty old Sony TV got the same but worse screen Glitches with green, red and black colored lines bars squares and then it slowly gets darker and darker and then the screen went all black and the TV automatically shut down happens after every 2 hours everyday.
+hi, when you sent your laptop and got it back did it start up like normal? No issues since you fixed it? Also did you experience any loss of data?  I’m having the same issue and I’m worried about that happening. I have my stuff on iCloud but I’m just anxious
+My computer is acting just like this . I don't know what to do. mine MacBook is 2014 they say they can't fix
+The lines problem is fixed by restarting your mac
+Same thing happened to my macbook air 2016. I don’t think its worth repairing it so I just bought a M1 macbook air instead
+oi Everson! Tenho um macbook pro retina 2013 — muito bem cuidado por sinal — mas depois que fiz um upgrade do OS para o Catalina, algumas vezes os gráficos começaram a se desfragmentar. As vezes ficava tipo "mosaico cubista" que não dava nem pra identificar onde estavam as coisas. Você já ouviu falar de algo parecido depois de atualização ou será que a placa gráfica tá indo pras cucuias?
+Well I had that problem on 2 iMacs I had (still have one) but since they were old at the time I replaced them with a newer model. I couldn't find anything on the internet about the problem. Since I didn't want to pay repair half of the price of a new one I bought a recenter model. I have my Macs (from the first performa) till now always very long. The last I changed in November last year (cause no more updates).
+Man I wanted a solution not a story 😊
+1 billion dollar
+My 2017 model  bought just 2 years ago.   Going to pick up today.   Display failure too.   Hope it works for long term??
+Subscribing because I felt like I was listening to a children's story and it kept me interested! ❤️
+Im So Happy That Your GPU Is Passed
+The Reason Why Your Mac Flickered In Feb 2017 Why Becuase You Never Turn It Off
+I had a display on my MacBook replaced within the first year because of a hinge problem, then when it was getting near 4 years old it started getting a splodgy shadow in the centre, they reckoned it was “bruising” of the LCD, I believe it was due to the glue between the display and the light up Apple logo. I fought Apple for 3 months until they caved and had it replaced free of charge. It was only when I emailed Tim that anything really got done.
+you are weird
+Kinda crazy how i paid 3400 dollars for this fucking thing and never got the problem on a 600$ microsoft laptop.
+obrigado cara.
+My monitor is a Lenovo. And it happened just an hour ago. Disconnected it so it will not get worse like you said. XD
+this video has no useful information. what a colossal waste of time?
+this only happens to me (MacBook Air 2018) when I try to close a program & it doesn't want to close... so rarely but its happened 2 times now and im scared
+Same issue on Macbook Pro Retina  mid 2012
+I have an artifac & glitch screen error when using Cartoon Animator 4 software. I use Macbook Pro early2011 8 GB RAM, and graphic card Intel HD Graphics 3000 512 MB. Is it because of the insufficient graphics card issue ?
+Friends iMac (A1419 late 2013 27") ran into the exact same issue with the display being faulty.  'Apple Genius's' ran their diagnostic test and claimed logic board (GPU) needed replacing.  However, as I've learned from experience with vehicles, electronics, etc., I have a hard time trusting people despite their job title.   Powered the iMac, all 4 diagnostic lights illuminated green essentially saying all hardware is recognized and is communicating/functioning properly.  Plugged in an external monitor via thunderbolt -> displayport and long and behold, visuals were perfectly normal meaning logic board is fine.  LCD was the culprit.  I'm surprised the display goes faulty before any hardware, such a shame as this should be the last to go.  Had requested Apple to provide a quote on a display replacement, all 4 tech support agents via 1-800-my-apple said a quote was not possible and that I had to physically come into the store for a quote.  Had booked a date/time with Apple, went in store to obtain quote, their manager said they do not provide display replacements anymore for this iMac.  The option they gave was $1000 in-store credit to 'upgrade' to their new line of iMac's and toss the old one.  Had sourced a display (third-party) for $600 USD, everything works 100% now.  It's just odd that they wanted to replace the logic board for $500 USD (despite it working fine) which wouldn't have fixed the issue, and then they're unable to replace the primary issue (display).  Such a money grab, with their grossly inflated spinning hard drives, laptop hardware stuffed into a 'desktop' and unable to replace parts after 7 years.  Was debating on splurging on a Macbook for work as I'm mildly impressed with their software, however there are too many design flaws with cooling, and electrical pathways which make zero sense.  It looks like they're 'improving' however still going to observe from other peoples experiences.
+just dont buy macs
+tis i happening right know to my school mac someone please what should i do
+I have the same problem with my mbp touch 15. Actually I never had a mbp that never failed.
+Windows 10 It’s Show Yourself  “0:01 0:03 0:54 1:02 1:22 1:37 2:57 3:05 3:16 3:42” MacOS Broken Glitch Screen!?
+I need helpppp my maccc😓😓😓
+you haven't really advised anything!!!
+Nice story telling and yes I agree with others below; you have a very interesting voice that is fun to listen to.  You might consider sending a voice demo to Disney, Pixar etc and you might just get a role as an extra/voice extra.  My 2011 iMac 27" suddenly gave me the 'pink jail bars of destiny" during a Zoom lecture I was giving from home for my university, which was hilarious.  While I checked out your vid on the off chance it would relate, I ended up watching just because you were so entertaining. Points to you.  Now I'll need to go off to find my solution but I'm glad I saw this, it lifted my mood!
+Hi great video, I got two thin vertical lines, one red and one blue on the left third of the screen. I have got a mid 2007 20 inch iMac. The lines are there all the time, even when booting, what could be my issue?
+Wtf I just updated my 2013 iMac to catalina .. before that it was running mojave and everything was perfect and now it is having this problem all of a sudden ..  Now in an hour I have to attend a lecture and this is the only device I have
+My whole screen is covered in this ...
+I love how you told/showed this story!  It was also educational, and I got a few nuggets of information for Mom's iMac, which is the same one as yours and having the same issue.  Thank you for posting it.
+My new macbook did just that, I recently ordered it from the apple store and after I set up the laptop, the screen was flickering and the colors kind of distorted and saturated. Then I noticed faint white horizontal bars on the left side of the screen. Disappointed, I'm not sure if the delivery guy dropped by accident that caused that damage :/ plus I really need that laptop for school and work. I'm sure apple will give me a new replacement for that one.
+Its the magnets that suck the glass screen in it forms a magnetic field around an Electrical field I was affected b crful!
+Same happened to me right f now i turned it off and took an appointment right away ;/
+My advice, do not buy or repair an expensive computer. Always backup 2 places and check monthly if these backup devices are fine. Even HDD, flash drive, DVD or any type of storage can fail suddenly.
+Damn I throw away all my boxes! Good tip here.
+I recently got my macbook air and i hope this doesnt happen to me! 😣
+nooooooooooooooo the voice over is priceless i can’t focus on the video
+Bruh why you playing Christmas music 🤔
+Just had this problem with my Macbook 13". It slipped off the bed (not the first time) and then the lines at the bottom of the screen started. No damage, screen hinges normal. My first thought was a video connection to the display had come loose, not a processor or card failure.
+I remember last year happened 2 3 times; cannot see anything n showed glitcehs in screen. Then i tried a bit hard just for can restart/ shutdown, trying a bit hard for aiming restart/ shutdown (hard to see the cursor)  it went normal again after i restart/ shutdown. this is good video for me. Thank you
+You're too fan boss
+seems like a harry potter movie
+i paid 798 dollars for one key! my letter 'n' key was broken and i paid almost half of my macbook!
+I owned a macbook pro before. Had same problem, then i bought a new macbook air because i dont have the guts to repair as it was quite costly. And 2 years later, the macbook air had the same problem. And from wht i read, mac will always hav this display problem and it varies. It somehow makes me lost faith in having another macbook. Certainly not gonna buy an imac unless i will get married to a guy that could fix it for free for me. I wish apple could improve this problem though.
+I occasionally get random grey speckly screens like this  https://images-na.ssl-images-amazon.com/images/I/912MwmBzSoL._AC_SL1500_.jpg Maybe once a month, maybe less, that last for about a second or less. Only ever grey spreckly. Is that anything to worry about? What causes it, and should I get it looked at? Seems a rather minor thing but you never know, could be a harbinger of something bigger.
+Currently having this issue with a client's MacBook Pro A1708 (2016). I told her it was likely the screen, and that she could use an external monitor with it, but that a screen fix would be around $530.   Nice for all these issues to start JUST AFTER APPLECARE PERIOD ENDS!!!!!!!!!!
+It happened to my 15’’ macbook pro and they are asking for 860 € to fix it! Insane
+Your video was perfect and put me on the right track. Thank you it fixed my problem by plugging in my monitor cable properly. I will leave a full account with final outcome. My mid 2011 screen started flickering in Roblox games in the same way as what your video shows after I replaced the hard drive with an SSD. Part of the OWC SSD instal process(lots of videos available) was to remove and replace the monitor along with pulling the monitor ribbon cable from the tiny ribbon cable slot on the main board and then plugging it back in. The connection seemed sloppy when I put it back in upon reassembly but I thought it was good enough, how it's suppose to be and put it back together.  That's when my screen flickering problem started and became worse and variable over time of a couple weeks. I ran the Apple diagnostic using the D key on start up and no problems were found, but considering if there was a loose connection the diagnostic result would be variable on a given moment. I switched memory with known working memory, nothing, still flickering. Finally I pulled the glass, on magnets for 2011, unscrewed the 8 monitor screws, tilted out the monitor and properly plugged in the cable on the main board. Problem solved and looks better than ever. SSD upgrade was also simple and mid 2011 works like lightning.
+it happend to my 2011 macbook pro
+Wow.... so because you can't be bothered to realize that Windows isn't XP any more, you will continue to buy in to Apple's wasteful, expensive walled garden. You get what you deserve.
+ripping off people, literally
+I am having this problem since almost a year now. This flickering happens so randomly, I am now in India and no apple store is capable of diagnosing it. This is such a disappointment.  https://www.youtube.com/watch?v=WYZHQdpiDec https://www.youtube.com/watch?v=jfeVzvK3BLo   After 15 seconds or so it shuts off and if I restart, it starts fine with no display issue but fails again
+que llindo vídeo! amé la edición tengo un imac de 2011 que me gusta mucho y no quiero deshacerse de él ya cambié el hd, la pantalla. pero siempre pisca, yo creo que sea la placa de video.
+This has happened to my MacBook Air... Can I fix it myself?
+I have a 32 inch msi curved and have this problem only when I start up my pc, within a minute it's fine and has bin like this for months as my cover ran out last year for it, so will just see how it goes I suppose
+shit... i have same problem but it is not the worst like that
+Beware of the capital of Spain, Madrid is characterized by easy scamming in prices
+You sound like a narrator!
+Is this display problem common with this particular model or series from 2013?
+It happens an hour ago and my macbook display screen cracked due to the bump on the screen, even though the glass screen looks all completely fine. Tough luck for me as I’ll off to apple fixing straight off tomorrow 😣  My mac is really slim, if you know the macbook with rose gold? Yep, that one. Is it has to do with the durability? Like if the more thicker mac, the more stronger screen durability? (I heard it from my friend actually).
+Cute video! Well done :) I can’t afford to get mine fixed just yet so I’ll have to hold off. But thank you so much for the helpful tips 😁
+currently having this problem on and off. i had my display replaced 10 months ago for a crack (🤦🏻‍♀️) so im hoping it's still under warranty from the repair.... pray 4 me
+Hello there I had a similar problem with my 2009 IMac. It started with just a small horizontal black line about the middle height of the screen. I though to my self that it was just some dead screen pixels and it would not affect anything else. But after using it for some days the screen started to have flicking problems and screen refreshing rate problems. Then a huge blured screen appeared on the half bottom part. After a month of using 2 hours daily I got to a point that I could just see the start bar on the top of the screen. The mouse pointer only appears there and the rest is either all black or with a blur. One day I had a moment when the screen made a complete refresh. And all the elements of the desktop were there. But after some minutes the desktop items where on the screen but just as phantoms. The mouse pointer didn't passed down from a very small part of the top of the screen (The refresh rate was only at the above 2 cm of the top screen) wich made me able to see the start bar and a couple of desktop pastes. Unfortenly I don't have a backup of anything over the desktop (a lot of files). So my million dollar question is: How did the technician connected the secondary monitor to the Imac. That would solve my problem as I would then be able to remove all the desktop files into my usb drive disk. Many Thanks.
+Im typing this comment as my macbook pro's screen going bonkers
+My girlfriend bought me a Mac for Christmas, and the screen does this when watching youtube/netlfix. Never ever buy a Mac.
+i have the same problem with my 2011 27 inch imac but it does not happen all the time. it works perfectly then every so often the problem comes. i just turn it off and bingo it works fine. And it has been like that since i got it a year and half ago. i notice it happens more in hot whether and i am thinking it is an overheating problem leading to the distorted display. I cracked the glass screen and recently bought a screen / lcd for $80 so i might change the lcd when i upgrade the hard drive to SSD. I wish i knew what the problem was.
+my poor iPhone 5S was fixed by a pixel problem two times and still glitches 😞
+Yes, my 2011 21.5" began flickering when playing videos on facebook...and from general use. this started in the fall of 2017. a local shop claimed it was the display or the video card. they wanted $800usd to do the video card,so i tried the display.  it didn't help,so i had the original display put back on.   i wasn't sure what to do next.  a friend suggested buying a used one and clone the original.   i did that,and was happy with the new/used 2011 21.5"clone of my original mac.    i still wanted my original mac fixed. my music producer told me about a repair place called Evolve in Shelton, CT USA. They are top notch and fixed my mac. it has a new display and something about a back light something. $319 and it runs great looks like new!    they take in computers, fix and re-sell them.   i picked up a used, re-furbished 2009 27" imac which i love and will use for video creating/editing. i plan to add an ssd 2tb internal drive 24g of ram and an external 2tb ssd drive!  the story has a happy ending!  i also love my mac and won't go back to a pc ever again!!
+I bought a 2017 Mac Book Air and noticed that when I turned it on, it would briefly flash a screen of rainbow colours (not like the bars on a TV shown in this video at the start, but rather like a series of small colourful dots mixed together). Stuff like this started to happen on an old Mac right before the hard drive failed so i got super freaked out and demanded that Apple replace my new Mac. Then they took this mac back and there was no replacement because they were no longer selling this model (old stock). So I searched and finally found another new one. I now have it set up and have been using it for two weeks, and voila! same problem. Any thoughts on what this might be and if it's an issue that should send me back to Apple demanding another replacement or is it not a big issue and I should just keep this computer??
+Bruh, my screen keeps on flickering green and purple colors, please send help ;-;
+$3000 hong kong dollars for macbook pro 2015 :(
+Currently my roommate in university is experiencing glitching with her 2018 MacBook Pro without the Touch Bar. I suggested to her that it might be GPU or display related, as you mentioned in the video. Thanks for sharing your story with the Apple Mac community, even though we have yet to find a solution for the aforementioned technical difficulties.
+I’m sad mine is broken and my mom and dad are mad :(
+Woahh you have the perfect voiceover voice. I even forgot my MacBook is having issues for minute.
+Ahaha yeah I just got a MacBook Pro and literally 24 hours after I got it the whole screen was flickering and changing colors, very annoyed. If they don’t fix this I will lose it 🙃
+hahaha You are very hilarious dude! and also you tell the event very interesting. A thumb up!
+LITERALLY, THE EXACT MAC, SAME AGE, SAME IT WAS GREAT! AND NOW I'M WORKING AT HOME WITH BIG FILES AND it's BEEN GLITCHING.
+apple should be sued not paid for this!
+its too expensive ! is this product supposed to glitch like this. It cant be something that  you have done!
+Great OS shit HW
+Apple products are really good until you run into a problem, you start questioning its worth when you see the repair bill
+CHECK THIS VIDEO OUT: https://www.youtube.com/watch?v=nB172HJeM0w  Sounds crazy, I haven't tried it yet but the comments seem reassuring..best of luck.
+Life lesson - never buy apple computer again. I paid 2500 $ for this crap (
+This is why I prefer mac mini. It's much more reliable and practical to have separate monitor.
+for further mac problems take it to the Louis Rossmann
+I wanted to know if you have seen or heard of the White Vignet border appearing around the screen.  My I Mac 27" I have had for some time, late 2012 and when I came in today and pulled it out of sleep mode I had a very pronounced white vignet around the screen outer edges.  Any ideas what causes this?
+I have a screen problem too- weird coloured lines up the top of my screen so I can't access my hotbar
+how are you a geek? ffs
+Couple days ago my video card burnout. It  worked more than 2 years and I got full refund and now bought better video card =)
+i buy macbook pro 13 2017,having problem with the display,i buy around 1200$ brand new and 800$for replace the display lol
+iMac is bad computer
+I just bought a mac pro and a month into ownership I am having this problem.
+I have a problem on my MacBook Pro 2012. Can someone help me? When I go into a game, it has red / blue flickering dots (tiny pixels). It even happens when i'm watching YouTube. If you could help, that would be VERY MUCH appreciated.
+my  comupter    had  a  hard     war      was   bad
+i literally just banged my mac and it worked so-
+Lmfao true story this happened to me. But I just banged it at the bottom a few times and it fixed 😂😂
+help it happened to me i dont know what to do i dont want to pay
+Great video, brilliant story telling and delivery :-)
+I'm here for your acting prowess. My mac is just fine.
+same thing happening to me but its on my camera         (akaso ek7000)
+Everson, por que la señora no ha gritado al ver los 600 y pico pavazos de factura???
+Theres like blue stripes going up on my computer
+oh damn that's expensive... i'm not sure what to do with my 2015 mbp since I got a new mbp
+Love your commentary but advising 1st step is to pop down to your local iMac support is not the way to go unless you like parting with £££££
+Wow...very impressive. I want to be a story telling just like in my videos. Great job, this information was very informative!
+Anything repairable ain't free in apples eye
+ew macs
+-_-
+What country are you from btw? Just asking 😀
+This guy's the perfect combo! Great voice, humor, and story telling, and discritptions!. He's just great 😊
+Just bake the gpu
+PALOOZA MUSIC Galera conseguir resolver esse problema diminuindo o som de inicialização do imac. 21 segundos atrás
+Take out graphics card GPU n put it in oven for 8 mins under 200c..  Put it back to imac.  All done    YouTube : Mac baking graphics card.
+I watched this vid, curiously my screen has now and again, flickering horizontally, just maybe four lines it so fast to doesn't stay long. I took it to the store lol (its three years old and guarentee ran out in Jan 2019. They kept it for the day and said nothing wrong yet it periodically still does this , more so if I am playing SecondLife an on-line game which is graphcially a little demanding. If anyone reads this and can offer advice Im all ears :)
+very good video. thank you
+The display of my MacBook Pro 13' inches(2016 touch-bar model) has started to have some tiny horizontal lines. I can still do my job but I want this problem to be fixed before things gone really bad.  I connected to a monitor through HDMI and the monitor displays stuff good like the apply guy did in the video! I have also performed this diagnostic test(press D when starting the machine) and no issues found. I am sending it away on Tuesday in Athens, Greece and see what they will do.  If it's a display problem then the whole display needs to be replaced. There are some displays for my model in AliExpress https://www.aliexpress.com/w/wholesale-macbook-pro-a1706-screen.html. I also want to upgrade my mac to 16 GB. 8 GB is not enough as I use Android Studio, sometimes multiple emulators and other IDEs for the backend. Anyway, I will keep you posted in 10 days or so.
+Same problem plus other : files began to corrupt and finaly it didn't boot anymore. Replaced HD plus removed this scrap McOS, replaced by a pure Debian Linux. All works fine but... screen problem is still there. I will definitly NOT change the display.
+The third advice is: never ever buy an apple computer
+Necesito saber si puedo ir a hacer el reclamo en otro país diferente a donde yo compre el computador Gracias por su respuesta Lupita  Colombia
+My laptop has the same problem And  cost me a 10 euros was only the scren
+İsheep
+You are quite frankly AWESOME! Clearly a super positive person, very intelligent and thankful for everything. Very admirable. I wish you could teach cheap get arounds for DJ gear inventions - its such an expensive hobby!
+I have a same fucking problem on iPhone xs max
+I had the same problem with my mac and it was actually the graphics card that was defective. I didn't have to pay anything whatsoever and I was way past the warranty.
+Please Help me! My screen on my MacBook Air has thick black/blue lines, and they've gotten bigger! My computer overheats easily, beacause its 3 years old, but please help!
+I have this same problem right now :(
+Obrigado, troquei a tela e resolveu meu problema
+Welp mine is even worst its on full screen not half at first its a tiny little line then it beceame a circle then everything
+I'm also having the same problem on a 2013 iMac and like you I left it on most of the time. Maybe turning it off would make this computer last longer? Anyway, for 600€, I would rather buy a new one that replace the part as with a 2013 computer, more things will go wrong in the near future for sure...
+what  bunch of bulll shit
+I gave mine a big smack above and it fixed itself
+I paid £300 to fix the CPU, then this problem started to appear after.... any ideas ?
+flex did not work. I looked at the comments but unfortunately screen corrupted.don't give money to the cable in vain
+600 would be a reason to say Fuck u and never never buy an apple again
+I had exactly the same problem this month (November 2018) on my 2013 27" iMac purchased in February 2014.  I took it into the Apple Store, expecting a bill for £600 after seeing your video.  In the UK we have stronger consumer protection and it appears we are able to make a claim against Apple up to 6 years after the date of delivery.  This is on the basis that UK consumer law does not think it is reasonable that a top of the line £2000 computer should fail within 6 years.  Apple did not even argue, they offered to repair it free of charge without me asserting my rights at all.
+Linux os is better
+Excelente tu canal... suscrito y un me gusta!... saludos enormes desde Chile...
+the problem is you went to an apple store. thats an older model imac you can get parts for it and do it your self. yes i know you never open a mac and im going to get some slack on this. But i used to be an autherized apple technician i know the ins and out of that horrible company. the problem probably was the display ribon going to the logic board. but cant really pass out the screen neaither. either way you could had done this repair for at least 200
+Você é brasileiro??
+May this problem will be a lcd ribbon cable :)
+Apple world:guarantee never cover anything
+purchased 2017 MacBook Pro 15" with Touch Bar a week after had to get screen replaced thankfully it was free but then 3 months later had to get it repaired again logic board failed (again was free to get it fixed). I have started noticing that there are dead pixels showing up on the display again and screen is starting to flicker. :(
+My 2014 MacBook Pro had a problem with the battery expanding, is out of warranty and Apple fixed it for free (new top case/battery/keyboard/trackpad) + replacement motherboard because the expanded battery broke the part where a cooler screw lock on it.  When I reported on Apple Chat they won’t fix for free, but I complained again when they asked me how was their support and lucky me, after they look at my machine they decided to fix it for free. 2014 MBP is almost “vintage” so they probably want to use all remains parts still left to open espace.
+https://youtu.be/o2_SZ4tfLns this says a lot about Apple.....
+Meu caro, você precisa de um PC.
+The worst thing that has happened to one of my apple device is when I dropped my iPod which killed the screen
+Thanks for the share!
+my Mac is bugging out thin lines run across the whole screen in various colors and I need help
+Very cool video. Style.
+Im still on mid 2011 iMac, that one of the whole line of models with "problematic GPUs”(also have a MacBook Pro with same potential problem). It shows some glitches time to time, like flickering, pattern of blue pixels, etc... but not very often, like some times about just 5-10 minutes after "cold start”, and then nothing weird for weeks.
+https://appleinsider.com/articles/18/10/09/cbc-video-claims-apples-repair-policies-are-abusive-but-proof-falls-far-short please read and watch the video within it. apples unfair pricing on repair. And i have a same problem on my 13th inch macbook pro 2017 with touchbar and apple service asked me to pay almost 75% of my macbook price. It's really unfair for college kid like me.
+Easy Version to Fix the Issue : https://youtu.be/BYR36SjLpJo
+Taking your mac to the shop to get it fixed doesn't make you a geek.  A geek fixes it themselves.
+I turned on my Mac computer ( which is now 7 years old) and see a ? in the middle of a file in the middle of the screen. what does this mean? how can I fix it?... Thankyou in advance.
+My '18 iMac has odd little rainbow pastel colored rectangles all over any drop-down I open. WoW plays ok. They also cover other things on the screen. What should I do?   Model Identifier: iMac18,2   Processor Name: Intel Core i7   Processor Speed: 3.6 GHz   Number of Processors: 1   Total Number of Cores: 4   L2 Cache (per Core): 256 KB   L3 Cache: 8 MB
+my mac is where i play.my games ( idk why mac, couldve been windows :/ ). yesterday everytime i play a game through steam or wine, the screen goes black then theres a black line in the middle and glitching, and thus another black screen, i was forced to restart it. its weird the issue only happens when i play games. any help?
+i was having a display issue progress since updating my imac's startup ssd.  some research lead me in the direction of resetting the NVRAM/PRAM:  https://support.apple.com/kb/ph25631?locale=en_US  i'm hoping that the pixellating of the screen and the intrusive lines (horizontal, lower half of screen) are resolved and it does not return.  my first fear was the logicboard was jeopardized, but now display is working fine although people report a repeated condition in some instances after a few days of using this fix: https://discussions.apple.com/thread/7910215  if it returns next step for me will be to have a professional diagnostics check and the monitor cabeling rechecked.  i won't be biting at any system replacements of screen or components when i can see they're funcional.  i love/fear the genius bar b/c of good advices, but also known price gouging.  love your presentation of your story btw, and thank you for creating this place for people to discuss their experience
+Geek detour are you from Brazil?
+At the time of watching this, my MB Pro 13 has weird black lines all over the place. I logged in one afternoon and saw this. *Me: wait what the frik what is this* I saw these lines distorting the whole screen, horizontally. Luckily, I could still see the login bar and entered my password. I was hoping for the lines to go away. *Me: wut the lines still here?* I tried tapping on the screen to see what would happen. The lines either shrinked or grew. But by now, the screen was pitch black. I navigated (blindy, of course) with my keyboard skillz to the restart menu and restarted the computer. **3 minutes later** Okay, it got worse. So I'm guessing this is a Display error? Someone tell me if I'm right.
+I had a problem like that and I left my laptop closed and shutdown for a whole month. Then, I turned it on and it was fixed !!
+Geek detour why you didn't upload more video
+caralho seu sotaque é muito irritante
+I just restarted my MacBook and my problem went away myself.  I really got concerned watching this video.  Thankfully the comments cheered me up and also my problem vanished.
+when i went on a airplane they shattered the screen on my 2018 imac pro but its fixed now
+Costed me twice the price of my laptop to fix the screen I was too poor to buy a good performance computer so I just had to fix it for twice the price. By the way I was from your earbud cleaning video I commented about you being like HowToBasic but you sound better and completely explain everything in details.
+I just ran into this same problem. Turns out, some cable in my display wasn't making contact. It only took 6 FUCKING HOURS for me to end up accidentally bending my LCD in the top right corner just a *tiny* bit and BAM! The problem was fixed...
+my imac screen entered the ant :( am so sad (imac 21.5" 2017)
+Same for me last week. I was lucky and I was covered, but had to go twice to the Apple Store because the technic didn't made his job well
+This just started happening to my iMac 27" late 2013 too. Apple will not repair it and said I would need to use a local repair service. The local repair service quoted me $800 to fix the display!! What a joke! $800? I an purchase a brand new iMac for $1100.
+Geek tour why you don’t do YouTube videos ?
+Hi Geek Deour, nice to meet you!  I have a problem with my mac, is a large history.  One day, I using my Macbook Pro 13'' Mid 2012, (using Normal apps), I shutting down my mac.  The next day, the mac doesn't work, It didn't turn on and it not play anything sound.  I went to a Macstore and They said it is motherboard.  2 month ago, the mac surprising and work normally.  Before some hours using my mac, the screen did not work, reflected streaks like a tv when doesn't have network.  I turn off with de button and turn on again normally.  Sometimes, the screen do not work. Is probable Could it be the hard drive?
+Well crap... Guess I'm going to the Mac store >.<
+It costs my about 500$
+i ma having same problem but my screen has degraded more !!!! help
+I had a similar problem with my mid 2010 15inch MBP. Apple replaced at no cost to me the motherboard and GPU, 5 years after purchase and 1 year after the repair program ended. Its now 8 years old and runs perfectly, albeit with 256SSD and 8GB ram upgrades.
+i have the same problem but with laptop idk what to do please help
+My computer is similar to yours but mine is even worse can you make a video about it?
+I had a similar problem with my 2013 MacBook Air screen. I took it into my local Apple store and it turned out my logic board was corrupted. So I had to replace the display clamshell and logic board, which totalled to ~$1200. Luckily, even though my warranty for the mac had expired, I didn't have to pay the fee as I was still covered under my country's consumer law and certain events transpired so that Apple had to cover the cost of the damages (phew!).
+My 7month old Mac Pro - is still under warranty. I spilled a little water on it. Now the "ON" button on the keyboard does not work. The screen seems to shake when I physically move the computer for some videos on youtube but not others (?!)..! I believe that if I take it to support, they will discover my "spill" and not cover the cost of repair under warranty..!
+You are awesome man.. nice video
+The flickering occurred with me too. And i had to replace the display, it costed me ₹5000. I dont know why did it started. Why the flickering occured?
+you video helped more that apple store guy. Thanks for such nice advice
+this is happening to my MacBook Pro and damn let me tell u it has only been a year and a few months, apple please fix this 😶
+What did thy tell you as to what was the issue and what was changed.
+Why did you stop uploading videos YOU are AWESOME
+Very funny and informative. Thanks. And am still laughing. I would definitely recommend you to friends and the tech community here. Cheers.
+I like the way how you tell a story and the use of music. I am your new subscriber!
+I love the way you tell your story
+https://support.apple.com/en-us/ht201295  Before you take it to the Apple Store try resetting the SMC. All you have to do is shut it down and hold control + left shift + command + power, while the computer is shut down, turn it on and it should work again.
+Hi im ifrom sweden
+I loled at the big screen looks great on your table, not so great to carry haha
+Same problem on macbook pro, they are asking for 500euros and i bought this for 1000euros..
+weird lines pls help me
+My macbook has similar issues. Too fix it will cost half the price of a new one, so frustrating! I know the issues is probably a small one and Apple will replace the whole screen and take my wallet ~ thank you very much! I have had to send this MacBook in twice now! I really think quality has taken a dive lately and apples 1 year warranty is insufficient coverage. I think issues like this will cause their customer base to rapidly shrink if they don't change policy somewhere soon.
+We have the same problem with our Mac how much is the cost to repair?
+Why don’t you upload anymore?
+On Android???
+Uma pergunta, quando vc ligou o iMac em um monitor externo, a tela no iMac ficou normal? A tela do meu MacBook Pro tá piscando com Umas luzes estranhas, mas Qnd eu conecto ele via hdmi na TV, tanto a tela na TV quanto no MacBook ficam normal
+😙😂انا من السعوديه
+Do you think this defect (flickering) is intentional? Looks like a hidden program running to flicker our iMacs. Apple got caught already slowing old iPhone​ & iPad devices. They want us to buy new iMacs. 2011 models still work fine.
+Where have you been? I miss you making new videos
+I love your videos! Why did u stop posting ? :(
+Hola, estoy muy decepcionado con Apple, tengo un iMac 27" comprado en 2013 y me está pasando lo mismo, y eso que me cambiaron hace 2 años la pantalla y la placa a través del Applecare debido a otro problema con las imágenes. Creo que no es normal que en un producto de la "supuesta" calidad y precio de Apple tenga un fallo de pantalla o tarjeta gráfica 2 veces durante 5 años. Resumiendo, muy decepcionado.
+The problem is overheating...
+my mac book has also flerking r blinking after 5 min ..tell me solution plz
+i am having this same trouble with my 27" 2013 imac. i just got it 2nd hand 1 week ago. 1/2 my screen is totally distorted with lines.
+Need a another video pls
+Hey do you not publish videos anymore?  : (
+Eu já vi este defeito em alguns lugares, seja em vídeos e amigos. Mas não em Macs, apenas iPhones. Não sei se é porque é a mesma tela do Mac porém nos iPhones ou se sou eu que estou viajando hahahaha  E mais... e seus vídeos? Você voltará a fazer vídeo quando? Eu adoro seus vídeos =D
+Great video! Liked and subscibed your channel! Greets from Poland and merry christmas!
+WHERE HAVE YOU BEEN WE NEED MORE VIDEOS!!!
+I have the problem too on the MacBook Pro touchbar
+It's happening to me Mac right now! There are a thousand white lines forming a box of shaking lines with a duplicate of the top of my screen. Like right now the box has this comment in it.  It also has this set of multicolored lines at the left side thats going vertical. This Mac is only about 1 year old and my friend's bugged animation caused ALL THIS. So after I finish this comment I'll stop playing. It's very annoying I can't see anything in Star Stable which is the content I upload on this channel. This was a very helpful video, thank you. I will talk to my dad immediately and we are thinking of taking it to the Apple Store to fix, or just getting a new one. This was only $1,000 dollars as it was on a discount and it is only a MacBook, not a MacBook Pro or anything else. So this time we're fortunate!
+I’ve got a late 2009 27in. Imac for $175 last year and I love this computer
+my macbook pro has the same problem
+It just happened to me and I don't know how to fix it without any invasive methods...
+I think you got ripped off just mo
+And this is why I refuse AIO computers. Gimme a classic desktop so I can fix it myself ..
+Nice vid, thanks !
+I have a Apple led Cinema Display , it was doing this for couple months. I think a update killed the problem. Now have a problem with heat under windows 10, when in high Sierra it doesn’t get hot. I don have my cables wrap up, might loose them up some. The reason I wrap them up due to city irrigation cause sewer roaches to come out to play, don’t want them on the cable. I hate government , no reason for that in Arizona . Everyone a sprinkler system in their yards.
+My phone does something like that and the phone clicks random letters
+its flashing balck and white as ai watch this
+Today I was watching YouTube and left my computer it had turned the screen off but when I shook my mouse there were different colored lines covering my whole screen but mine is not a macbook
+im having the same problem with my macbook pro late 2012 , flickering and yellow screen
+I also have this problem. It just popped up recently. After upgrading my OS. It only happens to me with netflix.I have the Macbook pro retina 13' 2013 version. I am planning to switch to the newest macbook pro but i am afraid of what kind of issues it might have in store. lol   this is my second macbook because i got this replaced by apple because of defective speaker problem during 2014 and since then I didnt have any problems with my mac until early this year. my new macbook that was given by apple in replacement of the old one had the same speaker issue and now this display problem on netflix. I did not bother to bring my mac to the apple service center here in the philippines because its so much work and time consuming. It took me a month to get it fixed and another month to receive a new laptop for replacement. Imagine how much work I couldve done with it. Thats why I rather buy a new one when my macbook breaks down.  I think this macbook pro version has a lot of bugs to fix because ive searched solutions to my speaker and display problem and the fact that im not the only one having the same issue with this model, its very disappointing. I won't recommend this model. I'd rather buy the latest one.  I really want to try and purchase the new one macbook pro, is it worth it though ? and i also hope it does not have that much of a problem.   If anyone had the same problem let me know thanks
+When i saw the video i expected at least 100k subscribers, video quality is awesome 👏
+hello !!!!!!! i will give you a really good news if you are on the EU community , it is a consumers right that protect us for thinks like this  in the uk is call electronics consumer law and the period is up to 6 years  so you can claim for manufactures fault .You can claim your money back  $$$$$$$$$ we do run a small apple repair so i know  for sure  https://www.apple.com/uk/legal/statutory-warranty/
+If I have warranty on my Mac would they do it for free
+Hi Everson I have a flickering issue on my macbook 12" retina display. It only happens with light colors and white background like google for example. It starts to blink fast with gray but only when it has a white background all other colors dont blink. I have inverted the color on the display to be able to work in it but I don't think the display is bad. I have no money to replace the display. I am unable to record it on camera or screen record the error. It can only be seen with the eyes aparently. Does anyone have an idea of what could it be? They want me to pay $1000 from a $1500 macbook which I consider less expensinve to buy a brand new one
+oh man im having this right now. my imac started showing some glitch/artifacts on the screen
+Hey man, when the new videos gonna come out?
+Wow you're the best perdón in the world 😉😱😋❤️👍🏻
+sneaky linus petabyte is sneaky
+Olá, muito bom o seu vídeo. Comprei um Macbook Pro 2016 na Califórnia em Fev.17 e depois de um tempo de uso ele passou a apresentar um defeito como se uma "cortina" descesse pela tela, nesse momento todos os comandos de teclado e mouse deixam de responder. Na época fui 3 vezes a autorizada APPLE em Curitiba e eles alegavam que não havia problema algum. Agora a garantia expirou, e os problemas continuam. Alguma sugestão? Existe uma maneira de resolver isso de modo "caseiro"? Ou vou ter que me acostumar com a idéia de que não existe problema algum? Ahhhh, quando conecto o macbook em um monitor auxiliar ele funciona perfeitamente, inclusive o monitor do Laptop. :)
+If it may help someone, my problem happened on a 20" iMac mid 2009 iMac after I converted it to  a solid state drive. The LCD was really erratic and jumping all over the place and a lot worse than yours.   I was really careful about putting everything back together (so I thought) including the LVD ribbon cable back to the logic board, but I did not pay much attention to the 4 inverter wires because I assumed there was no way one could connect them the wrong way because I thought the connectors would not align or plug in and that they were specific to each set of wires, which was not the case. Moreover, I was told the inverter wires polarity didn't matter even if I connected them the wrong way.     So, I took the iMac apart again, removed the LVD cable and reattached it and I flipped the inverter cables around, put it back together and the screen was like new again. So, I'm not sure what actually caused or may have fixed my erratic screen issue, but it was worth a try.
+First off most likely they just gave you a new imac altogether and that's why they charged you $600.00 because they're blood sucking thieves.  Secondly you're mac was likely overheating because you kept it on all the time even if on sleep mode it's still working.   I had the same problem with my IMac and MacBook Pro, doing the same thing and I learned my lesson from not taking proper care of my devices. I did research and found out it was my LVDS cable that needed to be replaced and I replaced the thermal paste on both devices and cleaned out the fans and vents. Everything costed me $20 total ($10 for cable $10 for thermal paste). Yes it took work and patience but I fixed it myself and now my macs are running better than ever and on top of that it motivated me to upgrade the hard drives and ram that was in there now that I know the ins and outs of taking my devices apart carefully.   Asking apple or the genius bar for help is a big waste of time. They'll try to sound fancy like they know what they're talking about and then bend you over to hand over your cash to get a replacement that is unnecessary.
+I have no lines but everting is jumping on the screen....help
+So is my computer f***ed?
+This was cute good job
+I have the same problem on my Mac touch bar 15" 2016 is new one :(  . they will cover with the warranty ?
+Cara você é brasileiro?
+I Subscribed You!  [NEW] iMac Pro Coming in December
+I'm having the same problem right now!
+I was just using mine it completely turned grey ??????
+Tenho um IMac Late 2013 27-inch. é logo após uma semana de ter jogado a caixa fora você posta o vídeo. admito que estou com um pouco de medo! to torcendo pra ele continuar saudável...
+This guy had the same problem with his iMac 27: https://youtu.be/If4HyfaTYHg
+My laptop go to updates is a windows computer and it gets 75% than freezes idk why???
+Amigo por que não faz conteudo em portugues? Abraços do br ;)
+what type of headphones do you use
+that iMac got a long way though. it went from Burn in to GPU Fail
+What program do you use to edit your videos?  Also do you think that Apple should cover these defects? Great video and it was very informative. Thank you
+The Display has nothing to do with this problem, your display was fine. The problem was in the cable connecting your display to the motherboard it's called LVDS cable. It would have costed you a 100$ maximum, but apple charged you a whole new 27"" display because they want more profit, and of course they took the 600$ and the old display an d gave another one. Anyway i hope your mac is doing great!
+I watched this video again because 1:53 😂😂😂 it was too funny
+I love this man's voice
+Those are tho ONLY moments I kind of regret by not using some ordinary, highly modular, PC. In a normal PC world, a brand new 1440p 27" monitor would cost around $300!
+Your voice is like rough silk going deep in my throat....love it
+This happened to me once on my 5k iMac and it was really expensive to fix
+Sometimes you are lucky: like when Apple replaced my expanded-battery-iPhone: https://youtu.be/fYzfGh7n2I8 That was 2 years ago... now everybody is telling me it is costing around 80 bucks to replace the battery on the Apple Store. It seems I already used my share of plain luck :(
+My iPads display is ruined...

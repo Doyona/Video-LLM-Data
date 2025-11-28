@@ -1,0 +1,45 @@
+This vid is perfect thank u this was exactly what i needed to finish this job i got stuck on
+To be clear, he is confusing the A and B Ethernet wiring standards. B starts out with pin one being orange white pin two Orange. Also, for phone\fax line one, pin 4 is Blue and ring, pin 5 is blue white and tip.
+will your data still do 1000base t?
+If you want fast internet in your home, don’t do this. You’ll limit yourself to 100Mbps — ISP connections are much faster than that these days.
+do i understand correctly that with this setup though, your data connection will be slower or have less bandwidth because the data jack (rj45) isnt connected to all of the possible wires in the cat5e cable?
+Thanks for posting this -- I'm moving my DSL line down in my basement where evey thing else is ...the builders put it up in the ceiling running with WIRES and my signal keeps dropping ... SO, I ran NEW lines - I needed to know how to hook these up. I do not have a home phone - so -- this is a informative video !!!
+Sold this and Jack I know how it works!
+After you make this modification is it possible to run PoE on the CAT5 cable to power an access point or other device?
+How do I connect help me out pls
+My switch as 4 colours blue green red yellow  My cable as black green red yellow with white with each
+this only works with 100Base-t reduced speed not with 1000Base-t and 2500Base-t
+Hi, I'm kinda confused on how ethernet in can be split into ethernet out and phone out? Is this a VoIP thing?
+How do you tap that to the dmark?
+wouldnt this cause interference on the line being that they are on the same highway
+Hello there, my exsiting  room have rj45 jack for phone , so how i can connect two phones on  that single rj45 port? isit working if i use 5 port switch  ?(networktype normal)
+hi Danny, there is any external adaptor nowadays that I can apply? I have a Cat 6 socket but I want to plug a telephone and i dont want to open the socket, i am looking for an external. thanks
+Hi Danny, could you please provide a link to the face plates in the video. They are so neat
+even if your DSL modem is mounted beside the cable modem, you terminate with both an RJ11 and Rj45 on the same cat5 cable? how do you crimp those heads with no coax sheath? you'd need the same keystones on the other end to plug into the modems... how is this "easier"... just run another cat5 thru the wall.
+Am I to understand that I can use ONE CAT5 cable for a phone AND an ethernet line at the same time??  I want to install a WiFi Mesh in my house which was wired 20 years ago with a single CAT5 cable to each room. I would like to use the CAT5 line to "backhaul"  my satellite nodes to the main node in a couple rooms but I have a dial tone on every line.  Is this possible to do?  Any suggestions would be greatly appreciated.
+if you wired as labelled in your diagram with red matching white/blue and green matching blue it isn't going to work.. red=ring green=tip blue=ring white/blue=tip = line 1.. black= tip yellow= ring , wite/brown=tip brown=ring.. the 6pin connector has 3 pairs and the colour coding excludes brown as brown is the 4th pair. It allows fpr 3 phone lines.. The ouyermost being line 3 = pin 1,6  line 2= pin 2,5 line 1= pin 3,4  line 1 is always red and green which goes on the innermost pins=  pin 3 and 4.. red= ring = blue = pin 3 and green= tip= white/blue= pin 4
+TP link Deco mesh Wifi uses daisy chain for its access points this is great , because now I can make the same cable in and out
+greetings from greece finally i found a video that shows me how its done!
+due to phone provider they will not run my phone or internet to my other home (500) ft away have to run phone and internet to t from the old home. how would i got about doing this
+I am trying to do this and it is not working for me and I do not understand why
+Sir . Is it okay to use cat5e wire in the telephone socket? #Beginner here.thanks😁
+what color do i use to separate phone and fax.....cat5e
+I think you have messed up your T568A and T568B standards.
+Hi! My dog ate my ATT cat5e cable that goes into my phone jack. Is this video, which was very helpful, who I can rewire the cat5e to fit into my phone jack for my internet?
+PERFECT....PERFECT explanation of home internet... thank you.... anything on getting an internet signal to an external garage with only a home power (AC) connection....
+Do I need to do anything on the modem side of the cat5?
+will this also work with a regular cat 5 line not a cat 5e?  and what is the mode number of the punch.  thank you!
+1. Use CAT 6, barely any difference in cost. 2. 100 mbit is way to slow, wifi is faster than that nowadays. 10 gbit via ethernet cable is getting to the point where its feasible to buy for your home network. I run a used 10 gbit switch and network cards from ebay for a couple of hundred of dollars in total via regular CAT 6 cables, works fine. The longest cable is 30m and it maxes out at about 800mbit. Normal UTP CAT6, nothing fancy. 3. If you have a single cable now, it's probably put in pipes inside the wall which makes it easy to pull though an extra.  4. There exists twisted pair cables with everything from 2 to hundreds of pairs, if you only can fit one cable, run one with fe. 12 cables (6 pairs) and split it in the end to ethernet and phone. 5. Who the heck even uses landline phones or faxes anymore?
+Great video! I am going to rewire my home and wanted to add phone and ethernet. I thought I needed to run RJ11 and Ethernet separated
+Hi Danny, are you aware of an off the shelf component that can do this without me messing with the wires? Thanks
+Is it possible to run both gigabit ethernet and telephone line over a single cat5 8 core cable? I just realized that in any network interface  (10m, 100m, 1000m), there is a transformer sit between the internal circuit and twisted pairs(8 wires), any given pair should be electrically isolated from other pairs, so can we run another signal across them(4 twisted pairs used as 4 wires to carry the phone signal)?
+Hi Danny is there a switch or router that you would recommend to split a cat 5 line into 3 or 4 computers?
+does the voltage from phone ever interfere with with data cables? even with the jacketing. thats why they made cat 6 with the with the built in shield right?
+Thank you very much for making this video.  I was a confused with the wiring the telephone and network cables in my home.  You are very clear and informative.
+https://www.amazon.co.uk/gp/product/B000PEMTYQ/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1  I bought this Ethernet splitter from Amazon to connect my BT Hub (router)  to the internet and telephone but one of the two RJ45 female is faulty  so i asked for my money back but because i wanted it for phone and  internet the seller refused to give my money back saying I'm using it  wrong it is for LAN not WAN.  However even when I listen to what he said  it is designed for LAN I connected my laptop to my PC and I got the  same result one of the female RJ45 is faulty.  So my question is the  seller telling me lies and can CAT5 be used to connect to the internet?   or is the seller correct?   Wentronic 68908-GB Pinout 2 x CAT5 Ethernet 1 x RJ45 Plug to 2 x RJ45 Jack  Product Description Other Characteristics:  Cable length: 0.15 m Cable standard: Cat5 Colour of product: Grey Ethernet LAN (RJ-45) ports: 3 Gender: Male/female RJ-45 input ports: 1 RJ-45 outputports: 2 Wall mountable: Y  Manufacturer's Description Pinout 2 x CAT 5 Ethernet 1 x RJ45 plug to 2 x RJ 45 jack CAT T-Adapter 2x 10/100 BaseT  Usable as port doubler for Cat 5 connections suitable for 10/100Mbit network connections  pinout: RJ45 plug RJ45 jack1 RJ45jack21 1 2 2 3 3 6 6 4 1 5 2 7 3 8 6 lenght 15 cm laenge 15 cm  Any advice will be much appreciated
+Where did you get your Fiber Optical Cable?
+Dude never wire cat5 for anyone. This is a good video of how not to terminate cat5. You untwisted the pairs the pairs for way too long.
+This might fly in your own home but in a commercial or industrial setting this is bad advice.  The end user would never be able to convert to VOIP or run 1000baseT on that split data jack.
+The diagram you showing is 568B, not 568A. Starting with white green green is 568A, white orange orange is 568B
+Thank you very, very, much for uploading this tutorial! Much appreciated!
+Hey thanks for the tips! Well done!

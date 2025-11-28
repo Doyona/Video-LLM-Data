@@ -1,0 +1,13 @@
+Ok, I totally new to this. Can you point with a pencil on the second and third scale?
+I'm reading it as .4713  what am I doing wrong?  In other words, I don't understand why you added .0005 to .0003
+I see the confusion. On mics that measure .001, the thimble has 4 marks to the next number. The Etalon has 9 to the next number which makes those lines .0005. Theyre trying to count them as a .001 mic. and itll be wrong every time. Count every other line as a normal mark or .001 which is 21.So my question on the Etalon mic. On other side of the Vernier, what are the little slit marks on back side of spindle? I think I seen 3 of them. Is that to limit the movement from expansion / contracting or.....?
+OK, I Think maybe some of the confusion is because all of the numbers aren't shown on the Vernier scale. Would you always  add the additional .05 to the measurement when using this scale? I think I understand, just want to be sure! Thanks for the educational video..
+Sorry Tom but how do you get .0001-.0009 readings on the Etalon? E.g. .4781, .4782, etc...if adding .0005 to the vernier? This is where I get hung up with Etalons, adding the vernier scale marks.I suspect it has something to do with the thimble marks, long or short. The "little bit over" past zero can either be added to the vernier as .0001 or .0005", depending on which line is past zero, yes?
+Just a thought... What if You used a scriber to actually point at the magic numbers You're talking about - as You say the numbers? Would've made the whole thing a lot easier to follow.
+So how was that 21? It was 23.....right?
+Where did the number 21 come from? Wish You could point at the actual lines when You mention them. Then, You would've been a master teacher. Now, You're only an expert micrometer reader. I used to know this, but Your explanation confused me.
+On a standard 1000ths of an inch, 1"-2" or 3"-4" scale micrometer (not Vernier) do you just add the scale size of the micrometer before the decimal, while still using the "pocket change" correlation? And if the spindle (the pennies) lands between two "pennies", do you just add a 5 (half) at the very end of the measurement?
+thanks so much..really helpful.....   I have a question ?   Im measuring a watch mainspring and the thickness read 1 then 6 Cents...  so that would be 1.06 ? then i multiplied that by 25.4 then divided by 1000 to get measurements in MM.. is this ok?
+Tom, Thanks... I love all your videos.  I must be blind.  I count 3 tick marks past 20 not one.  making it .4738  If I'm wrong ... can you show me what .473 looks like?.  HELP
+Where the hell you getting 21?
+unfortunately I ultimately must ask myself. Am I as smart as a 5th grader?  thx for this one, finally learned how to read it

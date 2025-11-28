@@ -1,0 +1,213 @@
+I made a newer version of this procedure. (in 4K too!).  And, since many of you have complained about my hand in the way during the punch process, I specifically moved the camera to the side in this video. https://youtu.be/hJWfdqhb4N8
+Thank you for this! My first time doing it and was successful on my first test connection!
+You forgot the little zip tie used to cinch the cable to the cleat of the jack for strain relief
+The punching is not shown properly what a pitty
+I got my LAN Management degree 23 years ago and never ended up doing it for a job.. did enough RJ45 that I don't need a video but never did keystones outside of a classroom. This video is great, thank you.
+Thanks
+Thanks but we didnt see inside contractor
+Best video of the back of someone's hand yet
+TOENAIL CLIPPERS - especially the ones that are straight work damn good in a pinch or for only a handful of jacks. Sometimes I'm a dope and forget to put my punchdown tool back in the bag I use for my network cabling tools but toenail clippers have been really handy and they work really good for dressing the end of the jacket. Another "alternate" tool that I carry is a pair of dog toenail clippers - the ones that look like scissors. I didn't start using them until after trimming my dogs toenails and had the idea strike me even though I have all the professional tools for the job I having doing cabling of all kinds for 30+ years and sometimes you realize that the pro tools could be better. Sometimes, you have correct someone who attempted to DIY or (F-it Up Himsely) and they didn't leave any slack in the walls and you just want to fix it, not pull new wire through God knows what, and you need to get really close. You might just save yourself a  few hours to fix a single bad pair.
+Best
+IS IT JUST ME? OR DOES HE SOUND EXACLTY LIKE SAUL GOODMAN (BOB ODENKIRK) FROM BREAKING BAD??? LOL
+Thanks a bunch for talking me through it - took every bit of anxiety out of it.
+*_Good job getting your hand right in the way of the push down._*
+with straight compotition o-O-g-B-b-G-br-BR , what style do we use ? B style ?
+hermano la herramienta de presionar trae un cutter parapicar los cables sobrantes no tienes que picarlo con la tijera no sabes trabajar con eso
+These video are very helpful, thanks for the valuable video...
+i dont realy understand about the A style and B style..
+What’s different about the punch down tool. You said you’d do it both ways
+Yes, thank you, the video was very informative about pairs of colours wires and where we have to put them. But you put your hand in wrong place when you used the tool for cutting. I couldn't see nothing in the more important moment to end de job.
+his hand is blocking the view , pretty useless dmonstration
+Can I combine two cat5e cables on one of these jacks?  I have two possible tv locations, so I want to run a wire from one jack to another.
+there are 586A and 586B.  Normally we have to base on 586B.
+it‘s a cat5 cable. No plastic bone.
+Cant see what ya doin' when ur pushing wires down because ya hand is in the way
+The problem I had when doing this project, was the cable wiring case was too thick pushing the wires onto the notch and it did not penetrate the wire. I splice a thinner wire further back to the thick wire and used the thinner wire into the notch. The category 6 network jack work great. Also, found this when working on digital phone lines, no dial tone due to no penetrate the wire to the notch. You must make sure the wire is penetrated the notch on the jack. This will save headache and frustration when the system did not work, when wiring is correct. Veteran Spoken 1st amendment rights.
+Ya, nice going!  We couldn't see you actually making any cuts with either tool because your hand was in the way.
+Your video was useful, thank you.  I would suggest for someone using the "free" punch-down tool that doesn't trim the wires, a pair of common "nail clippers" work great, and can trim the wires flush with the block.
+Hah! So THAT'S why that annoying piece of string is there!
+jiske haath me camera hai yo maha c hai
+Can I use a Cat 6A keystone with Cat 6 (not 6A) cable and it will work as well? Or do I need to match the cable to the connectors to the cable, so the cable is 6A, the female keystone is 6A and the RJ45 is 6A?
+Oh my gosh. All this time I didn't realize what the push down tool was for. Been sitting in my toolbox for years.
+gracias señor del vídeo, gracias a usted voy a pasar el semestre :D
+LOl you get to the punch down part and you cover the friggen jack.  lame
+This is like 90 percent correct until you get to the point of contact where it's wrong. The pair should be left twisted all the way till the point of contact. Then tested with a cat 6 fluke tester, that will pass or fail based on cat 6 specs
+Todo de lo que hagas no lo ocultes con tus manos. Le quitas puntos a tu video.
+A brand new razor blade will snip the excess wires off like they're nothing by simply bracing against the jack housing and applying a little pressure down on the wires.
+A carpet knife will do the trick. Use the back side to press a wire to the slot and the sharp side to cut the wire.
+Horrible video ... I opened this video to see how to use the tool and I don't see anything. Over 1 million visualizations for nothing and I am one of this!!! OMG
+Appreciate the video but in future try not to obscure what you're actually doing when you're doing it. Thanks
+idk what the fps of this is but it looks awful
+Thank you coming from the Philippines.
+good brothe
+thanks
+Por favor hacer la traducción en español
+Exactly what I was looking for thanks.
+It is difficult to see the connection of the wires obscured by a hairy hand
+Great video and touch every single critical points of being professional
+Thanks so much!  This was super helpful!
+Nice
+How to test the connection is there a product that can do that.
+great video really helpful
+Funny, you did not show how you cut the wires with the tool.
+Thanks
+I need your helpp!! 🤧 I have female to female ethernet, wire it up the same type? (I was prewired by networker - type A, but no internet so i tried to rewire these wire)
+Thank you very much
+thank you
+Thank You🙏🙏🙏
+I watched a couple of other videos, but this nicely, specifically, and precisely described. Something that I was looking for. Thnx
+Pandiut cat 6 female ends are much easier to work with.  No punch tool needed.
+Your hand is in the way . Can. Not see crimpdown working
+First timer here: So I rigged up my key stone jack /RJ45 connectors to get a successful connection but only receiving 10% of the speed compared to before... Any idea why that could be? I redid each end a couple times after finding an error in my wiring and finally got a signal pushing, just isn't quite as strong for some reason
+Should I use keystone jacks on both ends of the cable then use patch cables or use keystone jack on the wall plug and pass through connectors to a switch or router?
+That's a weird keystone ngl
+I used to work for AT&T and learned how to do this
+Just paid 50 bucks for the male jack crimping tool.
+So helpful. Thank you sir!!
+Terimakasih atas informasinya. Di mana beli alatnya?
+Great video, thank you for all your hard work
+For all you techs,can you use cat5  or cat5E on VOIP ? will see who really knows.
+You don't need to untwist to terminate,that bull
+very good video
+Is this jack used and wired up the same for Ethernet and phone terminal?
+Sorry but that thing is called (RJ45)  Edit the video title because it is wrong
+As if you would go to the effort of making such a well presented video and completely cover the part that is the whole point of the video?
+Thank you sir ….. AT&T tried charging me $160.00 to do this  Keep up the great work
+what about cat6a? Is that the same?
+You didn't show how to use the tool 😑
+Complete fail showing us the plastic tool.
+The wires lost their colors :(
+7:20 Thank you. All clear.
+Good tips. You missed putting the zip-tie on when complete to hold the cable to the jack.  That's what the 2 little holes on the back of the jack are for.
+Thank you!
+amazing video, very well explained for a computer newbie like me :).. stay blessed.. keep the quality videos coming... <3
+Video is great.  Thank you. But I need help with mine. I can’t get the ethernet after doing this.
+Thank you
+OK, if I'm extending my router via wall jacks to support connection to TVs, amps, etc. then both end jacks would have to be wired different for supply and receiver termination right? hope the question makes sense. Great video.
+Thank you
+Can you use a cat 5 jack on one end and a cat 6 jack on the other end of a cat 5 cable?
+now I know why there is a stupid thread inside some cables..its not stupid at all infact very useful.. thanks 👍👍
+All i can see is your hairy hand
+Get a calibrated wirecutter 🙃
+the cable looks like cat 5e. not cat 6.
+So you just have to make if the engineer put the wires in his own pattern “for whatever reason” you just make sure wires 1-8 on the out are the as they are on the jack?? Ignoring the.colornorder put going by the numbers only on both? Hopefully that makes sense.
+I keep rewatching your great video. Definitely, educational. Hope to get up enough nerve to try. Thanks
+Brilliant!!! The most important part of the process and all we can see is the back of your hairy hands! Genius! What a total waste of time you dummy.
+I got a big box of those ends.  Cat 6 extreme , only used 3 in my house so far.
+This is very informative. Muchas gracias! 👍
+হাঁ হাঁ হাঁ........
+Its not a cat6 probably cat 5e as core is missing
+மகிழ்ச்சி 🦋
+Thank you for posting! I wired my house for internet and am terminating at bedroom wall. Thank you!
+Outstanding video!  I have done a lot of general purpose wiring on 110/220V circuits, but this is my first go at making up CAT6 cable to jack. Thank you for making this easily understood!
+Thank you for sharing your knowledge ,more power and GOD BLESS!
+Thanks you !!! it's very useful
+Some low voltage technicians ring their 6 and wonder why they have shorts and blame them on their new hires and they don't accept that it's their responsibility for doing it
+8:11 - What you are doing with the jack that is not visible
+Wow that saves a lot of time not undoing all of the twists in the wires. I started making a couple of the male ends and it is such a pain in the butt! Going to make the female ends and buy one foot male cables for the rest of the time!
+Great tutorial Saul Goodman! You sound a lot like him lol. Thanks though.
+At the most crucial point, the guy blocks it with his hands! lol
+Thank you
+অসাধারণ
+Thank you 🥰🥰🥰
+Hit mute and 2X playback immediately
+best video on YouTube teaching this.  Ty!
+thank you. Great video!
+great!
+Extremely helpful.  Thank you so much.
+Fantastical video, dude!!!  Been out the network game for a while, but wanna rerun some cat-6 drops in my crawlspace for a mesh network.  VERY informative & concise.  Cheers & keep up the excellent work!!!  🤓 🤓 🤓 💙💙💙👊🏾👊🏾👊🏾
+ভাই আসসালামু আলাইকুম, ভাই জানেরা সবাই কেমন আছেন, আমি নেটওয়ারকের   কাজ থাকলে বলবেন,  লেন, ওন,পিএবিএক্স, এন আইডি, হেলিক্স, আই সিটি ল্যাব, সহ সব যাবদিও সারভারে, কাজ ফাইবার পেচ কর্ড ডেসিক ওলমাউন টেন  রেক ছেটিং হার্ডয়ারের   সকল কাজ দখ টেকনিসিয়ানের মাধ্যামেয় সব, কাজ করা হয়,  এছাড়াও,কুরিয়ার  ফেছপ্লেট, মডিউলার, আরজে ৪৫কান্টের  সিস কো সুইজ, বিক্রয় করা হয়, কাজ থাকলে বলবে, যেকোন সমশা সমাধান করা হয়  ফোন,  ০১৯৭৬৭৮২০৭৬
+last fixing not in showing
+Can install two cat 6 cables to the same jack?
+For you who don't have a proper cable flush cutter, you can use your toe nail cutter
+Thanks Bud! You helped me move the jack from one room to the next in my house. Something AT&T tech told me was not possible, disappointing. little did the tech know;  the conduits were running CAT6 to every room in my apartment.
+OMG if I had to use scissors to cut the cables of every keystone jack I'd kill myslef. Network Advisor???? LMAO
+The most helpful video on the subject that I've seen! THANK YOU SO MUCH, I'm off to perform surgery on a keystone jack now!
+Too bad all I could see was the hand and not the actual work done.
+if colour coding  wrong  jack can be reuse
+So if you do A or B style on the jack and patch panel is there a A or B config on the accutal network cables you use to connect to devices and use as patch wires?
+Your to confusing for me. Didn't explain the colours that go to the pins
+Wish you explained where you put each wire to match the pictures and why...
+That’s a Cat5e cable they are way different than Cat6 and I don’t recommend scissors to strip down the cable because the blade would scratch the color layout on the copper I’d use a strip down tool and I’m punch down tool all the way Cat5e layout is way different than Cat6 because Cat6 are designed to operate frequencies up to 250MHz that’s way faster than a Cat5e that goes up to 100MHz and Cat6 cables are more expensive than a Cat5e and a Cat6 cable has a thick piece of plastic inside if it doesn’t have it then it’s a Cat5e
+your camera focus no good
+Whats tool for setting and cutting wires ?
+bahasa inggris bikin pusing padahal saya punya video penjelasan yang lebih detail menggunakan bahasa indonesia di channel saya  lho
+Thanks for this video! I got my office wired up and now have every bit of internet i pay for!
+Why not use plate that you can just plug the cable in female to female?
+your hand is blocking the camera
+stupid
+That’s cat 5e cable
+is not a cat6 cable :)
+To long to wattch..keep it simple
+Are there in-wall-rated or fire-resistant cables? Should they be used exclusively for home networking? For home use, the cables run inside the walls and sometimes through the attic surrounded by air or a lot of insulation or resting on insulation or stapled to wood.
+Come to find my rj45 wall sockets were terminated A. I already terminated the keystones in the network closet as B and the connection works. Should I re-terminate the keystones in the network closet as A?
+What are the consequences of using cat5 over cat6? If any are they dire?
+Thank you Sir!
+Can't see how you punch when your hand is blocking the view.
+I had cat6 solid and there was either using the this jack and the rj45.  The rj45 for solid is crazy hard to push it in.  So I went with this jack...much easier!  But you should put an aluminum tape around the jack because you might get fm radio signal.
+Decent video, thanks for making it, but I see a few issues, so consider this as constructive criticism to help you do better:  *1) Make sure the camera can see what you're doing.*  Blocking the view of performing the actual punch down action defeats a major point of the video.  *2) Make sure the viewer can see details.*  Hold items still so we can see details, and don't hold them with something else in the background.  You want good contrast so things are clearly discernable.  Showing the tips of the punch down tools are good examples, you waved them around a bit too much and held them above cabling and such.  *3) Terminology.*  Use the right word; for example, when you gave the very good tip about removing the cable's outer jacket, you spoke of damaging the coating on the individual wires.  Yes, it's a coating, but it's referred to as insulation.  I would have said "you want to avoid nicking the insulation", for example.  You can use other words, but explain what you mean, so the viewers learn the terminology: "the insulation, the coating on the wires".
+Great video!!
+Can you please post in the description what brand of keystone jacks those are? I had to bite the bullet and buy 10 from Lowes for 40 bucks. I know that is pretty expensive right? Also need a patch panel. I haven't done the home networking job for a long time so I had all cat5e stuff. But you cannot use a cat5e keystone jack with cat6 cable. That is from what I have read and understood. Can tell you been doing this a long time. What keystone jacks, What cable end thingy's, and what patch panel. Just need the brands. Thanks!
+Downvote, hands are blocking the view of how to use the puncher and trimmer.
+Can you re-use if you get it wrong, as in pull cables out that you punched down and try again
+Thanks for sharing! I was about to relocate my home phone by rewiring it through my attic. However, I noticed my old phone line that was established by the previous owner only used two lines orange and orange/white while others were not connected. So, since I am going to use Cat6 connector, should I still follow the same thing by only adding orange and orange/while leaving other colors loose?
+He mentioned getting the jacket as close to the connector as possible.  What I do is I separate the first wire from each side and then place them in the slots so they're straight out from the cable.  Once they're in place, it's a simple matter to place the rest.
+Thank you!
+I use a dog7
+what if i dont have a punchdown tool? is there any alternative tools to push down the wires? thanks
+if i got a cable with connectors and cut one of the connectors off would that cable work for this?
+You sound like Jimmy McGill from Better Call Saul
+If it took me that long to do 5 cables i would be fired! Alway b style. But thanks for sharing to the novices
+Thank you so much! I haven't done this in a very long time and needed a refresh.
+Thanks for sharing your knowledge 😘
+I have one in my house but I don’t know how to use it
+You forgot the cable tie over the insulation.
+Great video, first one I’ve found that explained the A and B markings. Thanks for sharing!
+Worst video, why? Because:  It's a shame about your hands blocking the punch down movement, the viewer doesn't see shit this way.
+i use blade to crimp it up and work perfectly now, so happy but i hope i can have a set of crimping tool to make it faster and more perfect.
+Wow
+Great video just a shame about your hands blocking the punch Down
+don't ask me why, but I'm missing the dust cover. Is that a crucial part? Or can I tape over it instead.
+BUT, CAT6 is harder to terminate, than CAT5.
+silly question - it is difficult to remove the terminations if you need to attach a different wire down the road or if you need to repair one?  Or.. is it commonplace to just bin that old one and use a replacement?  Thanks for sharing.
+Thanks for that clarification on the patch cable.  What about terminating shielded CAT5 or CAT 6 to a shielded jack? Do you have a tutorial on that? BTW your tutorial here is very clear and understandable. Greatly appreciated.
+Does the patch cable need to match the A or B scheme used for wiring these jacks?
+this was a great video. good angle,  instructions etc...thumbs up
+I think A is more widely used.
+This is Cat5 not Cat6. Cat6 has a drain wire and this is not showing how to properly mod a cat 6 cable. However, for Cat5 it is good. The only wires you actually use are the orange and green pairs. The blue and brown are for POE (Power Over Ethernet). When you wire the jack or cable ends, you should always use the B standard.
+A and B are both technically the same pin out so there is no difference other than that the colors are swapped (green for orange)  but you can NOT use both on the same cable A on one end and B on the other.  I was under the impression that A is older than B so its more widely used and since it's older all federal contracts are required to be wired using A
+Now im confused all I see is your hand
+you're a really really bad videomaker
+Dude! These are useful, but you have to find a way to film without your hand in the way. The jack, or whatever you're filming needs to be in the shot all the time! Use a mirror or a tripod!
+Great, thanks! Exactly what I wanted to know.
+What is the brand of your lineman snips?
+You cover it by your hand
+Will the cables be usable with any ethernet installation as long as the "a" or "b" choice is the same on both ends?
+You sound like Saul from breaking bad :D
+What about the ground wire?
+Yes, his hands are in the way. But if you don't understand how to use the punch tool then you should call a professional. It is not that hard to press down.
+here are the TIA/EIA 568a and 568b Wiring Color Codes https://www.computercablestore.com/tiaeia-568a-and-568b-wiring-color-codes
+Is there a way to push the wires down without a tool
+Cat-6 is quite heavier and has that middle plastic divider/insert.  More of a pain than Cat-5.
+Cant see the punching process... Whats the essence of watching this video, if i cant see what matters most ?? Please do another video probably with two cameras .. Thanks
+wut happens if u wire it the wrong way does it just not work
+The most confusing part of connecting the jack is understanding the A vs B style the color coding on the jack. You explain this part well in this video. Thank you.
+awutlet  like
+Damn it has to be hard pulling that cat6 through a wall..nice video though..
+Useless video nobody can see the punching process
+nice scissor lets cut director
+What
+What’s is the difference between a and b and what do you each letter do you use it for.?
+Thanks so much for this video, exactly the information I was looking for in a simple and effective presentation.  Just got a punch tool and am ready to install some network jacks.
+This stupid guy hide the important part of video behind his pussy hand
+Oh come on. What if i have 100 cables? I need a year.
+... fehlt da am ende nicht doch die zugentlastung mit einem kleinen kabelbinder ? und zum einbringen der adern und dann gleich abschneiden ist sicher ein LSA-Auflegewerkzeug besser geeignet als dieses tool ...
+Thanks for the video. Was so helpful
+I thought CAT 6 had a cross shaped plastic insulator separating the pairs. This is CAT 5.
+Great video.. If only you had edited out the close up of the back of your hand for an actual shot of the punch down tool..
+right on thanks man
+This video is very useful to me.  You explained it very well, I have few questions regarding this. can you help me if I PM you? please?
+Best tutorial video available in YouTube. Thanks for the video!
+How to know wich is the in and the out?
+perfect
+This helps a lot to understand how to do it, i'm sure you could do it with your eyes closed...Is there a program to use to Design your own home network system.. ie connect gaming consoles, TV computers all in different spots in my home?

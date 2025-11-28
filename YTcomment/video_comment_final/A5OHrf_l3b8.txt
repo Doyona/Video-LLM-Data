@@ -1,0 +1,42 @@
+you don’t have to ground your device ?
+Why does the ground wire have to be up if it's 36in or higher?
+In my house there is no breaker box, all wires are just mounted to hardboard and looks like spider on wall. Is there a way to fix a breaker box?
+Aren’t you required to ground to the box too? Everything I see shows grounding at the box in addition to the ground on the bus bar in the panel? Why, I have no idea.
+I like the pace and clarity of your video. We’ll done. Couple questions tho, does the box spacer also serve as cable clamps? Also, no grounding pigtail from receptacle to back of box . Can you clarify the grounding/bonding involved in this project? Cheers!
+Question: is the ground wire you ran strictly necessary in this panel, or is the spacer essentially a conduit, and that counts as bonding to the ground on the panel? My panel has separate grounding bars (screwed directly into the box) from the neutral bus, and I know conduit counts as an EGC here. I guess I may as well use my offset-nipple-conduit as the EGC if it's bonded on the same place.
+Wouldnt it simply make more sense to connect the wires to the breaker first and then simply flip the breaker so you only have to have your main power off for like 1 minute rather than 20 minutes while you set up the outlet?
+Thanks for the video, hope I didn't miss this in your video..... when replacing a main panel, if the wires are too short,  can a splice be added using wire nuts, where the wire nut connections would be contained in the main panel box?
+have a circuit breaker that now works in when in the off position, and doesn't work in the on position. I just did some rewiring, and am an amateur. I messed something up somewhere.  What could it be ? Is it dangerous ?
+Why did you choose a lower position on the bus bar for the new breaker?
+Can you run another outlet from the gfci?
+Why do we need GFCI for this outlet?
+Question: Why are knockouts so free difficult to remove sometimes? Is it a vicious plot to separate the pros from the newbs? Of all the DIY wiring I do it seems dealing with knockouts is a sure fire way to hurt myself, damage something or both!
+Do i have to take off the electric meter before i begin?
+SO you connect the ground AND the neutral to the neutral?!
+thanks....good info...but what if the outlet is on the 3rd floor....?
+At the risk of sounding stupid....why put both neutral and ground on neutral bar?
+Question!! The ground wire a neutral wire  go to the same hole ? You didn’t showed that clearly? Thanks
+Have questions regarding adding a breaker to existing box...no slots that I see available but the solar panel salesman is saying we can move breaker down for a new slot?
+I want to install my mini fridge in my home office but the power keeps tripping. Is there a way I can increase the capacity?   Very informative video, thanks!
+Hey FIX IT Have you ever though of doing anything outside of what your doing now to earn extra income?
+If i add a outlet for my microwave what size breaker & outlet size would i need?
+My breaker panel is outside, can I do this same thing outdoors? I was looking at my options the other day and seen these "outdoor" boxes but it had 3 1/2" threaded plugs on it. Would I just have to get 1/2 threaded pipe to attach it to the box? If so would I just stick the pipe through the hole in the panel then put a nut on the inside to hold it in place? What you are doing here just seems much more simple and would rather do it this way and maybe put some kind of waterproof cover over the outlet?
+Why didnt you ground the metal box?
+so wait. Wouldn't installing the neutral and the ground on the same bus mean that the ground wire constantly has a current on it?
+What's the easiest way to chase down and add a ground wire to an old two hole outlet to add a three hole outlet?
+So the neutral and the ground wire go on the ground bus bar?
+Do you think 8 gauge wire will fit a 15 amp breaker?
+Curious question, I'm by no means an electrician or correcting anything you did. Would it be better to attach the ground and neutral 1st in case of a mishap somehow, the voltage has a path to ground ? Thanks just curious.
+Great Video.  More of a code question, but I'm curious. I have a GFI outlet already connected to my box just like the video and I'm wondering if i'm allowed to run more outlets in my basement on this circuit, or if this receptacle is intended to be by itself per code?  Thank you.
+I want to change the receptacle attached to the main from an old one outlet version, to two outlet receptacle.   Is there any codes that prohibit doing this? Clearly your gfci is 2 outlets, not sure why there is a 1 outlet version in mine.  Your video had one too.
+hello,  one of the main ground  cable that runs from outside and connects to the braker box its almost disconnect it. the nut thats holds this thick ground wire is very tightly but the ground  wire is only connected by half of the wire.  can i disconnect this ground strip an inch and reconnect  it and not having problems in the circuits,or electrocution...?? thanks so much.  one ground connects to the braker  box (the wire to be fix) the other ground to the neutral bar.
+So how do you do the same exact thing as in the video - if the breaker box is set in the dry wall and studs are located on the side panels? Convention garage in the wall breaker box.
+I am installing a 50 amp breaker for my generator. I need to move two single pole breakers. The trouble is the wire comes in from the top and I want to move them to the bottom, however the wires are to short. Is there a way to lengthen these wires?
+Any particular reason you put the box up so high?  Most outlets are a couple of feet off the floor.
+Should neutral and ground wire be mounted in same strip?
+so if you ran wire like this through a pipe and put that into the ground you could route it to a shed near by?
+I need to do this in my garage but I'm having a hard time tracking down the box and spacers you used. Where did you get them?
+I have an outlet that is connected to a wire in the wall, but was not connected to the breaker. It was left free in the attic. Do I need to connect it to it’s on breaker or can I splice it in to the ceiling light?
+If my outlet isn't going to be right next to the box, would i just run the wires through conduit until it gets to where I need the outlet to be located?
+So the green ground u put it were all the white goes????
+Thank you for the informative video :) I have questions about the electric panel in my house.   Question : a.)   is there a maximum distance I can run a wire from a 15 or 20 amp  breaker to a run of 4 or 5  outlets and a light switch ?  I'd like to replace a yellow 12/2 residential wire (romex ?) w/ a grey  UF (direct bury) wire that feeds a shed / shop in my yard. Thanks for your generous consideration, sincerely ...............................

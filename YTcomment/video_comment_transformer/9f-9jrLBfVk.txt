@@ -1,0 +1,183 @@
+What charger are you using?
+how do you chg the batteries? will LED lights still work or will it melt them?
+Hi, can this damage the engine or some electric elements on the kids car mobo?
+What if you just have one 24v you want to swap with a 12v
+This looks like a worthy upgrade to a forgotten toy. I did this, but from 6v to 12v (Series). I put the meter on it and it read 13.1V but as we started using the batteries, only one of them would be discharged. I pressed the throttle with the meter hooked up and it read that specific battery go from 5.8v to almost 0v while the second one would still hold 5.8v. Is that how the in series set ups are supposed to work? We definitely reached more power with both batteries fully charged.
+Thanks for the vid, I'm thinking of doing this to my kids' electric motorcycle. It's a 2 engine 6v. I do have one question, can i stil use the 6v charger to charge the batteries or should i use the 12v one from his utv? I plan on using the plug in port on the bike. Thanks!
+How long does it take to rig this up?
+Hey im trying to make one of these go around the 15 -20 mph range, got any suggestions?
+What were the specifications of each of those battery you installed?
+How do you change  them?  Separate or you just connect 12 v charger in the charging port ? Thank you
+I dont get why we need a circuit breaker if the motors are the ones tLking the current.. can someone explain please. 😊
+So I did this and it came out awesome, only thing is after like 10 mins it sparatically shuts off and on ? It’ll go fine and all of a sudden kick off, he’ll wait like 20 seconds then it goes again…checked all wires and it’s all connected tight no loose wires? The wiring is warm though
+Can you put out a better pict of the circuit breaker or name of it.
+one question ( sorry for my language ) but : how do you do this without change the main motor? the original one has 12 v dc but in this case you  had cange the supply whitout change the motor.  usually the motor broken after a little bit time.
+Does the upgrade voltage extend the overall drive time as well?
+Could this be also done to a 24v to a 36v or 48v conversion??
+Will the rest of the circuits and lights work properly after they are supplied with 24v?
+If I hook up the batteries in parallel you think it would be a little faster , im thinking the 12V will be more stable under a load and able to flow more current...?
+How long did the motor hold up ?
+Single mom here. Would love to get a second hand car and fix it up. My question is if you install a 24V can you still control the vehicle with a remote? I have a 2 1/2 old daughter who loves cars so would love to do something like this for her but still need to be able to control the wheels for the time being. Appreciate any advice
+Can you please provide all the materials you used? I want to do this for my son's power wheel?
+Awesome video man!! Say, how would I connect the batteries to the power wheel is I dont have that black brick converter youre using? Or, where can I find the black brick you used to connect the between the 24v to the circuit breaker (white/ black wires)? Thanks!!
+Great Video, im trying to find this wire that you used to connect the two batteries together, any advice?
+Any idea how to take off the pedal asembly from these trucks /. thanks
+Where can i get a jumper wire to connect the batteries?
+One quick question for how much time can your kids drive a ride on car with one full charge
+Can we do this to dls06 cars... I currently have a 12 V car for my daughter she is is about a year old... She enjoys ride in limited power mode...
+What about the 12v motors? Are they able to hold the 18v, 20v and 24v power
+I know it’s been a minute since you made this, but I had to ask if you burned out the motors or the control board. Just tried to upgrade my knock off PW to 18 and instantly fried the control board. Curious how yours went.
+What model is this car?
+My friend do i have to get 24V gearbox for the car before increasing the battery power?
+When converting to 24v from 12v, does it need to upgrade the stock 12v motor?
+Did you have to change the motors?
+I have a 6v Porsche for my daughter can I do the same with that car, change it to 24v? I didn’t seem to see 12v
+Is the a possibility of damaged as the motors are 12v?
+Nice video. Have you tried lithium drill batteries?
+MatthewMCRepair do you have a video on how to properly charge these batteries ? If so can you please provide the link ? Thank you
+So what about charging of the battery
+What is that black box? Does that come with the power wheel?
+So if you convert from 12 to 24v the speed doubles. Is this right?  If you want it to run longer with the old speed just use a higher amp battery?
+Is that stock motor?
+Will this automatically make the device go faster? And if yes to going faster, is there a chance of catching fire, exploding, or even the parts failing? I'm only looking to increase the operating time.
+Is the motor rated for 24v? Interested in doing this but don't want to burn up the motors...
+I followed the directions, but when I connected the last wire something when POP and some smoke cane from somewhere (maybe motherboard). I disconnected the batteries right away and then connected just the single battery and the car still works. Any idea what that could have been? I did purchase the 30amp you recommended. I’m a little concerned about connecting both batteries again because I don’t want to fry the car. Any advice on what that could have been?
+Both cars were 6v originally? I’m about to upgrade my sons 6v to 12. Also how long does it last the battery in each use?
+Do you still use the 12v 🔌 Charger?
+I cant get mine into reverse, any recommendations
+Great video. Do you know if the power wheels 12v charger would still work to charge it?
+I converted my kids 6v to 12v with a 30 breaker and the 6v motor still fried. What should I have done different?
+besides changing the battery, do you need to upgrade the motors?  The two motors i see are very small.
+Where did you get the jump it cables with those ends?
+in this video you changed battery but what about the circuit board?
+Hello!!nice video but can i use this on the standard 12v motor?
+My Daughter has a "Frozen" Power wheels and I'm ready to pass it along. I'd like to spray paint it and do the 24V conversion. There is just one more thing. The Frozen Jeep has a button that plays "Let it go" when pressed.....how do I change the song?????
+What do you do if you don’t have the old battery connector? Can you please explain how to connect the new batteries without it.
+so it's been a few years... did anything (wires, motors) burn up being powered by 24v?
+this is awesome. hey would these batteries work? https://www.amazon.com/gp/product/B001NJ3H0C/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1
+Does it matter if I have 2 different 12v batteries? Ones a 12v 10ah and the other is a 12v 9ah. I ask this because I've rigged it up as you've showed however I'm not getting any more power.
+What kind of charger do you use for this battery? A standard car charher?
+Thanks for the video.  Had a quick question.  I have 3 batteries running , 2(12v12ah) and 1 (12v9.5ah).  I have a 30a breaker connected, do I need a 40a breaker?  Thanks in advance.
+To charge do you need to separate them and charge individually?
+our hot wheels knock off has a radio in it also, wonder if the 24v would still be ok to hook up to it?
+I’m connecting the two batteries but the 30 amp fuse keeps popping, any suggestions??? Thanks
+I’m working on a all wheel drive powerwheel. Has anyone try to make a 4 wheel drive? Need some tips lol.
+hello is the inline fuse to prevent it from frying? i chawed the battery on mine and it started smoking. can you help me with that thanks so much!
+Is it ok for the 12v car converted to 24v?
+If it has a circuit board will it still work? the driving part I don’t care about the sounds or lights
+Did you change also the motor?  I think the motor only is for 12v? Does it not overload by the power of the battery?
+Are you charging them in a series or one at a time ?
+What do you use to charge it?
+No upgrade needed to electric motors?
+hey matt, just thingking to remove the board in my kid toy car, , do you have a video how did you do the mod? how do you manage the reverse?
+Hi Matthew ,   Ive been watching your video and following your tutorial and everything seems to work but when you start using it the motors begin to burn ? any suggestions ?
+I just bought my sun a new UTV-MX and it has 2 12v batteries but it barely has power...any suggestions?
+Matthew this for the awesome video. Question:  On the Jeep Power Wheel modified the battery from 12V to 24V:  Will the Jeep's engine/gear survive, not blow up?  you said it's really hot.. and how long long does the battery last? Thx.
+Best vid like everrrrrrr! Qq though, I just bought my so a Moderno Kids 2 seater truck. Would the same apply to this vehicle? Same batteries and cables/ breakers? 2020 Two (2) Seater Ride On Kids Car Truck w/ Remote Control | Large 12V Power Battery Licensed Kid Car to Drive w/ 3 Speeds, Leather Seat, MP3 Music Player Bluetooth FM Radio, Foam Rubber Tires https://www.amazon.com/dp/B07Z31X845/ref=cm_sw_r_cp_api_i_6ed5Db1MCP6G9
+Anyone know what kind of jumper wire? Google has some that dont look anything like what hes using.....
+So... the battery listed is no longer available.  Can anyone tell me what I can use in place of it?
+I’m trying to add a battery to my son Jeep. I looked at the amazon link you provided it’s no longer available. Any other suggestions? And the extra wire for the second battery which one is it ? I’m new to it and I’m trying to get an extra batter for speed and lights I added
+How do you charge the batteries
+Can I use 2 different brand batteries?
+What kind of wire? Can it be a red wire or a black wire?
+Dont you also have to change the motors on the wheels? Or is it just possible to run the stock car with 24V batteries and thats it? 🤔 And what about the led lights and mp3 and so on...?
+Going from 6V to 12V that much faster?  And how long does battery last ? Thanks for the vid
+Would a small tractor battery work better
+Have you had any issues with the motors getting burned out?
+When you charge them do you have to take them both out and charge them one by one or charge them as they are when there connected ?
+What kind of jumper wires are those? Having trouble finding them.
+I bought 3 of these Circuit Breakers from Autozone (as I'm doing this to my 3 kids' ride-ons!).  I realized that due to the long plugs/connectors on these Bussmann circuit breakers, the regular crimp connectors don't slide all the way down them (leaving about half an inch of exposed circuit breaker plugs exposed).  I paused your video several times to see how you managed to make the wire connection to the circuit breaker so that there is no exposed metal.  Did you cut the Bussmann plugs to be shorter so the connector/crimps would cover them fully when connected?  Did you use a heat shrink tube to cover the exposed metal?  Is it important to cover the whole metal plugs so they are not exposed--and how should I do that?  Thanks!
+How do you charge the batteries? I did this and hooked it up to the stock powerwheels wall charger and it does not appear to be charging the batteries completely. After 15 minutes or so it dies.
+Stupid question..... How do you charge the new batteries?
+are these rechargeable batteries?
+So the motors also work on 24v?
+Excuse my ignorance but what is a jumper wire that you used from one battery to the other?
+Is there anything special needed to charge this or same as if it was 12v ?
+Mine keeps lowering a 30A fuse after a few minutes? Any ideas how to resolve?
+Can you show how to change the connector size (grid)? I bought a battery but the connector in thePolice car is bigger than the new battery connector plug
+Can’t you add traction to the tires so they do more than “drift”
+Cant you just buy a 24v battery? My son has the polaris 12v rzr is still fast enough for him the now but was thinking in the future could i just swap battery for a 24v one ?
+With the stock motor?
+I tried putting another 12v battery into series in a PW. I bought a quick connect plug to go between a charger but it has a 7.5A fuse. Is the 7.5A fuse too small for 24v?
+What is it that connects at 3:18? and if it is a fuse of what capacity is or what type?
+What voltage does the motor have?
+Is this done on a standard 12v twin motor set up? My son has a 12v bmw i8 twin motor ride on. Will putting 2x 12v batteries in make it 24v?
+How's do you charge it
+Is there a certain number size for those wires used?
+How do you charge the batteries by them selfs or both in series?
+I know it's a bit late, but could you upload the battery selecting and charging video
+Woulsnt that burn the gearbox/motor?
+Can the ESC motor controller handle the 24v or do you have to change it too?  Is the only modification is just a battery?
+do you need to change the motors?
+Doesn't doing that burn the motor out
+please tell me this isnt Chatham Ontario, i swear i saw 2 blonde kids givin 'er last summer North side
+Hi where do I buy the connector from the ride to the new battery (the black poece)
+Where can I get the jumper wires to connect the batteries?
+What brand wheels does the green car have?
+Do I need to do a motor conversion to accommodate for the extra voltage? Will it over heat the motor?
+How long does the stock gearbox last with this though?
+Do you have video of the installation
+Hi, my son has 12v, was thinking to do the same, is motor still ok, did not burned yet? Thanks
+Did you have to change motor?
+What does the 30amp circuit breaker do and is it necessary?
+Do the motors heat up because of the extra voltage, or because of the extra voltage plus the extra weight?
+What gauge of wire youre using for this? And how do you reset that circuit breaker when it pops? Thanks
+How do u charge the batteries
+how long did it last? did the motors burn up? just got an escalade for my daughter and it had a dead power wheel brand battery in it...thinking about doing the two 12v but with 22ah...(hoping for longer play time within charges? thak you
+I'm guessing that's on stock motors?
+What connector wires do you use? Where can you find them?
+@ 2:40 is that a blunt and a bag of weed? lol. great video brother! Thanks.
+increasing the voltage makes the car go faster?  does it hurt the circuit boards and motor?
+Two 12v batteries won't fit in my current 12v power wheels car. Can I do a 12v paired with two 6v batteries? Thanks.
+Hi. I just got a used jeep just like the one you have and ordered a 12v powerwheel charger off of Amazon but have no idea how to use it. Do you have a video just showing how to charge it? Thanks
+does it have to be a pair of 12v or would i be able to use a 12v + 6v?
+What kind of wire did you use to connect the battery in series?
+Great video, I want to do this for my daughters car. On another note, I noticed when my daughters car hits an incline, the car shuts off. Do you know if there is any way to prevent that from happening?
+Hey looking to do this step by step for my son, he has a 12v jeep hurricane, I am new to this any help I could use lol, do the Gruber batteries come like that
+Hi, once you have added the batteries in the series, how do you charge the batteries? Can the cars standard charger charge both in the series or do they need to be removed and charged individually?
+What size jumper wire and clips did you use? I'm doing this mod tomorrow morning.
+Have you had any trouble with the pedal's momentary switch burning out (mine did)? What switch would you recommend for 24v?
+Are the batteries used made for power wheels or?
+Are you still using the original power wheels charger to charge those batteries or did you purchase new ones? If so, could you post a link? I am mostly interested in extending the life of my son's jeep while we are outside most of day during the summer months. I don't mind having to swap batteries, but if you have found a way to charge these while in the jeep I'm all ears!
+I'm new to this, how do you recharge the fire alarm batteries?
+Nice. How can I connect the original Power Wheel battery if I want to keep the original battery and just buy one extra battery??? Thank you.
+Hi, Can I upgrade a 6v to 18v, would the motor and the circuit board handle it?
+whats the run time before the batteries fall off and the kids bail out? maby a update on how the thing has held up with those small wires used to jumper lol
+what is the black box your using
+can you fried the motors at 24v?
+Did you change thing on the gear box and motors???
+I'm essentially trying to convert from 2, 6 volts to a single 12 volt. The OG hook up was same as your mod. Can I just go positive to positive & negative to negative?
+what if the vehicle has other options?  I bought my kid one that has working led lights and radio.  I wonder if I should run 3 batteries. 2 in 24v to the motors and one 12v for the rest of the equipment?
+How does that motor hold up to 24V?
+where is the power button to turn it on ?
+any pointers for batts not staying charged up long  ours went maybe 5 mins and we had to recharge them
+Can u put 2 batteries on any power wheel like for a Mercedes Ben ? Or it have to be like a bigger power wheel like yours cause of the motor or it doesn't matter? And also can u charge a 12v charger with 2 12v battery at the same time????? Please let me know asap thanks
+how do I hook up a old  school radio to a. battery
+So I bought my grandson a Mini Cooper , it's slow , can the I she done on any car , by just adding. A second battery
+So what do i need exactly, I got the batteries, but the other wires to do the switch is what i need to know?
+where can i get the connectors?
+Where can i get the jumper wire's?
+how do you charge it?  do u use the standard charger
+how do you charge it?  do u use the standard charger
+awesome thanks!! do you have any info on converting a 6v to a 12v or higher?
+will it use the same charger?
+that's a nice green real car in the garage. what year/brand/model is the real car?
+does this make it faster
+so I get the part on how the batteries work but how do you do the wiring in the jeep itself, not including the battery, plz help
+did u change the motor??Is the motor fail after you converted to 24 volt battery??how long does the battery last after you change it??I hear from a lot people the motor will burn after you change it to 24 volt battery.
+you ever tried a 36w? I'd love to see that, might try it myself but upgrade the motors 😂😀 I will send you a send when I do 👊
+when upgrading from a 12v to a 24v is do I have to replace all the wiring? or can the stock wiring handle the 24v? great video by the  way, newest subbie!
+what car is that in background ??? i like simple classic curves and wheels of that machine
+whats the battery life? I've got 3 power wheels I got apart and am rebuilding for my kids. I got the Artic Cat, a jeep, and an ATV. I rebuild some 18v lithium Ion Dewalt batteries I was going to use do to the power and longevity. But if these have a solid charge time I may do this insted
+can i use 2 powerwheels 12 volt batteries together to make it 24 volt?? if so could u help with that.??
+Canyou tell me what kind of thermal fuse to you use. Where did you buy it from. I use the regular circuit breaker 40 amp fuse and have to replace it fairly often.
+While charging the batteries in series, can you use the charger that was supplied in a regular house receptacle??
+Hey man great vid looking to convert my daughters mustang to 24v what charger do you use for batts and how long does the charge last?
+Do you have a link for the batteries? Are they 9.5 aph?
+about how long can it be riding before batterys get hot??
+What about the rest of the electronics, would the increased voltage damage the lights, radio, mine also has a remote function.  In not this is amazing!
+What is the voltage of the circuit breaker? Should the breaker be 24 volts since your batteries are now 24 volts in a series. Thanks..
+How long do the batteries last and how do you recharge them?
+How do I know what circuit breaker to use? Just any 30 amp?
+Do you have to use the oem plug or can you just cut that off and run wires directly?
+Is that a Monte Carlo or a Chevelle in the background? Like the c5 wheels
