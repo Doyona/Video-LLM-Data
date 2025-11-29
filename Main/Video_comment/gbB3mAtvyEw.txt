@@ -1,0 +1,277 @@
+Only had it a few hours. Plenty more to come! Woof!
+Holy shit!! These new Macs are smashing the 16 inch MBP. This is insane.
+Tech aside... As a die hard Win User I have to admit: Macbooks are just consistently the most beautifully crafted laptop throughout the market. Not only elegant but holds up well over time. A friend has one of the first unibody MBP and it still looks superb.
+Thanks tally ho for making the only (p)review on this that I don't completely hate for being dumb haha  Well and anandtech of course, but yeah they are not really on YouTube (not counting TTP haha)
+Has Cinebench been optimized for M1 yet?
+Oh boy, intel isn’t doing well; their processors are a joke for today’s standards. Nice video!!
+I have a doubt, the AMD scored better than M1 in multicore test. So does it mean it will have a better performance that M1 in 4k video editing?
+Would you be able to run multiple applications... I would like to see if the M1 can run a bunch of apps at once without bogging down.
+Thank you for a great review!! I have an 2011 15" macbook pro that's been worn out so I need a new mac. I have been looking at used 2015 15" macbook pro, but they cost the same as basemodel macbook pro m1. I asume the m1 would be a better choice then? I use it most for musicproduction in logic and a bit in pro tools and wavelab. Is the m1 macbook pro good for that?
+Sooo since we are gooing back to Pc monoculture... Who wants an Amiga 2? complete system in a Keyboard with SSD / USB / +Cardslots. A New AMIGA OS... And an even bigger CPU/GPU Than the Apple m1? Maybe 16 core? hmmm ....  That would be the real Nerd mashine.
+Hmmm
+Can you please run a music test with Ableton Live or Logic Pro X?. Thank you
+Romans 3:23 states: "For all have sinned, and come short of the glory of God;". We are all sinners, that have committed at least one sin in our lives, which earns us an eternal punishment in Hell. Revelation states 21:8 "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.". God sent his Son, Jesus, to Earth as a perfect sinless sacrifice. To take on all the sins of the world; both past, present, and future sins. Shedding his blood on the cross as a blood atonement for all sins. After dying on the cross, he rose from the dead on the 3rd day and rose to Heaven. To show life after death. To show everlasting life through Jesus's sacrifice. John 14:6 states: "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.". Romans 10:13 states "For whosoever shall call upon the name of the Lord shall be saved.".      Eternal life in heaven is just one prayer away. All you have to do is believe that Jesus Christ, the Son of God, died on the cross for your sins. As an atonement for your sins. And rose from the grave on the 3rd day. Ask Jesus to save you of your sins and give you eternal life in Heaven. Salvation is a free and everlasting gift from God. Please don't let pride drag you into eternal punishment in Hell, but ask Jesus to give you eternal life in Heaven. If you're getting a strong feeling of resistance while reading this, it's because Satan doesn't want you to get saved. He wants you to resist, and think it's not real. He wants you in Hell for all eternity with him. Hell is not a fun place, like worldly people like to imagine. It's everlasting torture with no relief. I'm only taking the time to text this, because I want to get the message out. There are so many distractions in life keeping people from witnessing to other people. Keeping people from thinking about salvation. Keeping you from thinking about life after death. Please, ask Jesus into your hearts to save you of your sins and cleanse you from all unrighteous. Ask him for a place in Heaven, and he will save you from eternal damnation in Hell.
+harrharrrr amd smoking the competition on multicore and its not even their fo real? cpu line :D
+Damn people really like waste their money on overpriced and over hyped "macshit pro-nothing new just pay for the logo  , i don't know shit about tech, but  I can flex"...
+Can't wait to see what they do with the higher end dual fan 13" and the 16", if the most baseline machines are already bringing closer to 16" like power down to the baseline.
+Silicon M1 is totally SCAM!!!
+As always this guy knows what he is talking about when it comes to Macs. It’s not that common on YouTube.
+This just tells me how Intel is starting to lag behind. What is going to happen when Zen 3 laptops hit the market... Intel better do something quick. Regarding the Apple silicon, the iGPU is good, but let’s be real, they should make dGPUs. These iGPUs are always memory starved. Apple will put all sorts of dedicated accelerators on their hardware as expected. Overall, I think it’s positive that they are moving away from Intel as it’s now.
+How much better is this than the huawei amd ryzen 7 matebook 14? Just ordered one wondering if i should return it and get the macbook air
+I bet the M1 has a ProRes decoding-encoding asic. It's like an Afterburner but integrated into the SoC.
+Do you think Intel, AMD or maybe Samsung or Nvidia will somehow react to Apple Silicon with their own ARM processors?
+single thread isnt that much better than the intel tbh
+anybody else feel this is a dishonest review, why did he leave the m1 unplugged during all the performance testing?
+I honestly have not seen the CPU world this exited since the pentium/amd wars indeed!
+What model laptop is the amd?
+grand shit..............
+Please all youtubers forget about software developers, does visual studio runs???
+Its nice and all to see the mac take the crown in single threaded performance, but i just think its not worth it for a mac, they should've spent more effort on multithreaded. Single core applications are really just games, something which macOS is really not made for, and so will still be bad in performance to its competitors as a result even though it got higher bench. Multithreaded applications like editing and rendering etc are what macs are meant to be all about, so it would've been better for them to have made it better at multithreaded performance in order to have dominated the editing/rendering performance compare to competitors, which its mostly on par with.
+I want this for gaming, but it seems hardly any games work on Mac according to steam.. Specifcally want to play assasins creed...
+simultaneously not surprising and surprising. A lot of the bottlenecks to performance is latency between CPU and everything else. When you put everything in a SOC and remove those bottlenecks, you trade upgrade-ability for efficiency. Makes me wonder if the second gen will use a hybrid SOC + sodimm for power users that want 32 or 64G of ram in a macbook. It will be interesting to see how Intel responds to AMD and Apple.
+Apple Silicon is off to an amazing start! Imagine what the MBP 16'' with an M1X* will be able to do!
+How much did Intel pay you to make this video? It's fake, All computers are charging except Macbook M1. You are cheating the results. Dislike
+Apple Silicon is the future!!!!!
+Tattoos and a stache - good on ya mate!
+Need to pull the trigger on a the pro that’s impressive
+impressive with native m1 apple certified apps, waiting for emulated rosetta apps, which 99% of apps are,and memory intensive app tests. AMD has raw horsepower for days. intel in these tests, loses because it is down by 4 full cores, and that is huge in multicore, it literally has half the core.. but was pretty good in single core.
+can u tell me what details on macbook pro m1 ? RAM 8 or 16 ? storage 512 or 1T ?
+The crazy part is that this is the weakest chip Apple will ever make. Next year’s 16 inch MacBook Pro is going to be a BEAST.
+This video gonna blow up soon. Quality content
+MINE JUST CAME TO 🙈
+Intel, what are hell!?
+That’s a sub from me mate! Looking forward to your gaming reviews.
+Whether the BMD Speed Test app is native or not is irrelevant.
+Have all those benchmarks been updated to natively support Apple Sillicon or is that Rosetta 2 emulation
+Looking good! :) Good to see the Tech Heads and Tally Hi Tech Aussies getting all around it first in the world online!
+why u all guys are unboxing in video ...guys be a little sensible..its the same design from the previous models   we all are waiting for the thermals and performance and the webcam
+why u all guys are unboxing in video ...guys be a little sensible..its the same design from the previous models   we all are waiting for the thermals and performance and the webcam
+why u all guys are unboxing in video ...guys be a little sensible..its the same design from the previous models   we all are waiting for the thermals and performance and the webcam
+why u all guys are unboxing in video ...guys be a little sensible..its the same design from the previous models   we all are waiting for the thermals and performance and the webcam
+single core performance is much better!
+Sucking juice like no tomorrow :D :D
+Didn't know Saul Goodman makes tech reviews
+First proper comparison and tests I've seen. Thanks!
+You're a real champ for putting this video out so fast!   I'm interested  in seeing the performance difference of the MacBook air versus the pro model as well. To see the difference the active cooling makes + to see if the air is hold back with low wattage or lower clock speeds
+The timeline is already 80% rendered on the 13", vs completely unrendered on the 16" at 9:13. Both timelines should be completely un-rendered for these tests to carry any weight.
+I was scared that would Apple remove the charger from macbooks
+What is better ? Macbook pro m1 8gb ram or Macbook air m1 16 gb ?
+Yaaah. Tally ho is first 🔥
+Did you have the Macbook plugged in for the Cinebench test?
+Is the MAC plugged in? wondering if there is a performance difference battery only?
+it's just huge, it means that an M processor the size of an x86 cpu in 60watts will be four times more powerful than an x86 not to mention the graphics performance of the power of a 2080 in a 60watt cpu !!
+Love that the Aussies have it first.. “floppy disk drive”.. intel must be hurting..
+Cs go gaming test
+The M1 should be rated at 18W TDP. Apple just chose to compare the performance at 10W.
+Keep in mind that M1 is 4x Performance and 4x  power saving cores. Hence multi vs single core. AMD is 8x cores vs M1 4x
+Thanks for not just click baiting and actually having the review.
+Please install boot camp 🏕 windows
+Wow the entry level M1 MBP just crushed the 3500$ intel MBP16! Cant wait for the M1X MBP14 with no bezels I think I might jump on that we'll see how my 2011 MBP15 on High Sierra is holding up. I just dont like the lack of ports and all the soldered components making it impossible to fix. I have fixed my 2011 MBP so many times now the new ones are not fixable!!! That should be illegal where is Green Peace they are useless??!!!
+First youtuber to get it damnnn
+Well cinebench is not that optimised for m1 isnt it?
+Considering the AMD has 8 core and 16 threads I’d expect the AMD to always win in multicore against the M1. And the Intel you tested is only 4 core 8 threads.. so I mean it’s a good demonstration of where the M1 slots in but it’s also a very unbalanced test if you’re just tossing them all into a race.
+what is that right notebook? model
+Surprised it came with a power adapter....you know...should be saving the environment and all that BS..
+Glad to see Intel come back to the floppy market.
+Intel is a fricking joke, they basically release the same last year cpu but with fancier name
+could you test music production on the new M1 macbook using FL Studio? you can download a demo on the image line website.
+I think this more proves how good 5nm is and just how far behind Intel is with both this M1 and AMD
+Is this emulated?
+So excited about these machines
+Are they powerful enough for listening mp3 files and web browsing?
+Alfie Solomons now doing Macbook Reviews? Damn
+is Macbook pro plug in?
+Your first impression which one is better Macbook Pro M1 or Macbook Air M1
+Not a criticism but a question. Is the macbook plugged in there? I can't see a cable plugged in. I would be curious to see if the performance is throttled due to being on battery power??  Great video nonetheless!
+Hi. Thans for all videos I need your help I bought macbook pro 2020 intel i5 10th generation. Do you think i should sell it (without losing value) and buy it with M1 chip? Especially thinking that my intel wont get old soon.  Thanks
+I’ve always been an iMac user but I need a refresh asap. I’m starting to consider the new M1 Mac Mini. On paper, it sounds amazing. I’m only worried about the monitor. I want something as crisp as the iMac screen. Any suggestions?
+In Final Cut, the M1 has a big portion of the video rendered out in the timeline, the 16" did not, see the dotted line above the timeline.
+Resolve 17.1 Beta 1  seems to be M1 native.
+What AMD laptop is that? A lenovo?
+M1 the Destroyer! Great initial review!!!!
+Now THIS is the video I’ve been waiting for 🔥 so fun to watch, can’t wait for more!
+Congrats, every  minute an advertisement. Trying to earn your macbook back from youtube?
+Tally ho tech vs vinnetti tech vs raw tech.
+- why the image on cinebench is little on the apple silicon?? when all have pretty much the same screen, for example - the blackmagic comparison has no worth, a big part is because you're comparing a propietary api as metal against an open source one as opencl is. also, apple works with encryption.  i stand with my general opinion: apple's future looks good, but they can't replace or just beat x86 for now....   so good luck to their users (not fans, fuck them... users know a little bit more)
+Despise Mac but this is enough to make me switch ngl. No fan noise/coil whine is MAJOR for that performance
+you're running the M1 off batteries for the Cinebench test, whereas both Windows ones look like they're plugged into mains. Possible it might make a difference to performance.
+Can u make new video about heat test ?
+can I know, for the last test, what is the spec for macbook pro 16?
+what are the two computer, the amd and the intel, it's more than processors. Give us the specs on the intel, the memory, heck, even the laptop name you are showing, so that we can check the real specs on them
+Think m1 is running the benchmark app emulated through rosetta2?
+this is amazing man! loving the quick quality content
+Were all the laptops plugged in during bench marking?
+i don't understand what's the point of this video if you don't include power draw metrics. You said that it is supposed to draw 10W, but is that true? You are comparing it against a 4800U that probably stabilizes at around 25W which means that the comparisons aren't true representations of what you're saying. It makes no sense to say that one is better than the other if you don't include any power draw measurements, regardless if all 3 of those cpus are in the same category. For as long as that M1 draws ~15W (just speculating since you didn't tell us) to reach its best performance, it can't be compared against a ~35W to 40W 1165G7 (just so that it can reach & sustain its advertised all-core frequency).
+which is the leftmost laptop?
+Wow Saúl Goodman reviewing the new Mac
+Do the test for 20 minutes not that shit
+Zephyrus G14 (ryzen 9 4900hs) vs m1. please!
+The AMD and Intel are plugged in with power and the Macbook is only using batterypower? That can throw off the result because they have powersave when on batterypower by default right?
+This is nuts for a apple product. Very impressed with these beast Mac
+can you play some games on it ?
+Hey guys I’m sort of newbie to the laptop world and was debating between the M1 MacBook Pro 13” vs MacBook Pro 16”...which is the better pick for an average user?... thx in advance
+video playback is basic, video editing is much more than that. Can you maybe try to run the puget systems benchmark with davinci resolve and give us the score? Also, I would be interested in the 3D scores, maybe the blender benchamrk would do for that? Those would likely show you where the apple silicon shines and where it falls way short due to lack of hw acceleration.
+Hello Sir can you plzz make a battery drain test video , while playing a video at netflix untill it drain till 0%.
+Just to make sure, resolve 17's m1 universal version is 17.1beta, there's a big M1 logo in Bmd's official page. You sure you downloaded that instead of 17?
+I would love to see AMD CPU in further tests.
+Looks like the timeline was mostly rendered for the prores exports on the 13" M1 vs not rendered on the 16". So it makes sense the 16" is slower there. Still, very impressive for a 13" machine. My daily worker is a full spec 2017 15 and this M1 machine seems faster.
+Please show a Canon R5 or r6 video test in fcpx!
+Should've had all of them plugged in, or all unplugged.  Not a good comparison.
+Lately Ive been checking out macbooks, but this is the first macbook pro which got my interest!  Sadly it's 1800$ in my country (8 GB RAM, 256GB SSD), but I expected even higher price... would be nice to have one! :)
+I think redoing the tests without the plug connected, even tho the Macs don’t see a change, the laptops do and it would be fair to see vs plugged and vs unplugged
+Pitty it does not run Linux, guess I will go for other ARM soc's
+maximum cpu？ not good news
+Imagine what next year the new macbook pro 16 inch and the iMacs will perform with an even more powerful M chip, which will demean everything on the market.
+Apple WILL change the cpu market.
+Cinebench is probably running on rosetta2
+M1 air better OR pro??WHICH SHOULD I BUY PLS TELL
+Unplugged all 3 perhaps?
+Tally just going to search  Notification popped on my screen 😄😄😄
+Wow that’s astonishing 😳
+maybe you wanna buy microphone stand? or something?
+Not sure how you tested but the Intel is running on base speed ... and not on boost. so something that you did is big - wrong.
+A thousand dollar laptop with only 8GB of ram? Pathetic.
+In simple words   Intel is destroyed Apple just fuks price to performance AMD is the King 👑   I mean , buy apple 🍎 if u have lots of money
+Could you try Office please
+It’s not fair for the Mac  You place it close to two hot Aur pumping laptops left and right,  Should have more distance between the laptops to give the middle one a date advantage.
+Can you test Blender? And Unity or Unreal engine...
+Can you install Android Studio? I'm reaaaally curious how that would work 🔥
+Something's stuck in his throat, please remove it.
+run terminal on rosetta to install non native apps
+Is the MBP 16 used there is i9?
+To have this amount of power in a machine that small... amazing
+Any guesses when we will see higher end apple chips? Only thing holding me back from buying is the hope to get an even more powerful macbook
+Honestly I feel that this one was a bit of an unfair comparison because it was the first day Apple Silicon was released to the public, and I think some apps may need to optimize over time and maybe then you can see better results. Great video though!
+surposed living in australia has its perks sort of... like you have a exclusive 12hour head start on tech impressions compared to american youtubers
+Imagine putting all this effort into a video and then having 2 laptops on power whilst 1 on battery. Frustratingly stupid.
+Oh MAN!! Thank you
+awsome, thx for the early testing!  did you do all the tests without power supply on the M1? I saw cables on all other notebooks otherwise
+I ordered the 16Gb version but, I cant get that before 3-4 weeks, and I need a laptop fast. Do you think the 8GB is good enough for music production? Thats what i do the most.
+How is it at the palm of the hands? HOt?
+I am   of MBP 8th gen intel 16Gb ram. Do you think it is rational to return it back and buy MBA M1 with 8Gb ram? Which Mac would be  choice?
+Wish one would you prefer for video editing with DaVinci resolve and as you main laptop..? I just bought the xls 15 9500.. should i return it or stay?
+Floppy disk 😂
+you are not charging the Mac on the first test who knows if the Mac will decrease the performance to save battery plz be professional
+Better Call Saul, is that you ? :)  Nice review btw
+Bought a g14 twi days ago and am waiting the 16 one
+WOOOOOOOooOOOOOFFF
+Well I m a first time apple user. ( Shifting to it )  So Tell me this, is 8 GB RAM is enough for my college and how much storage do u suggest. For my new MacBook Pro. Woof away. Also Do a little gaming test if u can.
+Wow!
+You didn't have the MacBook plugged into mains power for the cinebench test on the MacBook but the intel laptops had the mains plugged in.. this makes a difference
+AMD and the Intel laptops are plugged it in the first CINEBENCH test, please do the test either with all of them plugged or not pluged.
+Can anyone tell, to which Intel processor is this M1 chip comparable to?
+This comparison was so unfair, the other ones where plugged in while the MacBook not, witch means that the windows one could perform much better
+Please run vs code and Android studio on this Mac
+Which laptop is it on the left side (amd model)?
+It appears the new Apple M1 laptop is not plugged in to AC power like the other two. Would that increase the performance of the Apple M1 for these tests? Curious.
+what you also have to have in mind is that the apple does not have 8 cores but only 4 high power cores. the 4 high efficiency cores are not really used for grafik performance and bench tests. and it’s also the chip for the entry model, wait till the m1 for the 14” and 16” and compare that to the amd, that’s when it gets interesting hahah 🔥🔥
+Gaming videos please! Especially on the Macbook Air because I HAAAATE fan noise!
+Can it run crysis?
+Try it again with all the laptops unplugged
+Shouldn't you get the laptops away from each other so they're not exhausting hot air into each other?
+Which on should i buy for college coding and design. The air or pro????
+That 4800U is not running at 15 watts. It's likely running at 25 watts.
+Apple also only has 8 threads. While most intels have double the thread count.
+I ordered the new MBP.... I've heard reviewers and tech people out there saying it's no good.... The M1 chip. Is it so?
+That’s it, I m subbed now thx for the help
+WOOF! Can you please in the future give a little bit of love to mechanical engineers and test some laptops for CAD also. Like, Autodesk inventor has his own benchmark app. I´m also interested because Inventor uses generally just one core for performance so this new M1 or M1X next year could be a killer for CAD. Even when using it in Windows under Parallels
+Man this man Is crook..it's not apple silicon... Through out the video he didn't show cpuz internal confn of the macbook.... completely fake
+when i see the video in my suggestions: TALLY HO!
+It's as fast as 1050ti
+did you try handbrake on the amd?  curious how that compares to the m1.  very impressive.  my macbook air m1 should be here within a few hours :)
+Hey the macbook pro m1 can run all the coding apps?
+Macbook pro 16 smashed
+Unplugged and test. Well done Bro
+You should try running the Cinebench tests with all laptops unplugged, and run multiple times. Then compare the performance and battery percentage before and after.
+Could you check how much ram it uses when using rosetta 2?
+Great job mate! One of the many good things about being an aussie -  getting new tech products first ! Might pick a MBA tomorrow for my channel but honestly wanted to see whether the hype was real! Curious to see whether the thermal envelope will make that much of a difference.
+floppy disk
+Blackmagic have put out Resolve 17.1 beta which is a universal app that runs native on the M1. I'm particularly wanting to know how well the M1 runs with Davinci Resolve 17.1 and Fusion https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion
+Would have appreciated a comparison of all three laptops UNplugged. Also, these laptops being so close to each, they may heat each other up.
+premiere pro ist not able to test at the moment i guess ?
+Could you test that single core in any way?
+These new macs are very interesting, the only thing holding me from buying one is the dated design, coming from the XPS those bezels are thikk😲
+nice! I'm getting my M1 Macbook air today, so this is exciting!!
+What are the exact models of the AMD and the Intel laptops you are testing? Sorry if I missed it. Also, one thing to note, since you are running the quick version of the test, that AMD is essentially running at 30-40 watts before it can throttle down. Try the 10 minute version :)   P.S. M1 is essentially a quad-core CPU — four of its 8 cores are specialized for high-efficiency and their performance is only  around 1/4 of the main cores.  So it would make sense to treat it as a quad-core CPU with "hyper threading" (the effect of low-powered cores is comparable to SMT in AMD or Intel CPUs)
+Some cpu specialist said that current silicon cpu is just a test one and next generation will destroy all other cpu on market
+This is such a great test 👍 I still can’t decide between 8gb and 16 ram. What would recommend. I will use this laptop for 4 to 5 years
+sucking juice like there is no tomorrow XD gosh i laughed
+Man ur reviews suck
+Great video bro...very excited for the future of Macs....Please review rosetta 2 performance on m1 chip...
+When Alfie Solomons does a tech video
+Hi , great work brooo But how u get these fast af
+At 11:40 you say the battery started at 80% on the m1 then dropped to 40% and the intel pro was 80%. You said the m1 battery is going to be amazing? I don’t understand when it dropped 40% in battery
+woof woof.
+the mac was not on charging, the other two win laptops were on charging
+Great channel but a dreadful amount of adverts. About 5 in the video
+*Does the M1 macbook feel more snappy and responsive? This is what apple said in the presentation.*
+It’s stupid everyone is using video rendering as a test for cpu performance. These apple cpus have specialized hardware circuits just for video stuff. It’s not a good way to compare cpu.
+mE cRyiNg wiTh my 15 inch 2018 MBP :(
+Could you try to install Chemdraw? I'm a researcher and I need to know if i can use this program! Thanks!!
+can you test the graphics? i need to know how good it is before i can buy one
+Intel cannot go 100% on that test probably because it could overheat. Mac has to throttle it down.
+The MBP is running on battery? Any difference plugged in?
+YOooooo I can't wait for Apple to release a beefier M1 CPU&GPU for the 16inch MacBook Pro!
+the apple silicone is not plugged in, i think this is why it's on the 2nd place
+It’s 2:33 am and I’m watching
+Please buy a mic stand sir 😂
+is 4800u faster than m1?
+Can you do iPad/iPhone app test? For instance, running Genshin Impact on the Mac.
+Buy MBP with 16gigs ram and keep it or buy cheapest MBA with 8gigs of ram now (and give it to family member later and buy a 14incher)?
+Looking good Tally Ho Tech. If you could look to see if there is any thermal throttling in your next review that would be great. What is the spec and model of the AMD machine?
+Will the 16gb even be better than the 8gb?
+Just reduce the bezels, add touchscreen capability and you'd have the perfect laptop.
+M1 MacBook Pro 13 not as fast as Apple said ?
+YESSSSS FIRST! I know I'm not first but I feel like it, mkay?
+I want to how the neutral engine part of the soc is helping the gpu in specific test.
+Macbook pro is fuming
+You not plug cable power on the mbp, its different battery mode vs charger mode
+Were all three on power? It looks like just the pc's. Would that change anything?
+Thanks for the review! Awesome job :)
+Well, that's a "great" test - the M1 mac is unplugged.
+I choose the 16 GB of ram because I wanted to be safe and to not change my MacBook Pro for a long time and now I think it was the best thing that I could do! 😍 Thank you for the video! Next I want to see Tests with Adobe programs like Photoshop, Premier Pro or Illustrator! (Sorry if I made some mistakes on this sentence but I’m Italian)
+The mac is not pluged
+Nice work!  Notifications are on.
+Did you remember me few days ago asking you to compare xps 9310 to new mbp? After i saw their gpu and cpu performance as well as their geekbench, i went to get it 7 hours ago.  I have been using it for 4 hours and the battery went down from 100% to 80% while creating no fan voice at all.
+Can’t wait to get my MacBook Air M1 512gb today!!!
+Omg I've never been more excited. I've ordered the Mac pro 16gb. Can't wait!
+Please test temperatures also in new M1 macboks ;)
+Doncaster. 😂
+Damn... The M1 came here to play that’s for sure...
+Are you Ozzie man review?
+Noice - Single core beast.  Looks like the Air could be a killer.
+what about gaming ?
+RIP INTEL
+Are they all on battery power?
+First thing I did was test fm 😅 it smashed it. So so good. Great to see other Melbourians on here. I braved Knifepoint to get my baby 😅😂
+So ... you plug in the 2 intel PC and leave the m1 macbook on battery for benchmarks...?!
+Run Dota 2 or Tomb Raider on steam!
+Did you also buy the MB Air to compare it to? I´d love to see how fast the fan on the MB Pro kicks in and if the noise is worth the increased performance.
+Any chance you can test gaming performance?
+I have 16gb version, see my twitter @di7han, sorry noob with YouTube and still working on my setup
+I hope people realise cine-bench is running on emulation
+I want a gaming review of apple silicon
+What are the specs on the MBP 16?
+what a monster cpu in laptop
+Remember, these are the low end Macs that you'd give to a teacher or accountant or lawyer - someone who needs a decent computer, but not someone who does resource intensive tasks. They are simply the annual spec bump release - except that in this case the spec bump is up to Apple Silicon's first release (M1).  They basically have the same storage and number of Thunderbolt ports as last years model.  These are not marketed as powerhouse computers - those will probably come next year with an M1x (or whatever).
+Woof! Keep testing and uploading all night please!
+Try 50 chrome tabs
+You need to install davinci 17.1. The 17 is not compatible
+Did it make any difference that for all the test you have run the M1 MBP was the only laptop unplugged? Anyway great video as usual, congratulations!
+I honestly have not seen the CPU world this exited since the pentium/amd wars
+Does it support android studio and vs code?
+Intels processor's performance is an absolute joke. Sad thing is that all the "high end" Laptops (Spectre, XPS) only got intel chips. The only thing intel has on their competitors is thunderbold 4 and that's sadly it.  I was gonna buy the new 11th gen Spectre but I don't feel like paying 2k euros for absolute inferior performance anymore. F that.  Anyways, great vid!
+FINALLLLLLYYYYYYYYYY
+Wow! Amazing m1! I can’t believe
+Woof!!! Nice one man! Same performance if connected to external display via thunderbolt?
+Can you install Brew and see if you can then install MySQL, Redis, PHP, Node and Go? I can tell you how if you need but it'll really help developers make the buying choices mate. I'm keen given how it smashed out those benchmarks on flicking off my 16" and having the more portable 13" again.
+This is impressive
+dam apple were right the M1 eats the intel 11th gen lol
+Wooof! we gonna learn more about the m1 in your upcoming vids. CHEERS MATE
+have to wait for mine because I got the 16 gig ram WOOF!!!
+Nice
+Only had it a few hours. Plenty more to come! Woof!
+The big dog video i was waiting for
+That box is making me to buy it 😂
+WOOOOOF
+Finally! Thank you!
