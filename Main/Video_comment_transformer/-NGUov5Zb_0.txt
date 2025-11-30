@@ -1,0 +1,561 @@
+so what dont use the gpu cable that came with tihe gpu and just use 12+4 cable to 12+4 cable from psu inut and plug it directly in gpu and psu ?
+Who’s here in 2025 thinking this video was about the 5090s?
+I wonder if that solder job is done by hand. Maybe its a quality control issue at one of the plants.
+Is this another one of these RoHS shenanigans because we‘re avoiding lead in solder like the plague?
+Why they made a new connector ?! i'm still puzzled by this obsolescence
+Is 4070 ti super melting too?
+maybe its the plastics used, one may melt at lower temp
+Is there an option for a cable with a built in 90 degree adapter that is a 12vhpwr cable with 12 wires( one plug on both ends)?
+What’s the product code for that Corsair premium replacement cable?
+Then how come the cablemod adaptor is melting???
+ya know if we had 16 wires again this wouldn't be an issue. This problem is solved by going back to the old-standard.
+what if that wire was to keep losing and gaining contact with the bridge, like a loose fuse bus. i had a loose fuse bus in my furnace and the loose connection made everything overheat and melted the fuse bus. granted thats with a shit ton more electricity but maybe the concept is the same? loose connections do produce more heat.
+why your amazon links never work?
+Those are 12 pins for power, right? The "old" way was also using 12 pins for power (sometimes plus extra 2 or 4 pins ground). Why this connector is "better" ? I fail to see.
+Has anyone had problems with the CableMods version of the 4080 power cable?
+So coiling the wire for packaging and shipping could cause the problem too?
+I don't understand why Nvidia didn't stick with 2x8-pin connectors like the RTX 30xx series. Why was it necessary to condense everything into a one 12-pin connector?
+is this problem only on rtx 4090 or other models have it as well? am i safe to use the cable provided in my 4070 ti box?
+This does not explain why the cablemod adaptors also melted.
+is this issue fixed ?
+Anyway where the hell was UL on this ?
+Just bought a 4070ti, does anyone know if it's okay to connect a daisy chained 6+2 cable? Or should I just get a whole new PSU? With a 12Pin outlet?
+I saw this corsair plug on their website, but I'm unsure if it will work with my HX1000i. Can you confirm that it works please? thanks!
+So which exactly cable ? Links not works, left only cable brand name :))
+Corsair Cable 12VHPWR cable works with 4070 ti SuprimX?
+do i need to hold back and not buy 4080/4090 ?
+Im confused why tf these gpu card mfg dont send a simple fixed molded plug that curves around your gpu and then once the tough angles are safely squared around, you can plug in your cables from under the card im a safe clean straight angle….
+where can i but that replacement cable?
+Jay's Amazon link is not working can somebody link the actual 4090 replacement cable for corsair that is being recommended.  TIA
+How hard was it just to use xt90 connector jesus....
+is it safe yo use a corsair 12vhpwr cable with 2*8pin psu cable for a 4080? I have a cooler master 850w modular psu.
+Is there a link to a SAFE 16 pin gpu connector?
+So why they change old vga cable? To a nontested one..........
+what about the actual cables if this is just for the adapter then why do the cables melt as well
+I wonder how different this new cable is compared to the one used in the 3090ti. Cuz the 3090ti uses the same power connector by the looks of it.
+Why do ppl have to do these weird ass filters on pictures that really need to be 100% accurate to show whats happening? That picture of the failure looks like it was drawn with pastel markers
+When is the apology video coming?
+wonder if it would have been better for them to attach the wires to a small pcb and the pins to the other side of said pcb on a 90* so that a its easyer for cable runs and less stress on the plug and b just all in all nicer to work with
+Has anyone reported this to Underwriter Laboratories (UL) to have the product de-listed? That should get someones attention.
+I wonder if one of the reasons you could not replicate the heat needed to cause the plastic to melt had a small amount to do with the connectors no longer being coated in an insulating material.  I had a phone that would overheat if it was used too long, but I found that if I popped the battery cover off that it remained much cooler.  I obviously should not have been using a lion phone that was overheating, but it does show the logic behind the lack of insulation potentially ameliorating a small amount of the heat gain.
+what is your microphone?
+What's that shirt's brand?  I swear I've seen that logo before.
+Recall or class action lawsuit
+This doesn't really add up. If the solder joint had failed then the temperature increase should be directly at that point, not at the pins. It should have melted the molded rubber. I think what happened is that the pin was also pulled from the connector causing bad contact/high resistance point between male and female pins.
+Isn’t it ironic that, in an age where computer components are often measured in nanometers, we still haven’t perfected things like copper wires and solders? It’s like a rubber ring causing a spaceship to explode.
+Have you thought of a spark springing from the broken Plate to the rest of the connector? I mean if you unplug a cable there is more stress on the other cables. but if its near about to be connected, it could spark .... and this would also create some sort of heat. and melting.  The adapter is just a joke at all. Nvidia failed it
+Rtx 3090ti uses the same 12vhpwr cable but we didnt hear any issues , i wonder why ?
+I suspected the connector being too small for this many cables and the heat-shrink tubing being that stiff. They soldered instead of properly terminating the cables into the socket.
+Why they dont just use a common very well know and aproved conector like XT60 / XT90? 90A * 12V = 1000W.
+so in the end.. still a really bad design? Nvidia: introduces new connector also Nvidia: cheaps out on the adapter PS: maybe you've been testing it in open and not closed case.. iirc an enclosed case is hotter?
+Is this only happening on the FE 40 series? Or is like MSI, ASUS, etc experiencing the same issues?
+Nvidia using cheap soldering? manufacturing standards are dropping !!
+Can anyone help inform me? If i got a atx 3.0 gen5 psu with the correct plug, will this issue be circumvented? is the issue JUST with the adapter, has anyone done a breakdown of the gen5 psu cable to see if it still has weak soldering if it needs any?
+Maybe a bakelite case and thicker foil would solve this
+Why not just power limit it to 350 watts lose about 2% performance but save money and prevent a fire.
+how is the shipping conditions? Does the temperature variates between routes?
+How about a link to that Corsair replacement cable you showed us?
+Hey guys sorry i tried to look up the cable he said is a safe replacement on amazon not finding it anyone possibly have a link for the exact cable he showed?
+I think its because when it breaks off inside it doesn't disconnect fully, leaving a sliver of material just touching the plate, creating so much resistance that it heats up tremendously, if you cut it off completely then there is no problem, since the rest of the wires can sufficiently feed the connector.
+Hmm Nvidia releases 600w card and power blackouts happen all over Ukraine... coincidence or did someone power on their 4090 and short the grid?
+I'm curious, are users of the RTX4090 using air cooling or water cooling?
+So do I see right too, that the 6 pins are not connected to each other? Therefore the middle 2 cables supply 4 pins on the 12VHPWR and if the outside 2 break, there are 2 cables supplying 400w through only the middle 4 pins and with the chance of a short of the outsinde ones? time to order the cable mod extention...
+Them 5 year olds have to learn soldering on something so it might as well be on the job training right?
+Is this the timeline where we get water cooled cabling?
+Yoo whats that Wallpaper you are using to show off the NZXT Screens ?
+How was this even allowed or passed QC? Some of the sketchiest soldier work I've ever seen. Not to mention that BUSBAR (Proper term) does not look like it can or is to spec for the power rating. I was gonna a new gen card so glad I waited. A old 1080TI is looking nice right about now.
+Have the 600W cable in ATX 3.0 PSU the same problem? Or it's only for the nvidia adapter?
+I wonder if you took the original plug brand new out of the box and some how reinforced/supported the wires with electrical tape or wire shrink wrap if that would help.
+I believe what you want to call a PCB would be better referred to as a buss bar.  Foil buss?  Foil buss bar?
+I don't understand why they just stuck  to original plugs. The plugs have been the standard for ever and there is a reason, they reliable and are designed to bend.
+Sounds like a recall issue.
+Hi Jay ... thanks for you and your teams funny and informative vids.  Could I make a lil' request? Talk to the audience listening to you, like we were, if not dummies, then beginners who want's to learn more. Sometimes I think you forget some of your audience in terms of understanding your hieroglyphs (too nerdy language) :-b They (we) are sometimes lagging behind. At least that counts for me - and perhaps of my foreign origin ;-) Again, thanks for your channel. I will keep following you :-) Best regards ... /the dane guy
+What dragon was in the cave then?
+It couldn't be of HEAT could it?
+I mean...whoever thought pushing 450+ watts through this little cable in the FIRST place needs to be reeducated in electrical.
+Has Nvidia acknowledged the seriousness of this issue yet?
+Great work Jay. I am wondering if the missing ingredient is arcing. If the foil breaks and it is close enough, it could potentially arc across producing a lot of heat. No way to prove it though under controlled conditions without running hundreds, maybe thousands of tests, or just getting lucky/unlucky.
+Sauder versus solder... the greatest mystery !
+Nvidia can't release anything without controversy
+Could someone tell me what's the keyboard on Jay's desk, please?
+Surely that isn't cheaper to make either... I mean seems like so many more steps to manufacture.  So wth is the point?
+How many risk analysts are preparing to void your home insurance if you're running a NV 4000 services card.
+Just why create a new connector, all you need to go to Anderson and look at their Powerpole connectors. I like the SB50 connector.
+You're just guessing at what someone thinks the problem is, LoL
+Who OK's 4 wires being soldered onto 6 pins??? Oh yeah, China.
+Wouldn’t arcing be a factor here? If you cut the plug open and move the disconnected cables away, you won’t generate as much heat as you would if the cable remains close to the bus bar in the connector since it would start arcing when it has a poor but still intermittent connection.
+Who else here knows Igor is smarter than Jay?
+if the end pins are the components breaking connection and causing the centre pins to take the full load and generate heat... why are the end pins the ones melting?
+Another thing to take into consideration with this is the position of the connector on the GPU itself. The position of the power connectors on most GPUs is horrible for any kind of cable management. The manufactures are just asking people flex the GPU power cables all sorts of strange ways, trying to hide them. With a long card like the 4090, why can't they just put the connector on the back of the card instead of the edge?
+Still confused as to why they don't spec a a single heavy duty 2-pin connector with stranded 8AWG and call it a day...
+Where do we get a power supply cable that will not melt and burn to replace the 4090 one from Nvidia
+How can companies make these insanely complex products that have billions of transistors and other crazy technology and fuck something up so seemingly simple?
+but how can unpluged pin gets that hot he is amp free dont know no V no A meabe to tin conector
+My problem with it is, if there's 8 wires coming in, WHY DIDN'T THEY USE 8 BIG PINS INSTEAD OF 12 FLIMSY ONES? That would also mean crimping instead of soldering.
+Why on earth are they using solder here? If it can move, crimp it!
+When having problems with wiring and resistance and stuff BURNING, ask Mehdi from ElectroBoom
+its probably heating up the outside pins because they break but still rub but because its not a good connection like it being soldered or crimped it would heat up that way, you probably couldn't recreate the fault because you were just cutting it right off, but in reality its still left there to connect and disconnect from rubbing.
+Trying to push 600W / 12V = 50Amps through such a small connector is going to give you problems. Why are they doing this? saving a few cents on a card that costs this much?
+If i understood this correctly - take the plug, cut it open, desolder the combined cables and resolder dedicated cables to each single pin should do  the trick?
+Who in their right mind decided to solder a high stress, high current connection, rather than crimping it?!
+NVIDIA revenue for the twelve months ending July 31, 2022 was $29.738B yet a piece of metal is breaking inside the adapters.  Is there something wrong with this picture?  If somebody died from this situation like a house or apartment burn down, MAN NVIDIA is going to have a very bad day.
+Couldn't Nvidia make a more rigid, durable housing for the connector Oh yeah and toss in a 90 degree bend version
+it's mind boggling why they don't just ship busbar pcb with 4 old plug in one side and 1 new plug on other side
+so out of the 1000s of cards maybe a dozen had some bad soldering? i mean it sucks for the ppl who got burning cards and i agree nvidia could/should do better ... but lets take a moment to appreciate that that this issue affects less then 1% of the 1% who can afford a 4090
+WHY are 90'degree connectors not a thing? You could go 90 degrees up or left or right, whatever, then the wires would be 100% straight, no stress.
+Hey does anyone at all know what the hell do when installing windows 11 and it not showing any option for wifi connection. Ethernet or wifi. Ive tried like several videos and i cant figure this shit out
+where can i get the corsair replacement cable?
+Think about the conditions the cards are in. HOw well is the cooling of the case? you tested this outside of a case in which heat escapes into the air, not trapped inside a case and bunch of wires and more.
+why are people bending a cable sort hard it breaks solder is my question?I get it...but at same time really dont lol
+And did anyone get paid for troubleshooting this for nvidia? Think of how many man-hours the company saved.
+Honestly, I have wondered this for YEARS, but this is making me wonder even more why graphics card manufacturers continue to put the power connectors on the outside of the card.   They could be easily reversed to face the rear of the case without increasing the size of the card, eliminating the need to tightly bend the cables for making it look nice (or fit at all), and similarly, make it look better, because you won't have wires coming out the most visible part of the card.
+So they just jerry rigged there old male connector to connect with the cords. It's Nvidia like is it that hard to make up a new connector. One that idk only has 4 or has 8 for better heat dispersal. I know these yearly graphic cards are how we keep growing, but I'd rather wait the extra 6 months to manufacture new connectors and ports
+Jay you thought about short circuits when something has micro fractures? that could end up in extreme heat
+The thing is what none is talking about:  Why are we making video cards which use this much power!? Surely (and i emailed @LinusTechTips as a potential video idea here) how about we make a PC which uses *LESS* power but delivers what we need in terms of performance power!? Think Apollo 13 but for gaming PCs, thoughts ?
+What F- for an excuse for e-engineer designed this? o0
+At the end of this video Jay recommends to not use the adapter/splitter cables that come with a 4090. Is the cable he is holding right at the end one made of 2 x 8 pin PCIe to 1 x 12 pin ? Sorry if this is a stupid question.
+Couldnt we just have kept using that original connector? They really didn't take *that* much space, and for sure wouldn't melt. Add a extra cable to run for the sense/talking stuff, and done. Also, we could have just stacked the 8pins. Or put them on the short side of the gpu, would be quite neat too. We have enough vertical height. Not to mention, maybe we should focus more on efficiency, then on speed/power for a while. I think now is the best time to do so.
+How could they have fucked-up this cable design this badly?
+Why didn't they make a single aesthetically pleasing cable with a 'U' plug for the GPU and connect somewhere behind the motherboard amongst the rest of the cables? Or make a GPU specific PSU with 1 cable?
+How hot does the old "working" style of connector get to, out of curiosity?
+I don't get it why they made 12pin connector with 8 wires. Why didn't they just made 8 pin connector so every wire has it's own pin in the connector? No foil, no soldering, no nothing.
+6:10 the thing is, if that's the case where either side has come loose, the middle pins will be drawing too much power and heat causing them to melt, not the end ones surely?
+My question is, if modern cards are going to continue to use more wattage, would it not be easy to just step up to 24v power supply and step down on card?
+The issue is the crack in the solder allows for contact, but considerably higher resistance, which disproportionately increases amperage and resultant heat through the cracked line. Instead of 600w/4, you get 1 line at 400w and 3 lines at 67w. That = cooked pins.
+6:00 - Then central pins would burn. So it's otherwise - side pins burs because they do not redistribute current over other pins and take all the current into single one. But then another question - what is the #$^p material connectors are made of, so they melt at just 100 C?
+Made in China?
+Seems like an arcing issue rather then just a cut wire maybe
+So is the Corsair cable OK to use for ALL psu's, or just corsair psu??
+LOL What even is this connector, are all those wires connected so that it is only one circuit?? why even make a connector with that many pins?? Why not just 4 beefy pins (V+,V-,Ground and Sense) ??
+So.. is there a safer alternative? Which connector is safe to use for the 4090?
+Is this the same for 3 wire cable? I have an msi non overclocked 4090
+Could it be breaking then bridging over to another contact inside the plug forcing a potential arc or too much power going through one connector pad?
+Could this be EVGA left left working with them?  maybe they had concerns and they wouldn't listen
+Hm... it's not disconnecting the wire completely ... it is its developing crack in it and have to deliver power using less of the surface ,or to say it's touching it but not attached ... like welding arc
+Why are these cable and wire design so cheap and primitive? Isn't it time to re-engineer these wire connections? Instead of having 2 or 3 connection ports they jam all into one.
+Okay another specialist here. WHY TO USE VOLTAGE SENSE WE WE NEED TO MEASURE CURRENT? WHY A SMALL CABLE TO A BIGGGER JUNKY CARD LIKE THIS ?
+I'm not convinced.  By this theory, the outside wires are the ones that break, and if that's the case then the outside conductors aren't the conductors drawing the excess current --- so it should be the center conductors drawing extra current.  That would imply that the inner plastic keyguides would be the ones first to melt, but it's the outside keyguides that melt first.
+But suppose now that the connector isn't quite fully inserted, or is slightly oxidized, or has had too many insertion cycles applied, or the contact is bent.
+I know the video is more than a few hours old but can we get some x-ray analysis of the connector and wire ends just after bending for a full picture of the failure? Would probably go a long way to diagnosing the highest probable failure points
+Is it possible the broken cable is arcing.
+So where is the IC that sits within the cable Nvidia talked about?
+I don´t get why we can´t just use the old connectors but 4 of them....
+What if this was an elaborate purposely done defect by Nvidia so they can make people buy the rest of the 30 series cards so then they can subsequently "fix" the issue when the 30 series stock is low enough...  I do not believe my own conspiracy theory but you never know.
+Maybe it's not getting hot because it's not arcing electricity like it perhaps would in the tight quarters of the mould, and thus generating heat.  An electric arc may occur either in direct current (DC) circuits or in alternating current (AC) circuits.
+Buildzoid disagreed but who is he....
+With such a wide card, they couldn't redesign the power port to the back of the card? Hell put it by the I/O ports and give the card its own plugin where you plug it into the wall.
+I don't get is why the pins on the side melt if some wires break of. Shouldn't it just heat up as a whole? Or are they only cracking, increasing the resistance on the side wire connections?
+I would have thought it’s more likely a case of it arcing within the plug from it breaking this would produce significant temperature
+Hey Jay! How about a build with a 13th gen z790 with a 30 series card performance difference from the previous 12th gen since everything on the 13th gen on YouTube is paired with the 40 series! Just curious since I’m looking to do a build fairly soon
+I dont get why we needed to change the connector has people never herd if it aint broke dont fix it
+Hello, QA? Stress-testing?
+Uh...Excuse me if I'm missing something, but WHY THE HELL ARE WE USING PINS? If everything is all soldered together, why aren't we just using one large connection pad?
+Why oh why did they pot a flexible cable/solder connection with a flexible rubber (even a hard rubber). In industrial applications, we always potted the back-shell on connectors with a rigid epoxy for just this reason.
+why melted inside not outside ? this adaptor have very fin pins that why is a fail ,if the problem was from the wire ? the wire should be melted not the adaptor
+maybe in trying to recreate you are removing the problem by taking away the cause, while still in the plug the broken fixing would possibly be arcing ....
+Vibrations from fans might also create some arcing on top of everything else?
+This doesn't make much sense to me tbf, if the outer connections are broken why would the heat be focused on the outer pins? Surely if the outer connections are broken the heat would be more in the middle?
+so is this just the adapter? like if I have a  single 16-pin cable will it be okay?
+Don't replacement cables void warranty?
+You're not even getting copper cables gor that price? Damn... I don't think that's even a dollar of profit on every card sold.
+Alright, how long until we just have to start up and attaching 4 gauge car subwoofer wiring kits to power our GPU's?
+Not sure if someone mentioned it or not, but if the wire broke off if could be arcing which would cause the melting.  The video had clean breaks and no arcing involved.
+So if we are undervolting(I'm running 80% power target so it makes around 400w when boosting)- and we are using 3 pcie cables+ 1 daisy chained- should we be using the 4th cable in case of failure? To make sure we have enough wattage threshold available
+havent they ever heard of a thing called crimping
+Now will Nvidia and its partners  accept returns of the entire card if the card started melting?
+I really don't understand why extra metal couldn't be added to increase contact surface and prevent this silly problem? I couldn't care less of how big is the contact itself.
+how much ya want to bet some tool in an office saw they could cut back on costs by cutting out the additional ground wires and decided it was worth the risk...
+Not sure this about the outer connections breaking causing the remaining connections to heat up / carry more load: it's the outer connections that show melting, so maybe the gap caused by the stress break is where arcing is happening: the electricity crosses the break by way of plasma - that can get super super hot?
+Why aren't those things crimped-  Or have a adequate pull-safety
+Honestly seems like a jank design. Part of me wonders If their won't soon come a point where the supply voltage will have to increase to bring down amperage.
+Just asking.. the problem is just the nvidia adapter right? Not the graphic card connector itself or the connector from a power supply with that connector
+Can someone explain the point of these connectors? What was wrong with multiple 8 pin connectors?
+What about arcing when it is still barely touching ? Not gonna lie, those nvidia connectors look really shoddy .. that much power draw should not be using a little aluminium bridge. It should be pins crimped directly onto wires.
+Disconnect your car battery terminal and reconnect it over and over and over again very fast, tell me what happens. Lol  Ummm dude if the solder broke, you turned it on and the vibrations alone kept it making contact and not making contact over and over it would Spark and catch fire.
+I'm not an electrician so can someone with more knowledge explain this. If there are 12 pins, why are they using 8 wires and soldering them to the "foil" thing making 4 wires connect to 6 pins, instead of simply using 12 wires?
+Problem is the 4090 is too high for some cases after the wires are plugged in and when the case cover is put in place it's stressing the plug connections and breaking them .
+Something I don’t understand… why can’t the plug have a single large +12v & single -12v blade connections. Rather than all these individual pins 🤷🏼‍♂️  The connector overall could be smaller & would have much more metal contact than these pins.
+I don't know if there is a protection but if the wire is broke from the pad it will sometime connected and sometime disconnected due to vibrations that will cause arcing and this can cause high temp. If you cut the cable only the cables will heat up not the connector. Again i don t know if there is a protection for arcing.
+If the power goes to the foil then is distributed to 6 connectors...  Why have 6 connectors? Still feels like a change in hardware for no good reason
+Presumably what might happen is it might half-break so it's not completely disconnected but is just touching it a little, creating a higher resistance & temperature?
+I'm confused.  If the outside pin is no longer connected, it is not flowing power anymore.  Why is it that pin that is melting when it's not flowing power?  I think it's shorting when it breaks.  It's not that the card is asking for more power from the remaining 3 or 2 connectors, it's that it's bridging the gap that was there before the break.  This could create arcs which will melt the plastic.
+Ever thought of taking an X-ray of those cables? It’s pretty common to check materials with that. Even a ct could be done.
+I think that bus bar in connector is problematic. If one contact have better connector because uneven connection force then it will take more current (more heat) because bus bar is making sure all have same voltage drop. With bad connection current move to other pins and that contact will have smaller power to dissipate.
+So Nvidia charge 1500$ for a video card and then cheap out on a 2$ adapter? 🤦‍♂
+Is it possible to "also" be electrical arcing by the dislocated joints to help out in the heating along with the concentrated power draw? Question from a layman that has seen a similar issue in a completely different place.
+That doesn't make sense - so if power goes through 2 middle wires, why are broken ones melting? Shouldn't middle ones melt?
+Is it possible that there is an electric arc creating between these 2 metal plates that the cables are soldered to?
+could you use a continuity tester accros the pins to check if the foil is broken. or does the sense pin bridge it
+sorry if this is a stupid question, but why is this soldered inside a crimp-type connector housing and not a common power plane on the card PCB? surely the video card guys actually talk to the power supply guys. This is the same reason they rivet airplanes together and NOT weld them.
+Question, 'Why NVIDIA adapters are melting?'. Answer, because they are shite!!!! At this rate Nvidia gpus will only be found  in a museum....
+Am I okay if I undervolted it to 350W MAX?
+If I see correctly both side connectors have their own individual cable soldered to them.. The cables in the middle disribute the power to two pins in the connector, this will obviously put less load on the pin and as it splits.. Can the issue be that they calculated the load of the pin there and forgot that they will have the side pins under a much higher electric load ?
+Nvidia do you think we all use an open air test benches and cases are all compatible with completely straight cables??
+How the fuck did the PCI-SIG approve this crap?? Did they see the USB guys and think: We can top that shitshow!
+Wait, did they solder multistrand wires? That shit's gonna break.
+Did you up the power limit to 600 in afterburner for the test is yesterdays video? thats a 33% power diffrence and that may be the diffrence between 62 degrees and it burning up.
+Then why aren't they melting at the solder joint instead of the end of connectors?
+Why are these not crimped like power supply wires are meant to be? Do folks making these not read the cabling handbooks anymore?  Also 'Sol-Der', not SoD-Der. There's an L in the word that seems as hard for folks from the US to say as the second i in Aluminium.
+But was all the sensing wires connected? How many pins was actualy in use?
+I don't get it. If the outer wires broke from the metal foil shield, there is no current passing through them. How is heat generated on them to melt those plastic keys? The inner conductors would be carrying more current and thus heat things up...
+I still don't understand why even 8 pin PCIe connector exists. What's the problem with using 12 volt eps (cpu) connectors for everything?
+a wire on a piace of metal inside of piace of sh*t plastic... will we need some quality stamp for safety? is it illegal in terms of electrical laws for safety?
+that's great if you buy the corsair plug but is it compatible with like an EVGA power supply.................
+maybe cutting off the plastic cover allows enough direct cooling of the connector to prevent the overheating?
+How about microarcing?
+i supposed that cable was soldered by machine, right?!
+If you have a ATC 3.0 power supply and you are not using the pig tail adapter does that negate this problem?
+Should I be worried that the cable that came with my MSI Gaming X trio 4090 only has 3 plugs and not 4?
+Ok nice and what is the name of the cable we need to order to be save ?
+One thing I can't get my mind around is if those small 12 pins are enough for delivering 600w, why the hell did they make an adapter, utilizing 32 bigger pins?!
+I wonder if this was part of the shit fight that made EVGA stop working with Nvidia
+Maybe rebuild out of materials that are heat resistant and more of an mechanical design...
+Jay, instead of bashing Nvidia, how about telling people to actually adhere to NVidias recommendations to NOT BEND the cable exactly as told NOT TO BEND THEM.  each one of these users showed pics of their builds and each one had horizontal BENDS.
+you mad or jealous he found it and not you?  i mean, its not like you absolutely failed to intentionally cause a fire yourself.
+Why they thought a connector that small pulling more amps than a level 2 EV charger wouldn't be a potential hazard is beyond me. Not a single one my friends or I would be opposed to a triple six or even triple eight pin setup. Edit: I know the power draw itself isn't exactly the issue, but that much power in such small space creates absolutely no room for error. Having less amps through each pin would reduce resistive heating if the connection isn't quite perfect.
+mby i wasnt paying enough attention, but you said ground has to be plugged so the card draws over 450, but if you cut the write (not just break the 1 cable of the pad) than the ground is not connected and the card wont pull over 450 or am I missing something?  EDIT: ah i get it you cut the cable which goes to pad and leave the ground in tact, ok, but then, if you cut it, its clean, but if its only broken and dangling there, that would be totaly different case, it might connect sparely (especialy if its in close proximity - on very short distances, electricity can travel through air without touching - that would create massive resistance (heat) - like a lightning during the storm.
+I'm confused (not difficult) if the wire breaks to the outer pins they carry no current, no current = no heat,more current to the inner pins so they get hottter, so why are the outer pins overheating?
+How can the outside cables get hot when they broke off? If they break off than no current flows through those cables so actually the inside pins should've broke.
+I don't think the issue is it breaking off and shunting power to other wires, but rather breaking off and _then touching again_ so all the current from one plug goes through a tiny contact patch, which will easily make things red hot and melt the plug
+wondering why car have such chunky cables on DC... dont need special knowledge. they made very very pricey home burner I would suggest buying insurance with 40xx series. we'll see even more cheaper adapters on market for sure
+Why? By design.
+As a really shity engineer, I think Jay wasn't able to remake it or have higher temp, because he cut/snap it in opened connector. When it's closed and snapped, there will be electric arcs, small but many inside, and it raises temperature
+My thinking here is if they have cut corners on the cheapest part of the product where else have they cut corners??
+I wonder if an Arc Fault Detection Device (AFDD) would detect this sort of thing.
+what about the new PSU's which have already the 12VHPWR plug and you dont require an adapter? Are they safe?
+Question is: can you sell such a weak piece of connector for a card that demands 600w? Is it or is it not the dumbest idea ever? Thank  you.
+would a mineral oil help? if the pc is submerged into it.
+Why do they need so many thin wires when they can just use two (GND +VDC) thick wires...
+I wonder whether the 24 into 8 is causing a scenario of 24 volt at the specified amp however without using the full pin in  they have created  a 12 volt at  40+ amps when the connector is only designed 10-20 amp over amping the connector  which is causing the the cooking of the connector  the pin in into the  card should have a complete +/- 12 volt rail with a minimum of  a min of 12 pins for power  and 2-4  sense  or go the whole hog  and do a  20-24 pin connector  as the power connector..
+Nvidia have to listen? ya right 😏
+So internally, the connector is just one 12V Positive and Negative rail??? It looks like all the pins are punched out of one piece of thin metal foil that the wires are all soldered to.  What I wonder is the contact area of the cup in the adapter to the pins on the card. More contact area would spread the heat better. More solder on the wires would spread the heat down the cables too.
+Anyone know what type of plastic is used for the connector and therefore what temp it will start melting at?
+Did they solder them? Sheesh they pull crazy amount of current why soldering. It's an extreme fire hazard. This isn't an electronics cable it's an electric cable, should be constructed  way tougher
+Likely sub-cause is if there is a minor break - but the two pieces of metal are still close. Arcing across the gap is likely the cause of the heat, rather than just high current through small metal pieces (not that that is a good thing either). You possibly couldn’t recreate as you made a clean break and completely disconnected the cable.
+makes me wonder how the current balancing works , if they do it on a per pin base then middle wires caries twice the current as the outside wires
+I honestly wonder if Nvidia saw this which is why they swapped the orientation of the plug on the GPU after the 3090 (non-Ti)
+why cant nvida just put the powerconector more resessd so you dont have to bend the cable as much
+War in Ukraine, electricity and gas prices going up, food prices on the rise, petrol prices high now graphics cards connectors failing. Is this the sign of the apocalypse or just a first world problem???
+With all of the roumors that were flying around months prior to launch about how much power the 40 series cards were going to draw, you would think that they would at least get the connector that all the power passes though right. Instead. it appears someone decided to cut corners in the design for whatever reason when the adapter for the 30 series actually has 12 wires running to the adapter and the 40 series only has 8.
+Do anyone know if there is diodes on the cable to avoid the cable from redistributing power between the different 12v rails
+4 cables into one? Why? Just plug 4 connections. Yes, it's more than before. But it's drawing 600w and have so much render power.
+The issue is that there are breaking tabs between all pins..
+I do not understand this design, besides the sense wires, there are only 8 (thick) wires going to the connector, why the hell does it need to terminate in a 12 (thin) pinned connector? Why not terminate in an 8 (thick) pin and split the power on the PCB? The size difference of the connector would be neglectable, but the connection would be tried and true.
+so they go from four 8 pins (twelve 12v wires)  to one 12/16 plug (six 12v), and they couldnt run 2 dedicated wires per terminal? sounds lazy but i was wondering when someone was going to do a wire trace diagram and show where all the wires were going.
+Why couldn't they just jam two wires into one and use two connectors instead of jamiing 4 into one.
+How would this fair if the cable was the single 12 +4 pin cable going straight from the ATX v3.0 PSU to the GPU? And yes they are out - Thermaltake 1650W ATX V3.0 is currently in my possession.
+The real question is.. What's Nvidia going to do about it?? Because I'm not buying a 4090 until this issue is completely fixed.
+Is nvidea even aware of this?
+Would it appropriate to call this Bendgate 2?
+Hmm, if it wasn't cut but broken off it might be close enough to still have current jump, basically an arc welding kind of thing? Seems this should have been in RnD a bit longer regardless.
+Hello NVIDIA. What about a higer supply voltage? In power generation we made good experience with about 720 V three phase. A robust current rail system with bolts would also be nice and running the card in an inert gas environment will prevent fire or will let the operator escape in time. 😁
+Is there a link to the Corsair cable, please? I'd like to take a look at it and see if I should buy from Corsair or from Cablemod, their 90 degree 12VHPWR cable.
+I was wondering this during the last video also.  But, is it possible that your benchmark test is not pulling enough power to actually heat up the connector?  Would a high demand game (4K RT on unlocked frame rate) over a duration actually pull more power and therefore generate more heat in the connector?
+The cards should have been released with a native cable, not a friggin adapter in the first place.
+Big brain question; why they use such big ass cables but then the terminal (the thin plate) is so fraking thin like this? it look more like contiunity error, who ever designed this will get fired, you understand? fired XD
+So I guess the solution should be to wait for a better solution to avoid these fire hazards cause nobody wants their 4090 to be a paperweight, Do they? or spend some extra cash on a better ATX 3.0 PSU.
+Got the cablemod remplacement cable, so it should be safe?
+Why isn't there yet an adapter without wires which makes this 12pin into three 8pins?
+Does anyone remember when cables did not generate appreciable heat? Also, how long until we get liquid cooler gpu power cables?
+The issue is the pad/foil thing is breaking but maintaining physical contact allowing it to still carry current but leading to high contact resistance and heating. Break the pad off and like tape it back together to simulate it still being constrained physically by the connector.
+Hey Jay,  what with these insane power draws the newest gen equipment present, why are they using so many wires to deliver the power? Being that a PC is a 12 volt (and less) system why don't they do like a car? No ground wires, use the chassis just like in a car. Then send one larger gauge wire for positive and botta bing, problem solved. Literally ALL components that plug in could be wired in this fashion. Couls knock that 24 pin bohemeath down a bit too!
+e to know what kind of voltage drop bequiet got across that connector running that huge sustained load across it
+Anyone else think that NVIDIA should be paying for replacement cables/adaptors on all 4090s even if they’ve not failed yet? The auto industry issues recalls for less than this.
+But if the wires on the sides are the ones that crack away form the foil, forcing all the voltage in the center, why is it the plastic keys on the sides that melt? I'm confused about that, but fantastic video, and I hope Nvidia is watching 😳
+Such a convoluted way to make a connector, why not make a proper adapter with crimped pins and make is a little bigger since there is room for it.
+So, the issue is NVidia cheaping out on essential part that does not cost as much as other part while endangering the entire card.
+How funny would it be if you cut it open and you just saw a small picture of Jensen laughing.
+Power transients..... Did I hear anyone say power transients???
+Why would they pay someone to find out their issues when they can wait for your videos for free 😂
+from the picture shown, it looks like that pad failed, and not the solder
+All these videos make me wonder if bending the cables is the problem why don't they just have 90 degree adapters? One up, one down, one left, and one right, to account for all the ways AIBs can orient the plug on their cards.
+If it barely brakes yet still real close to the pad, you could be getting arc which would introduce more heat
+So the 6 pins for power and the 6 pins for neutral are all on a common bar?  They're not seperate?  What kind of absolute moron specs out a connector with one electrical point going to 6 parallel pins?  If there's no electrical isolation this should be a 2 pin connector.
+does the 1 ms refresh time really make a diff when most computers will never come close to pushing enough frames threw to get a 1ms .Like in fortnite in creative i can get like 600 fps but my respons time is never been lower than 3 ms.
+I doubt that's not what causes the fire since the melting part is the around the contact pins, not the soldering part. still a recalling-worth issue tho
+Would the cablemod cable be a good replacement?
+Sooooo many videos on the issue……..but what’s the best way to deal with it?
+I guess the question is what will Nvidia + partners do now - replace defective parts as they defect or be a bit more proactive ?
+Serieously how did Nvidia expected passing that much of power through those small wire
+so? guys at nvidia just didn't test them enough? that's concerning
+Does the Atx 3.0 cables work?
+Wait.... W H A T ? ? ? ? ? kopite7kimi never mentioned NONE OF THIS, that I know of?!!!!!
+My question is this. Will this be an issue on the lower teir card or just the high-end high-wattage cards?
+I'm sure there is a reason for it but why do they need to use a bundled cable composed of 12 small gauge wires instead of one thicker wire?  Are the individual pins/wires distributing differing amounts of voltage?  I googled this and the best I could find was that a bundle of smaller wires is cheaper than one larger gauge wire.
+Nvidia released this cable without testing?
+i wonder why ITT and Amphenol connectors that are rated for more than 10A aren't as puny as nvidia's connector.
+Thanks to Democrats and Biden we have to worry about our graphics card connectors melting? We never had this issue under Trump
+Does anybody have a link for the Corsair cable or replacement adapter he talks about at 7:24?
+This is a huge oversight! What kind of subpar engineering is this?
+I have some ideas about wiring. If I need something like "queen Ada" , better ask if there are solution in order to save a day.
+I wonder if things like this is grounds for a lawsuit
+I'm still waiting to see if any of the manufacturers try to deny an RMA over the cable burning out and blaming the end-user..
+Just curious, Jay.  Did you like to read Encyclopedia Brown when we were kids? LOL
+Why does my comment keep getting deleted?  There's nothing controversial or anything in it.
+Hi J2C, Recent subscriber after finding your tech videos really information and interesting. Especially considering I have a 4090 coming myself.   Just curious, if its only 4 wires, why do you suppose there is a 12 pin connector and not 8? is it the fact that the 4x 12v+ are shared accross the 6 pins that allows it to reach 600w? couldnt it do the same with an 8pin connection?
+What about transients are they still a thing
+So what should I do if I have a new 4090? Do I need to buy another adapter?
+$3800 AUD to put up with this shit?
+I don't understand why they decided to use such fragile 3-to-1 wire. They could have just added 3 connectors directly on the board.
+Maybe its arching inside?
+so there's a rise in resistance when the terminal breaks partially? I wonder if there would still be an issue if there was no continuity and the terminal broke off cleanly within the plug.
+So how are they allowed to sell such a hazard product when other products that had faults like this in the past like those one note situation years ago were under investigations and a recall was done? How is this even legal?
+Why do we need so many wires and thus create a higher resistance because they are thinner?  The car has 12V and a lot of Amps and uses two thick cables, Why can't we have thick cables for the graphics card?  Everything comes from one power supply!
+They needed a new connector this generation anyway. So why the fuck are were they limiting themselves to these small pins and trying to share load among a bunch of them? Why didn't they use something beefy like a XT60 connector?
+Been building PCs for 3 decades... Never once had to worry about over-bending a soldered connection... Isn't the purpose of crimped connectors to avoid the issues with soldered joints? Lol
+love how the card cant tell
+Any company out there selling 90 degree adapters for this wire yet?
+i just wonder why they didn't just design a right angle plug. they know that in most cases it is going to have to be bent. just use a right angle plug or even have an adapter so the cable can be ran straight. should have had more strain relief too, and the solder joins on even the cleaner looking connectors look amateur.
+Question, should I be concerned with a 16-pin to 16-pin cable, or that should be fine as it’s 1:1 and doesn’t have this ‘metal foil’ component to bridge four 8-pins into a 16-pin
+Sure looks like some bad soldered contact design there...
+I guess I don't understand why for the price of that card, they can't include a cable like the Corsair one you showed.
+Surely the question should be why draw so much power/current ? We need a lower voltage solution !! What's next ? 3-phase power for pc's !!
+Why the heck didn’t NVIDIA do what Corsair did?!
+I'm wondering if they're getting voltage runaway?
+Isn't that metal piece that all the wires connect to called a "Bus bar"? Since all the current shares a bus to the connector?
+Can I use the Corsair cable with a Be Quiet power supply?
+What is soddered?  It looks like it was soldered. Anyway, that plug is rubbish. Shame on the manufacturer.
+What are the chances that the broken wire is possibly touching the adjacent connection? In theory, that would be putting more voltage through a single connector than it is intended to have.
+I orded a Cablemod custom cable for my seasonic power supply. I'm now curious if they are wired properly or should I be worried about failure as well.
+Between needing frames to go around the CPU and cables melting...what the heck is wrong with these companies.
+so in short all this problem happened because of using adapters ( pcie8 to pcie12 )..  what about native connection from PSU?  still has the same problem?  since we already got PSU ATX3.0 like from FSP
+Curious to find out if out of the box these cables have the possibility to break from the bend sideways. Or, if you could technically bend them, but overtime when heat gets into the foil it makes it brittle and eventually snap from the pressure of being bent.
+With as big as these cards are why not just make your own power brick that plugs in the back of the card next to the rest of your ports? Kinda like the old Xbox power blocks.
+Why does it always have to be smaller? Also sth. I don't understand with phones, tablets and laptops...at some point a limit is reached and thats fine. However they still try to make it smaller but increase the energy consumption and heat generated...and for a non-portable cable i don't understand it even more.
+I don't quite understand. If the side cables are disconnecting, thus putting more load on the inner two cables - which translate to the inner *four* pins, why is that in the pictures damage happens on the outer two pins?
+So if I have a 4090 factory sealed wtf do I do to avoid this exactly?
+That doesn't make sense. If the connections on the outside connectors break the current will overload the remaining intact connectors. It is these remaining connectors that will overheat.
+So Nvidia couldn’t figure this out? 🤦‍♂️
+If your PSU has the PCIE cables spread over multiple rails it must not be good to just tie them up together on that bus bar at the end of the connector don't it?
+I still dont understand why the power plugs on cards are where they are.  like... put them on the underside pointing down or something.  Would be more hidden too.   Why force the cable bends all the way up front.
+Im not completely convinced  Im an electrical engineer and i work with high power connectors fairly regularly and it appears to me to be some sort of high resistance in the connection it self  either very poorly made contacts, corrosion or factory crud, or i think more realistically an improperly seated connector  but all i have to go off is photos, i assume ATX will do an independent investigation and we will get the exact cause in the next few months
+Uhm.. there seem to be 2 sensing wires cut on the cable.... Or did you use another cable to test with?
+I can't find one detail that is quite important here. Are the pins bridged also on the GPU itself or is the bridge in the adapter the only one? If they are bridged on the GPU, then the flimsy bridge in the adapter should not cause heating up. Electricity will find the path of least resistance and would simply go through the middle 4 pins, then spread to all 6 lanes. If it's the only bridge, then it might be possible that the card tries to pull more power from the outside pins and the only path for it to go is through the tiny bridge. The problem here is that nobody reproduced this behavior, slight increase in temperatures might be just a result of using 5 or 4 out of 6 cables and joints, not enough to cause a meltdown. Besides that, if that was the point that generates too much heat, why would only the outside pins melt? It's a bridge between outside pins and the second from the outside. It would actually make more sense that the outside pins have better cooling than the ones inside and it would melt from inside out. In all cases it's the outside pin that gets hot enough to melt the plastic, so the heat source should not really be in between two pins and only cause one to melt. Even if we'd consider that the outside pin has lower thermal mass (cable ripped off) than the second from outside (cable still connected and bridged to the 3rd one), it would look quite unusual. What seems to be much more likely cause is that the cable is only slightly ripped off. Enough to still let the current through but with much higher resistance causing  much more heat. This way the heat source would be only on the outside pin and the second from the outside would get less of this heat transferred through the bridge. This would also match everything we know so far. It's caused by bending it and cracking the solder or the whole pad, the cable is still connected but the connection is very small and heats up. In this case it would not matter if it's bridged or not but rather if the cable can partially rip off the pin pad. The way to test it would be to cut only a bit of the pad of the outside pins and see if they heat up under load. Probably we would see some spectacular meltdown. Even more, it might be reproducible only on setups when the outside pins are connected to separate rails in the power supply. After all, if it was just one rail split into two wires and one of those wires has higher resistance because of the cut, most of the current would divert through the one that is in tact. If they are separate rails (not bridged anywhere else between PSU and the adapter), it is possible that it would try to pull fairly high current through the damaged pad as there is no other path for it to go and it is still connected. Instead of this sort of testing, I would just go on with manual test by putting a load on each pin lines separately and testing how it behaves, what's the temperature and how bending it affects the results. Most likely under high load on the outside pin and the outside wire you will see resistance spike when you bend it enough.  What's important is that it's not enough to have this bottleneck that will heat up under high current but also have a situation in which the current would actually flow there. If there is a bridge on GPU side, it will divert to use pins with less resistance. If there is a bridge on PSU side, it will divert to use pin pads with less resistance. Only if there are no bridges on both sides and the bridge in the adapter has fairly high resistance, it might actually pull the power straight through the broken pad that has much higher resistance. Simply because there's no better way for it to flow.
+The big question is those people lost warranty on their cards?
+What about when you dont need the adaptor and its a straight cable from a pcie5 psu?
+The big question on everyone's lips is... Its Igor's lab now, so what happened to Dr Fraunkensteen?  Enquiring minds want to know.
+It’s not breaking off the wires causing high temperatures… it’s a connection that’s not stable and connects and disconnects from time to time, or what’s most likely happening is because the connection points are still really close after breaking off, electricity is just arcing over it , which is very very very hot.
+What i don't understand is with all the time and R&D that went into this how did they not know about this as a possibility and not adjust design or something?
+maybe the heat is dissipating faster because those soldered wires are not covered.
+In what country were these made, China, Mexico, Vietnam?
+Suggestion Jay, can you make a video of using an iFixIt guide to replace the battery of your thermal camera device?
+Extra current going through the center wires would not melt the outer ones, that makes no sense. But, a thinned connection on the outer ones would create higher resistance and turn the metal into a filament, like an electric lighter or light bulb. It's more likely that the flexing caused a weak connection, not a broken one.
+Is the cable mod cable a good alternative to the Corsair cable?
+I think there is a huge misunderstanding as to "WHY" it melts, i mean clearly the design is having an issue. But its not melting because its not drawing power anymore. Its melting because its drawing power though a single pin, instead of being spread across the array of pins.
+I wonder if it also has a cascading issue.  One of the problem with large 3D printers with a heated bed is that they used soldered muti-conductor wires and the current can actually soften the solder.  If that happens on a cable under stress it could be enough to get it to pull apart slightly.
+Where is EVGA with it's powerlink 52 for rtx 4090??
+I am not getting something here. If the outside pins broke off, then the inner pins would need to pull more current for the same load right? That means that the inner pins would heat up, not the outer pins? But it looks like all the pins have continuity to eachother anyway, so maybe it is the bridge between pins that has the extra resistance that causes the heat. In other words, when the outer wire breaks, the current now has to go through a bridge a further distance rather than the wire that was there previously. That is the only way I can see that with the outer breaking explanation how the outer pins could heat up, not the inner ones.
+What in the connector is causing the increase in the resistance once a wire disconnects from the solder joint?
+What is the problem with simply putting 3 or 4 standard 8 pin connectors directly on the card? And don't tell me the card is not big enough for that.
+So do graphics cards not use similar gauge wiring to car audio so it's easier to work with? Just seems janky to split up power between wires to achieve the power output.
+So its a push down problem?
+Is it possible for the heat to make the break worse on these cables? I don't know, it was just a thought. when the solder becomes more malleable due to heat could it cause the break to become worse....
+I just picked up my 4090 FE from Best Buy and I’m worried about this issue. Maybe I should return it.
+Was this connector designed during the pandemic?
+Just speculation but isn't the air gap between the pin and connector acting like a capacitor?
+I'm really wondering if I should be concerned about this issue with my 3090ti as it uses a similar 12 pin connector, albeit 3 plugs vs 4.
+I know you tried using an 850-watt power supply. Could a lesser quality power supply of the same wattage in the test rig exacerbate the issue?
+Is it possible what you are calling 'foil' is actually Ribbon Solder used to assure 100% contact to the wire and to the plate? Or, a short cut that failed miserably in the real world?
+The quality of connector is incompatible to the price of these cards.  Class action lawsuit, or caveat emptor?
+Intel don't even use this connector. I wonder why.
+How does something like this pass quality control? Build a component then stress test it at full capacity for a sustained time period.  This should be an essential test.    That said Nvidia do IMO have the most comprehensive feature/set support(AI, ML, RT, gaming, app support - blender,etc).
+Just a thought if the pad breaks loose but it's being held in the approximity to the metal plate that it was previously soldered too wouldn't there be some amount of arcing.  Loose electrical connections are infamous for causing fires.
+...BUT... If the current is going trough less wires, the full wire would have increased emperature... Wouldn't then you see also melted wires and also connectors on the PSU side? I think is a contact issue... For some reason the contact area between male and female connectors is being reduced. In the small remanent area making contact, they will heat like hell.
+Need to force additional attention to new videocards?
+Anyone know if Cooler master has a better adapter like the Corsair one?, as I cant find them
+im curious why they use such tiny connection points for the cards bc i do alot of car audio and ive run well over 1000 watts through a 4' section of 12 ga wire so the only reason that i could see that that 4 sets of 14 ga wire is burning up over a distance of maybe a foot with only half the power is its just a terrible connection and they could do this so much easier just using a single set of 12 gauge wire and it wouldn't burn
+Does it make more sense to have the GPU power be at line voltage (120 or 240)? That will reduce the amperage on the connection by 1/10 or 1/20. Of course you would need to add more power management to the GPU to step down the power, but seems on the surface like it could be a lower fire risk if we re-think power distribution for higher wattage components.
+would you have the same problem if you use a power supply that doesnt need that adapter connector?
+Is this just the 40 series cards? I have a 3080 and I'm getting anxious watching this.
+So NVIDIA just wanted to make the connector slightly better looking? It does look cheaply done internally. They should know better. Solder and crimping is a must for wires into connectors. relying on solder is dumb as it is not flexible.
+What I wonder is: Obviously the outer pins suffer the most. The middle two cables are soldered to 2 pins (I assume that makes the connection stronger) but the outer only to a single one? Wouldn't the opposite make more sense? I might be wrong though.
+I’m confused, if the side wire connections break and causes more wattage through the others why are these “disconnected” sides the ones melting?
+Perhaps I'm missing something, but wouldn't a simple fix be to have a couple 90° elbows come with the 4090s? One elbow turns length wise the other turns width. This would eliminate the bending of the wires which results in the failures causing the overheating and melting.
+wonder what EVGA would have done had they Produced 4090 cards.   compare?
+Is the cable that comes with atx3 psus from Asus safe? That's the one I'm running right now
+The plastic melts at 100c/212f?
+Am I the only one who thinks 4 connectors merging into one is moronic in the first place? They really could not come up with a better solution on 2 thousand dollar product??
+If the soldered wire breaks off inside the rubber cover, it should still be close enough to the connection. But because it's not a proper connection, won't it create an arc? I think there are so many factors at play here that is putting unnecessary stress on this small adapter. You got a lot of amps and wattage running through thin wires, soldered onto a thin piece of metal, going into small pins. If an arc is possible, you won't be able to see it because of the cover. But it should be enough to create some high temperature  to melt the plastic and all you'd see is smoke coming out. I'm no engineer, or electrician... just thinking out loud.
+Sure poor soldering, but also shouldn't the strain relief be designed to prevent...strain... on the solder joints? Like barring extreme mistreatment.
+What if a clean break away isn't the problem? Maybe, what Igor found was the wire end still hanging around making contact with it's neighboring wire. Or worse, touching the grounding wire below it. I'm legitimately asking, since I'm very limited on electrical knowledge.
+the connector for my zotac 4090 only has three segments it branches out to, so not sure if i have to worry. almost want to just get a 3rd party cable before i even plugn it up
+I'm no expert, but doesn't having less that 1 wire per pin seem like a cost saving strategy?
+TO JayzTwoCents   Maybe when The wires were covered in the molded plastic the solder points broke because of the plastic shrink around Them and Thats why some are melting
+I truly believe you're on the right track for the issue, and its a serious one, but are you testing the broken connection under load over >2-4hrs?? Which is likely a condition of the melting point for the average gamers session... The pace of these current videos seem like you're rushing to get the conclusion, patients my friend! :)
+Seriously. Please someone smarter than me explain how this escapes QC??  I really just don't get it
+Your facility has A/C?  Maybe the pc was running on a tropical place with little insulation. I'm not saying to leave the PC on the sun. But just try to keep it on a room with no AC.
+should have half way cut the connection, make it a fracture instead of a complete disconnect.
+Sorry guys but stupid question what adapter should I buy if I have a Corsair RM1000x 80 PLUS 1000 Watt power supply then? I own a 4090.
+the melting is from the arcing (if its a full break), or the remaining connection of the partial break being turned it into the equivallent of a mini fillament at that spot... where do you find fillaments? In lightbulbs and as heating elements.
+My card came with a pigtail that only has three plugs, maybe that one isn't wired in a quite as Yolo manner? I'm probably still getting a cable mod cable either way, because the pigtail is bulky and annoying,but I don't see anyone talking about the 450 watt adapter. I think both Inno3D and Gainward Phantom cards come with it.
+is it possible these are also just made with subpar plastics?
+I wonder why they chose soldering for this. That should have been a crimp.
+If they are all soldered together why even split among different pins. Why not use a heavy duty 2 pin connector like on lithium battery stacks combined with thicker wire.
+this damn cable again? ffs.....
+PS3: Igor? Is that you?
+But if its the outer pins disconnecting/causing the cracking which then breaks their connection, why are THOSE pins the ones causing the heating up.  No power running through them should pretty much take them out of the equation, right?  The middle section should be getting hotter.
+What was wrong with what we had. If it's not broken don't fix it.
+Are forgetting that when you cut the wire there is no connection, whereas when a cable brakes you can get arcing and this is what causes the temps to rise.
+what i dont understand ... all the pins are connected together, why doing the solder plate separated?
+so where can i buy one of these cables that are safe? a link would be helpful
+judging by the opened connector image, the issue isnt about bending but rather the fact that out of 4 big wires for the power, 2 of them (left one and the right one) are shoving all that power only through one pinout instead of two, thats way too much current for one tiny pin to handle.
+So when the  power connecter melts down and destroys the connector on the card....will NVidia replace or repair the card?  Doesn't sound like a great moment especially if you have to wait  6 to 8 weeks to get it back.  Also why the hell don't they just make the connector with a 90 degree connection?
+I think it is shorting to ground too?
+I wonder what nividias stress test is like? Seems like they don’t even drop the graphics card for durability lmao 🤣. Jk jk it happens probably a manufacture error.
+why didn't they just crimp two cables into one pin instead... literally no need for all the soldering, just added complexity for fun, I guess?
+Does the 3-plug adapter included with my 3090ti have individual power wires to pins, like the 2-plug adapter you show here? Wow, the 4 plug adapter is a weak design, what cost cutting nonsense! Thank you Jay for your continued coverage, I understand you don't wanna mess with it anymore. I'm posting the question for all the 3090ti owners with the same thoughts: What's under that tape??
+Maybe it could be a Power supply issue as well? If something in the powersupply breaks and two of the lines are disabled and the card now draws all this Power over 1 or 2 lines it could have the same effect? maybe?
+I wonder if it could be exacerbated by tightly fitting plugs/sockets where you have to do that shimmy / side-to-side jiggle to get the plug in and out, especially in cases where people push/pull on the cable rather than the actual plug
+Could be arcing across gap when the connection is broken that is causing the burn rather than resistance heat.
+What app does Jay use for thermal readings?  Thanks
+If the wires on the ends are breaking then shouldn't the middle wires be the ones that are getting hot and melting because they are supplying all the power.
+sweet lord, they have that much voltage running through a cheap solder joint?!
+Speculation time. I suspect that the connection between the pins broke, that would create an unbalanced resistance resistance in the cables. Let's say the outer 2pins broke off from the rest with 1 cable attached,  that  would leave 3 parallel cables leading in to 4 pins. There would be way less resistance in 3 parallel cables compered to one, therefore dumping most of the power into those 4 pins melting them.
+Not only is it from days of use, the broken solder is still enclosed in the housing, trapping heat, and being an intermitted connection, it might not be fully disconnected, but have a small sliver of solder still touching which could heat up
+Maybe they should have crimped them instead of soldering. It seems they went  for the cheapest option.
+Arcing issue!
+So if the cables melt does that mean the gpu will be broken? Or is it just the cables.
+I wonder will this not happen if I undervolt it? And if so, by how much and how much is the power loss I cant check since I don’t have one
+i like DELL computers. i have one that starts up in 30 seconds?  and it closes quicker?  windows vista.  then i have another pc with fancy looking shit - and it takes 5 minutes to boot up?  and it closes when it feels like it - windows 8?  with each newer version i despair more?  flaky bastard computers.
+Wouldn't a break inside the connector like that cause arcing? If so I would suspect that would be the source of the heat and melting...
+None of this would be a problem, if they just used 3-4 8 pin connectors, instead of a proprietary power connector, right?
+but where can I get the corsair cable ???!!!  I've been looking for a couple weeks and can't find them anywhere!!!  send me one please
+The defect isn't in the build quality, it's in the cost cutting. They got you guys, I wonder where else they cut costs? I think we will see soon enough.
+I am wondering if it is not just that the connection to the pin breaks off and forces the other pins to take up the load, but because the broken pins are still bridging inside the connector increasing the resistance and causing them to get hotter as a result. I dont really understand electronics enough, but it doesnt make sense to me that it is the middle pins taking the load of the broken pins that is causing the connectors to start melting. because it is the outside pins that are starting to melt which are the pins that are supposedly the ones breaking their joints.  so it makes more sense that the broken joints are still bridging enough to push power through the pins at a higher resistance equaling a higher temperature. Just my two cents, i am most likely wrong but that is just how i am understanding the situation.
+Well, if the solder gets cracked inside the housing, that would lead to arcing because of the gap right? Especially at that level of power coursing through such a small connection point?
+Are these just on the Nvidia supplied cords?
+How this passed QA testing is beyond me.
+Wouldn't the outside wires being broken mean they wouldn't have any power going through them. not enough to melt them?
+Those look like cold solder joints (Igors lab one) as well, very prone to breaking with any movement. i assume the machine doing it is not setup properly Here's a thought, of the plug was still covered would it then overheat? Cover it it Electrical tape or any tape to trap heat and see what happens
+Quality control failed.  Some low bid contractor/supplier ?
+Are those connectors really soldered? I thought they were crimped because that SOP for low resistance connections.
+The problem is that Corsair does not have any 12vhpwr cables in stock. So how are we going to avoid using the adapter if we can't even get normal cables?
+Rather than the foil being too thin, could the heat be caused by: a solder joint breaks, and the wire pulls away from the foil, BUT a very tiny part of the wire/solder remains touching the foil, and the very small surface area of _that_ connection causes high heat?
+So, do they actually talk to an engineer when they come up with these designs, or do they just hit up some bum on the street for his opinion for a can of beer and a pack of smokes?
+why have they not fabricated a protected 90* connector yet?
+So, Cablemods to the rescue?
+Would a badly ventilated case make a difference on the plug? So temperatures around the connector aren't around 20C, but much higher as the GPU fills the case with hot air?
+Is it just me or did Nvidia again try to save a penny at the wrong place…
+Shouldn't there be a recall notice by now? Or are they waiting until someone's house burns down before incurring that cost?
+So from what I've heard this is a problem with Nvidia's adapter? Not an issue with a single cable straight from a new atx 3.0 power supply?
+Where can I order one and not wait weeks to receive it?
+So it was a broken connection after all, who would have thought that the card simply keeps on drawing even with less rails connected. That sounds like something that should have a safety measure in place to stop it from happening. With all the insanely talented engineers at Nvidia, how did this make it out to the customer i wonder...
+Maybe you should not cut out the wire completely but damage it to keep very small surface (area) of contact (between wire and this metal foil or sth).  That will allow to transfer the DC with wire but the resistance in that damaged place will be high enough to produce the heat that will start to melting this plastic connector.
+Don't see why the outer pins would burn if these are disconnected due to a break. Surely the connector is not the problem. It's the construction off the adapter that's the problem. An adapter with 12 wires connected to the sockets would be fine. Any heat from the contact resistance would be dissipated trough the wire. With the foil the heat transfer from the outer socket into the wire is poor and could lead to overheating.
+I really want to know if Nvidia will recall those pins and reimburse people who bought the cards
+Why are these cables legal?
+is Nvidia unaware that larger gauge wires exist? Why run a slew of small wires into a tiny 12-pin connector instead of making a longer pigtail out of 2 10-ga wires?
+Couldn't this cause Arcing also if the wire is completely off and it manages to slightly touch say from the tower shaking with kids playing with or you have the side panel off to fit for the cable and a cat is playing with cable....just thinking of examples of possible ways
+For the kind of money that Nvidia wants and the fact their force feeding people this new plug standard you'd think they would have been cautious in quality control at launch to avoid those kind of issues.
+Now the big question. If 4 wires can power 600W, the why did we need 3 or 4 8-pins on older cards? Why a new connector? Why can't 2 8-Pins, which are 6 ground and 6 power lines, power the biggest card; even a 4090. I know the 8-Pin is rated at 150W, but I'm confused when 1 6 pin power and 6 ground pins goes to 600W. This is just bizarre. Please chime in if you know why I'm stupid. I would appreciate the lesson!
+What if the thin piece of metal break and leaving all of one phase or plug in a single pin of the 6 pin
+so this is all due to shitty souldering?!
+I wonder if the solder fails, would the bottom section of the plug hold it in place?  If so it may make intermittent/partial connection, it may increase temperature.
+Jay, do you think AMD will rescind their "reconsideration" of ATX 3.0 and design a better cable?
+Who allowed Them to put this in Peoples Homes? LAWSUIT
+That doesn't make sense for wear some of these are melting. Melting at the bottom of the pin would indicate that the pin itself is the hot spot.
+Can someone enlighten me on how a 12 pin (6×12v 6×Gnd) can pull more watts than a pair of comparable similar gauge dual 8 pins? Same number of power and ground cables, but half the rated watts. (150w per 8pin)
+Is Paul also testing this.?...he's probably just kicking back with both feet on his desk and having a beer 🙂
+Build quality, what build quality, looks like it been soldered by a drunken monkey
+I have a MSI gaming trio X, what do I do now. Never opened the box
+What happens if you only plug the two extensions in with the Sense IO? Leave two empty, plug in those two.  Does the GPU still try to pull since it can see the ground?
+Can someone link me to Corsairs replacement wires for the 12pin?
+So ideally, we should just use a PSU with dedicated 12wHWPR cable , right?
+So basically the safest thing to do would be to solder the VGA power wires directly to the solder points on the GPU? 🤣
+Is it the adapter that causes the melting or the plug
+What about nvidia's adapter to 3x8pin? I have 4090 from inno3d that has such. Is the risk of failure bigger or smaller on these? To be honest I am afraid to plug it out, see that everything is ok, and damage it while plugging it back... so far I game on it for about 10 days with no issues at all. I touched it with my hand after a session of playing DL2 and Cyberpunk and the plug seemed to be cold.
+I'm curious, does the benchmark used maximize power draw? If not, that might a limiting factor when testing this. Last time I undervolted my GPU, the power draw was much lower during a benchmark, compared to running furmark.
+I just watched yours and yes you did a side bend, now I'm freaking confused .  which is it ?????
+I'm curious if cards like my MSI Gaming Trio, which use only three plugs instead of four, are affected by this issue.
+are cablemod cables safe from this problem, as long as youre not rough with the cable? or do we need to wait for a new fix?
+Now I wonder why they chose 4 8-pin pci power connectors and only used 1 power and 1 ground from each, why not use 3 connectors and use 2 power and 2 grounds from each? The spec I can find online of the 8 pin only has 3 grounds and 3 +12v power, so theoretically there is enough wires with 2. The only issue I can see for 4 8-pins is the 150 max wattage per 8-pin so 4 connectors would give 600 Watts total.
+Obviously this story isn't done yet but I do wonder if in retrospect it wouldn't have just been better for Nvidia to have gone and say "here's the new power connector that we are switching to moving forward, an adapter will come in the box with all 30-series cards but when 40-series comes around you will have to buy a new power supply for a direct 12-pin to 12-pin with sense connection" This would have effectively screwed over everyone who already had a good enough psu to handle a 4090 but it would also have uncomplicated things significantly for the end user and they wouldn't have had to engineer this bizarro adapter cable.
+in side the plug when it breaks it will spark like crazy thus create heat.  Removing the wire is not the same. just a thought.
+If the outside wires are loosing contact and the inside ones have to take all the power why aren't those inside ones melting?
+How does this pass the standards act for electronics doesn't this pose a risk to consumers ?
+Just a thought:  If the pad has broken loose, then taps against the contact plate where it was soldered, wouldn't that quick connect / disconnect cause heat build up, resulting in melting the connector?
+So should Nvidia issue a consumer recall since this is an ongoing issue?
+Test the plastic at different temps to see if the melting points are different?
+If the side connection is completely severed, how could that connection be the one that melts? It’s going to have no current going through it at all, the other connections are where the extra current and therefore heat should be. It’s when the side connector is only partially disconnected that you’ll have a problem, as the same current will be trying to go through a small area.
+A PCB in that cheap-ass connector? Heheh. No way.
+That cable just seems like complete laziness.  Like seriously.  Who tf designed it?  Bet money that when AMD unveils their cards next month or whenever they do the plug gets focused on and they highlight it.
+So, the question is will Nvidia going to issue a recall before or after houses are burned down
+At what point should someone just say screw it and wire their own... wire Making the same connections with thicker gauge i mean
+It could be a combination of things  like a partial crack where it archs intermittently and in a pc case with possible poor air movement can cause it to heat up to its melting point as the case start getting heat soaked increasing overall temps in case and room.
+You call the connecting strip a busbar, right?
+If you had the 4 live wires connected by only 2 or 3 of the neutral wires connected, so the gpu could get the full 600 Watts, but then feeding back down 2 neutral wires, could that cause more heat?
+Why are the Igors lab pictures so strange? like a filter? cant pinpoint why but they look different
+Hey Jay what cable connector is that for which card.. idk if you will be able to respond but lmk if you can .. thanks man
+next find out why the prices are so bloated.
+So is the added wattage the only reason this isn't happening to the 3090FE which also carries the same connector and adapter? I guess there is also the fact that it's sideways and canted backwards so not bent....?
+Do these same problems come with the cable mod cables? I imagine it’s the same connector. Theirs just has a metal or plastic shroud on it.
+maybe it is a combination of Igor's and Buildzoid's videos... the wire connection to the "foil" and then the hollow pin connector possibly being flexed making it have a loose connection to the solid pin could also contribute to the issue (or maybe just a manufacturing quality variance on both)?
+Do you know what that adapter is? Its a freaking bottleneck that power as to run trough.
+Can you not skip the connector and plug directly to the psu? or will no pus cables fit in the connector without the adapter?
+soo, if the side cables break, why would the disconnected side connector pins/plug melt? makes no sense to me.  if the side cables break and have bad contact, i would expect the bad contact to heat up at the cable connection, not at the tip of the plug, right?
+But it doesnt make any sense... I use my 3080 FTW3 with the 450W bios and i'm using 3 8pin connectors and ITS COMPLETELY FINE, Whats going on??????????
+If the side wires are broken, shouldn't be the middle ones melting?
+I feel like a lot of this wouldn't have happened if you wouldn't have to plug them in in such an awkward place. Why are graphic cards even like this? Couldn't the connection be moved to a more practical place?
+How do you recon Nvidia will manage to spin this as a feature?
+couldnt a 90 degree elbow be made that comes out from gpu so the cable wouldnt have to bend
+Are the CableMod C-Series Pro ModFlex Sleeved 12VHPWR PCI-e Cable for Corsair  Ok to use them as they seem to be joining wires.    Thanks for another great vid.
+I make my own custom cables for my computers now I know exactly what I'm not going to do.  The question is do I want to sell my 3080 TI and get 40 series?
+Could be arcing.
+ohhhhhhhh corsair do replacement cable for real ? and its 100% reliable xD
+and nvidia could not figure this out on their own why?
+How can I reach out to you Jay for a few questions?
+How did Invidia fail on the most basic engineering?
+Why dont they use something like an XT 60 or XT90 or similar?
+why keep show a graphics card no one has the money for or want to buy at that price........ unless you make money off a pc no one wants it shame you keep saying pricing ok .....
+Is there any costum connector which does work safely?
+so whats we do i get mine back in the box time to have need cable more reliable for now cause she new but wanna use it soon as possible
+IDK, the connectors seemed to be melting from the tip, which would indicate that's where the point of contact with high resistance is.
+We're most findings having issues in hours? And he's trying to recreate it happening in seconds?  I guess if you don't want to leave it alone and destroy the GPU, that's fine, but it's funny how he's going about this.
+Surly if it broke off and touched the wires next to it it would overload a pin right
+Ok can we move on now ?
+Wouldn't you still need the broken connector to be free in the connector to recreate it? A combination of the broken wire creating an intermittent short and an increased load draw on the remaining cables. I can't see there being damage on only the broken pin/pins and not the others if it's purely a heat/over draw issue. It would damage the connector all around. So you would still need to have the source of the intermittent short to cause the same type of failures that we are seeing. That's just the issue I'm seeing in the method of testing given the information that we know.
+Am I missing why this isn't a problem with the 30 series fe cards? Or could it be as well?  Edit, I'm not an expert in any way on this. I'm asking because I'm worried if I might have this problem eventually.
+What if they are breaking or weakening from metal fatigue?  Like when you bend a paper clip over and over again until it breaks.  I wonder how many bend cycles it takes to make that break.  From the looks, not a lot.
+Arcing??? As it's cracking/failing the current might be arcing which might account for the extreme heat and possible reason for the difficulty to replicate.
+If it was the outside ones breaking, would it not be the middle pins taking up the extra load and creating the heat?  If that is the case, then in this scenario should it be the middle pins getting hotter and melting the plastic around them?
+51amps trough those thin pins? LMAO
+I thought we discovered decades ago not to use solder alone as a mechanical connection? Clearly NVIDIA didn't get the memo.
+Why is gamers nexus staying fare away from this?
+If the side pins are broken wouldn't it rather make the middle pins melt? Perhaps they only break partially so there is much higher resistance on these pins = more heat.
+Wouldn't the broken solder joints cause arcing? That would make more sense since the broken pins are the ones melting.
+For some reason there aren't closed captions? As in, not even auto generated are available yet?
+Was wondering why a 90* 12pin plug wasn’t used in the first place in the design. This could help eliminate the need to bend the wires for wire management , but this also could be applied to all pcie cable designs in the first place.
+So the adaptors that came with the 3090tis were from a different manufacturer and are fine? :)
+Are these being soldered by robots, technicians, or mole people?
+wait so its just 12v why not just have 2 really beefy connectors insted of the 12 dinky ones.
+What was the other cable that Jay @14:17? IS that from a PSU or something else?
+Question: is melting an issue? You melt plastics all the time on your 3d printer. Burning is an issue!
+Isn’t it easier just to upgrade a new psu which comes with the correct cable and no need to use the adapter cable.
+How about the graphics card itself.. failures in engineering tend to be contagious
+I'm confused why they felt they needed a brand new connector when there are already plenty of already existing high current crimped connectors that would have worked just fine (assuming they used factory tooling for the crimps and didn't cheap out with generic tooling)
+Soo the new cable is just dedicated cables to pins at the end, all the way through the connector, with no soldered connection (like normal connectors) and the "adapter" cable is soldered to a little union thing and then spat out the other end? And is THAT atx 3.0??
+Wait what no strain release?
+Is it possible that it's arching out after it breaks and causing it to heat up same as a short circuit
+Separation it self seems to not be problem, it looks to be the placement problem. If power flows threw it even after it breaks and if its close enough it will create arc. That's what melting it. Disconnection it self if its far away not to arc will not be an issue.
+Legit question, why do we use many small cables instead of a single bigger one? Is it convenience?
+I havent watch the full video but wouldnt it not just be about the tab braking, but more of the break causing a short in the plug it self. As you said, just cutting it off or removing the tab would be just un plugging it, but if the tab is still there, the electricity would be trying to jump to the lead thats broken causing the heat it self.
+Maybe is the same factory that made the Ender 3 connectors 🔥
+I assume cablemod's 12VHPWR to 4x8pin is also fine, right?
+Need to rethink case design or pcie connector.
+Do cablemod adapters have this issue or is it only the ones included with the graphics cards? I was thinking of ordering one of the 90 degree ones when they come out.
+When it breaks inside there is a high chance that the cable still lightly touches the pad (small contact area). I wonder if that would cause the temperature to rise higher.
+So in a few days there are very concerning issues found that are very easily to reproduce... i ask myself how the heck did this become a real product? Did they not test it properly?
+Doesn't make sense, if the outside wires break and it all goes through the middle wires then the plug should melt there. It is more likely that the external soldering joints are compromised so that the current has less contact area to pass through and thus causing a high temperature scenario.
+Maybe it's not completely disconnecting that causes the melting, but the solder breaking and having a thinner/loose connection. With a  thinner connection, the higher the resistance and therefore more heat.
+That doesn't make sense Jay ... if the outer most wires would brake those would not get voltage therefor they would not melt (the ones in the middle would melt) if I understood all of that correctly.  And if only the wire would brake off and the pin would still have connection due to being bridged across the  plug maybe the imperfect contact and sparks and what not would make the plastic melt but not the fact that you are pulling power only through 2 connectors. The fact that you are pulling current through 2 connectors would make those wires melt or hot .... so the middle connections would be affected .... the way that it's showing the defect it's clearly a imperfect contact between the male and female side of the connector or over current through the pins.
+Why do you rely on OCD and not just do a continuity test?
+With what limited electrical knowledge I have, as I am not an expert of any form, it seems to me that if one of those wires broke off, it could still potentially arc across the gap thus creating more heat than if it would have a good connection, or having a complete disconnection
+Could it have something to do with the  card? Your using an FE, the cards effected seem to be TUF and Gaming OC from gigabyte
+If all the 6 Positive and 6 ground pins are connected in parallel, why the hell don't they just make a connector with a single pair of 10 Gauge wires all the way to the power supply?
+Is Nvidia still trying to blow you off, claiming this is all by design/normal? Pffffh
+Is Jay now a side bender?
+so am i safe by using the new psu, and no need to worry such problem i am so confuse
+Will that cord the safe solution work on the 4090s that is ask for 4 8 pin connectors. The corsair one you showed looks like it only has two.
+Wait, Linus Labs didn't figure this out?
+Who is EGOR?
+Can someone smell what Nvidia is cooking
