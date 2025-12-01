@@ -1,0 +1,120 @@
+WHY IS IT STILL WATCHING ME BECKY
+I find it really funny that it kept getting distracted by windows,kinda like a real small animal
+one capacitor turned out to be the difference between a working and a non working finger print scanner on my phone when i tried to "upgrade" it lol
+Omg is this becky from like og make magazine  days ?
+Kit cat?? I thought they were all Felix
+YES with the cat content for the blog.
+That is so creepy. I love it.
+2:13 Tell me you matched your nails to those dikes. 💃
+What type of nail polish did you use exactly?  What is it good for gluing?  Can you say more about it?
+Those are awesome clamps!
+Taylor swift
+Neat!  I would have it swing the tail and eyes normally when there's no face present.  If possible, have the tail continue swinging while the eyes slowly fix on a face and then follow.
+That cat's nose looks very weird.
+Too late I know but what about some sort of proximity sensor that made the tail wag faster the closer you are? I love it regardless.
+I need one
+@xylafoxlin get a Main Coon they have hair not fur. Totally hypoallergenic and they won't take their eyes off you, as they act like dogs and are buddies and follow you around everywhere. 1:09
+You guys should include Seamstressed in the fun next year!
+Excellent work. I love your pacing
+Very nice work.    I watched Xyla's channel on her gift that she made and her openning your gift.   It's a great gift.   I wonder if your next upgrade would be to put LED's eyes to brighten up and intensify on motion?    It might be quite a spooky Halloween entrance for kids coming up to the door, having the cat's eyes brighten up, wag the tail and a voice coming when they get into range.
+Its interesting how strongly humans respond to eyes.  Put googly eyes on anything and we start talking to it.  Make those eyes follow us and suddenly "it's watching me!".
+That is one cool cat! Could it be used as a security camera if someone breaks into the house?  The eyes following the person around the house is a dead giveaway for what it is, though.  Cool idea, nonetheless! I watched Tony’s video on how he made those clamps, it was awesome!
+Great idea!
+Fun.  I’m here from watching Xyla receiving.  These clocks sold very well where I worked in the 70s.  I had a real cat whose eyes followed me around the room but never knew the right time.
+new sub, love the build merry christmas
+Ahh this is brilliant I love it!
+i always assumed that they were supposed to be felix the cat
+I want to build one! I have to learn how to code though...
+Another idea! Use a small worm gear based linear actuator for moving the eye. No more jittery movement! Also, for the weird non-reset issue, I tried everything to fix it to no avail and I just ended up making a small Arduino board (like, extremely tiny. With ATTiny13) that resets the board after few seconds.
+What she didn’t record was her uploading the software to steam the footage from the camera directly to a private server
+There's something deeply disturbing about drilling into the cute nose of a cartoon cat.
+A trick with the parallel universe clamps is; if you have it closed and hold a handle in each hand, do the cha-cha hand roll, they move universally. No wait parallelly and fast. But be careful, knowing @ThisOldTony he did make them universally compatible with his time-traveling  lathe.
+Nice work
+Clock doesnt work, AND the tail doesn’t work?! We need a follow-up build!
+I love Maker Secret Santa! Would love to help you out with your sub goal, but I already subbed to you a couple of Secret Santas ago. Really cool upgrade on the clock for Xyla. It's both fun and creepy! I didn't know they were called Kit-Cat clocks, I always thought they were related to the Felix the Cat cartoons. Thanks for sharing!
+Great idea for a covert security camera.
+Looks really nice! Not sure if it would save time or just complicate things in the future, but James Bruton made an Arduino library for motion smoothing animatronics and what have you which could be useful for stuff like this - the gist of it is that the software loop has an intermediate position which is always some percentage of the set position and it moves to the intermediate position instead while constantly updating it so they converge with a nice speed ramp on either end. Thought I'd bring it up because coincidentally his Secret Santa project used the animatronic eyes from that same video
+Tony went and made heirloom tools for the Stern family. :)
+Me coming from “This Old Tony’s” channel. Judging my little beating heart out, as any good YouTuber would. Good classy stuff Becky, I really enjoyed this production. This really has a quicker overall approach, that you get straight to the point.
+Super cool! 😃👏🏻
+Four generations of my family have had this clock in their kitchen!
+Consider switching algorithms, look at the YOLO family of object recognition algorithms, @Becky Stern.  They have low runtime expense (don't need a beefy gpu), and succeeding generations have gotten more accurate.
+I'm convinced capacitors are added to designs like a chef would sprinkle salt to taste on a dish. I love that you just ignored it! It was probably just to smooth out a voltage supply.
+There is a pro-tip for parallell clamps: if you want to change the opening quickly, grab the clamp by the knobs with both hands, and spin it around like pedalling a bicycle. (hope that makes sense.) It will open or close in parallel, and fast!
+The foreshadowing part with the extra hand was too funny/eary...
+Love it.  New subscriber.  Maybe a loose rubber band between the eye and tail mech would make it move when the eyes do. But would make it continue to wobble on the band without effecting the eyes
+I honestly think This Old Tony and his work was the best this year.
+Watching Tony open a face tracker would be pretty funny though
+If I had to guess that capacitor is likely part of a circuit that triggers the reset for a certain amount of time as it boots up. If it’s an active low reset and there is a pull-up to Vcc then the capacitor, since it takes time to charge, will hold the reset line low (active since it is active low) until the capacitor has charged enough, then when the capacitor charges above a threshold voltage the MCU will no longer see the reset line as low and hence the reset line will then be inactive.  So essentially the reset line of the MCU would have a capacitor connected to ground and a resistor connected to Vcc and the button probably connects the reset line to ground too. Since the capacitor is missing the MCU probably powers on near instantly when connected and starts trying to do things before it is ready, so then it needs manually reset via the button to get everything setup and started right.  These kind of circuits on reset lines are to give the voltage time to settle and allow all parts of the MCU to switch on and stabilise so that when the reset goes inactive all parts are ready to go and start running the program.  It is more complicated on more complicated processors or especially FPGAs, requiring Power Management ICs (PMICs) and requiring certain timing and ordering on the voltage rails. Like if the chip needed 3.3, 2.5 and 1.8 V then it may need the 1.8 V on first and then the output signal from that would tell the 2.5 V supply to turn on and so forth. Similarly these more complex processors and FPGAs can have requirements for the ordering switching it off too.
+Pretty cool cat I subscribed to see what you do in future
+Awesome stuff Becky! 😃👍🏼👊🏼
+Wonderful job on the cat!🐱
+Came for ToT reveal, subscribed for the future!
+HE REALLY ENGRAVED THE SUBSCRIBE
+Use PID control to animate the eyes! (If there is ever a next time)
+So cool! And now I want a Kit Kat clock. What have you done!
+I think this is the coolest gift of this year's secret santa :)
+Lol. I don't know how many times I've seen that Taylor Swift video... I'd never noticed the clock.  🙄
+Oh that cat :D To add to the uncanny valley effect, that nose :D
+Not only entertaining but actually useful for a dumb project that I've been thinking of
+Full of hot glue? You are talking Xyla's language!
+Love the cat! With machinist clamps hold both knobs and rotate them around each other (like the spool for flying a kite): the clamp faces will stay parallel and not come apart.
+I always thought this thing was Felix the Cat merch.
+Epic level of discomfortcute
+crazy how much time and skill it takes to machine stuff like that
+Such a great gift.
+wow. that is so cool
+Nope.  Just nope.
+Great video would be fun to make, I did enjoy the Hugging animal with Xyla.  Big Thanks   :)
+My favorite part of your videos is watching you figure out unique ways to overcome roadblocks you come across in creating your projects.  It's interesting to see how your mind works in figuring out the answers to these problems.  Thank you for all the great content.  I hope that you enjoy your holiday season, Ms. Stern.
+i have come full circle \o/
+Rather than computer vision I think having it track heat signatures with a thermal camera would have made a lot more sense.
+Nice!  Happy (belated) Hanukkah!!!!
+3:19 Seriously???  You called it a "step-drill", I honestly can't think of a better time to call it a "Christmas Tree bit".  -5 points from the house of Stern.
+If you hold both screws and twirl the clamp it will open or close depending which way you twirl!
+fjkfjdjkkk omg i had one of these in my basement as a kid and it used to terrify me. Now ik what they’re called and it wqtches you? omg its actually real
+That is so cool, and so terrifying at the same time.
+Good luck on 100k Becky! ^_^
+I can't believe it's actually engraved with subscribe, lol. I thought that gag was always an editing trick.
+I think the cat would be slightly better if along with tracking a face, it would look at anything that moves.  This way, it would look at someone even if it didn't get the face.
+I need to make a Bill Cypher clock!
+this is literally surveillance… wtf you shouldn’t hype this stuff
+i both love and am terrified of that cat!  nice work!
+Capacitors are like sprinkles on cookies.  You don't really need them and everything is just fine without them.  Just like flossing and changing your oil.  It's all a conspiracy propagated by Big Capacitor.
+I love that, amazing!
+did you notice the 'subscribe' joke? TOT pretty much always sneaks in a 'subscribe' somewhere in his videos, usually on a label or suchlike, and that's what I thought he did with this one - except it was actually engraved, not photoshopped
+those clamps are absolutely beautiful
+Very clever and original gift!
+as if I am not already forced to buy enough appliances with cameras and microphones embedded in them
+Idea about cat clock with eyes that follow is great! 👍 Great video!
+I would do the same thing. But with an old painting..
+Oh good. My childhood nightmares come to life. 🤣
+Not going to lie i want to do this
+Tony sent us here through his parallel universe!
+"It's hypoalergenic" - made me snort harder than it should have. Nice, Becky!🎉
+I love that you get me. No internet hookups is awesome. I hate IoT's because no one thinks about security of them.  ~SimonTek
+I loved your cat idea, and Tony's gift is a heritage gift! They will outlive you to be past onto your next generation of makers <3
+He had to sneak in a "subscribe" somewhere.  🤣
+Yep, I always found those clocks creepy, you made it more creepy. Well done.
+That cat will forever have sleep paralysis....
+That kitty clock is all sorts of creepy to being with, and now you gave it the ability to stare into your soul. Love it xD OMG, THE "SUBSCRIBE" GAG ON THE CLAMPS WASN'T ADDED IN POST BY TONY, HE REALLY ENGRAVED IT IN THERE! LOL! Excellent!
+A spacer at the top of the tail section with a weighted arm to replace the original eye section of the arm would allow the tail to wag.
+I love this project!  So Scooby Doo!
+I LOVE IT!!! 😻
+I've reached the end. Maker Secret Santa is my favorite!
+I quite like the clock. Something creepy is always cool!
+I think you called it perfectly: The right combination of creepy and cute! Not too dissimilar to how my cute cat can stare at me, like forever. I his video, I called Tony’s parallel clamps “functional jewelry” 💎
+Can you imagine how much someone would pay to have those ToT clamps?  . LUCKY! 🤣🤗
+Can confirm as an anyone who happens to not be Tony, I would have loved this.
+Ok I came here from TOT and to see just his hands off to the side when you showed everyone cracked me up
+my cat (named KitKat) was very confused when I pulled up this video and someone else kept saying her name 😂
+Leaving the tail up to her is nuts, it will end up going to space!
+I sooo want to steal this idea for my future house. Super cool make :)
+Cool project 😁
+So cool!! So funny that you had to keep it from Xyla!
+I have real cats that sit there staring . This is a cool gift for someone that can't have a cat , just as cut with a loving stare but you don't have to feed it or clean a stinky cat box every 5 minutes
+I want one! 🐱
+The need for a reset would imply that that capacitor is part of a timer circuit that either resets or enables the CPU shortly after power-up, which is a really common circuit in computers, and are frequently timed using differing capacitor values. (Look up the classic 555 timer circuit for an example.) That probably implies a confirmation that it's not going to affect ongoing operation of the computer.
+Does the engraving on one of the clamps really say "subscribe"? Or did you modify that in post-production as Tony loves to do it in his videos?
+those clamps are soo nice!
+WHY IS IT STILL WATCHING ME BECKY
