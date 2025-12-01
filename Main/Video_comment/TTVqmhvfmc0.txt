@@ -1,0 +1,1652 @@
+Doesn’t DisplayPort and Thunderbolt make HDMI obsolete?
+my hdmi 1.4 cable still holdin strong
+The reason why it's broken is because of the extra .1.
+Me not knowing what a receiver is
+i dont even know what version my hdmi cable is
+So has this been solved by now (over a year later) ?
+Linus : we're going to wait in to next year to find out HDMI : I give up, I change the name of hdmi 2.0 to hdmi 2.1 and HDMI 2.1 is now ... gone.
+Update video time now that HDMI spec is ruined
+any content out there taking advantage of hmi 2.1 dynamic metadata?
+3:58 You just about gave me a freaking mini heart attack for a second there, LMFAO!!!
+“Settle for” 4K 60.
+Switching between 2.1 to 2.0 and vice versa is a hell!
+i say sue the company that sold you that expensive receiver. not only did they sell you a broken product, but they scammed you because they knew the problem. i mean, all companies test the product that they sell, so they knew.
+Or just use displayport
+I've heard the jokes and comments on the size of Linus. After seeing him pick up the generator in this video, I wonder if Linus taller than 5 foot and weighs more than 85 lbs. lol
+Welp my lg cx works fine. So.....
+We can just use display port 1.4 cable in which there is 4K144HZ
+I like the video
+5 months later I'm learning about all of this.. is this problem fixed ? do I spend the money on HDMI 2.1 or not waste my money
+Well. Been fighting this issue for months and finally just found this video. Greaaat.
+Dang it! Now I can't use my 4k 120fps TV with my PlayStation 5 for gaming, both of which I don't own.
+I just hope that in the long run we will move over to USB4. Main reason is actually, that HDMI is not an open standard and the newer ones are kept close, so that you can't build open source software with it...
+"A Great Convenience for the user"
+XXXX is a standard 🤣🤣🤣🤣 If you knew how companies implement so-called "standards" and how little actual validation standardization bodies actually do, you'd be surprised.
+Me watching this on VGA   HA HA
+i love how the fake bluescreen had a typo in it XD  DRIVER_IRQ_NOT_LES_OR_EQUAL (the LESS is missing an S)
+I’ve never had an issue with HDCP. Though it is a pain with aging products that can be capable but didn’t get the “update” (though HDMI version usually is the real bottleneck). I get that the media companies want protection of their stuff, and it can be broken. The average consumer just buys a new product to comply. HDCP should just be a universal update, to actually prevent people from “piracy” as they just want to watch whatever show is on tv/Netflix. It’s more work go go around but if it was a readily update we wouldn’t have such issues.   Though HDCP and HDMI 2.1 are two different things, no content available today even benefits from the increased bandwidth that 2.1 can offer.
+GPUs require additional devices to use the CEC feature.
+HDCP can be broken by a 150$ capture card.
+FIX IT FIX IT FIX IT! Anyone?
+Jajajaja i got a Linus ad video on Linus video jajaja
+Crap like this is why I miss analogue connections.
+You mean companies are cheaping out on components? Imagine my shock!
+Hdmi and usb format are sucks in current day
+You would think they would have tried that out on a particular model of television 🙄 📺
+1 Millionth View
+Your  Um  Face is broken  Boom roasted!
+a comment to support the channel
+Please make another video once a solution is found
+Can we replace HDMI with USB-C already?
+hello tech tip
+woah  your smart can you  help me with my homework
+Me who uses vga😐
+HDMI is broken -   Just like my life!
+What did Yoda say when he saw his movie on Blu-ray for the first time?  HD, am I!
+Imagine if this was the only evidence humans existed
+1920x1080 60Hz on VGA
+Ну, чтож будем ждать HDMI v2.2 and 16K 250Hz...
+No
+WHY YOU GOTTA SCARE ME WITH A BLUE SCREEN ING THE MIDDLE OF THE VIDOe
+We need more linus cat tips
+Display port
+When i wacthed this video i got an linus tech tips ad....INTRESTING
+My illegal 1080p sports stream had a wet dream so he left to clean up. Now I'm stuck with a 720p stream like a caveman. :(
+3:57 I was watching fullscreen and got freaked out for half a second until I realized I could still hear Linus
+Why am I getting an HDMI-cable ad when i click on the video?😂
+My hdmi is fine I don’t drop it
+linus telling hdmi is broken and i am using vga in 2021
+R u hd?
+4:26  "or go outside and play with a stick" said by a guy who spent 30 years playing video games
+Regarding HDCP, maybe it's more of a mechanism for the HDMI alliance  to extract licence costs from manufacturers than be effective DRM. AFAIK a HDMI licence/royalty fee is applied to every device that uses it, and that includes passive cables/adaptors.
+is the problem really HDMI? and not Windows?!
+It's more wide spread LG 2019 C9 and RTX 3080 don't hand shake if G-Sync is turn on 4K/120Hz/HDR/10 Bit RGB.  It will run perfectly for hours if you can get a picture after you boot.  The work around is to connect up a 1920x1080 60Hz monitor to another port...  But WTF...  HDCP should be implemented after the EDID... this is BS  It's as flaky as first gen BluRay players all over again or ultra 4K players... Every time it's busted out of the gate.  There is no excuse for this.
+oof linus ur minecraft server is strugling u have like 15 players
+03:58  Me: oh no, not again :(
+Main issue - start from HDMI 1.4 it's become closed standard and only a few companies know how it should work.
+Basically DRM is showing its problems and uselessness again
+HDMI cable manufacturers: Hmm.... our cable isn't selling too well, what should we do? **slaps a "8K" logo on it** HDMI cable manufacturers: STONKS
+me still on 1080p 🧍🏼‍♂️
+HDCP I REALLY DIDNT KNOW ABOUT IT🤣🤣 BUT I DO KNOW IT DOESN’T WORK😈
+Neither EDID nor HDCP have anything to do with the receiver problems. The problem is that Panasonic (btw. this is not the same Panasonic that makes TVs and other stuff) made a mistake implementing one of the signal patterns used for encoding high bitrate signals used for 4K120. If it is compatible or not depends on which pattern the source uses (either the broken or non broken one).  Regarding EDID the issue is that it is limuted to 128 bytes so it is not possible to correctly advertise all features to the source at the same time (like different VRR modes, supported resolutions, Dolby vision etc.)  I dont know if the standard itself has problems too but the main issue is companies selling stuff they have not tested even once or they know is out of spec. Most HDMI 2.1 cables you buy do not support the promised bitrate.
+Hdmi an copyrights? What?
+why not make DP the standard
+I'm just sitting here seeing all the rich gamer who play on 4k 60fps while I am using a 1080p display
+Am i the only one who got an ad in witch Linus play's?
+5:05 they plugged an expensive mouse into a battery bank
+02:20  Patch is Issued..?  Do You Mean Issue is Patched..?  Well Actually, if you Issue a patch of an issue then the issue would have been patched so ok...
+Can anyone tell me why no one is willing to test the VRR on HDMI 2.1 GPUs and TVs that support VRR? And I do NOT mean LG's G-Sync compatible TVs. There are a LOT of TVs that support VRR, and NVidia even advertised about the 30XX series GPUs supporting VRR, but no one will test it.
+It wasn't really clear to me he was talking about those amps with pass through hdmi ports.
+Really like your videos!
+I never used HDMI in my entire life, and now it's broken.
+I feel like I am usually pretty tech savvy but I still don't understand what I need to do to actually get the most out of my ps5 and series x. Would definitely appreciate a "For Dummies" guide with paid links.
+Raid Shadow Legends
+Did you hear about that thing called Display port?!
+I bet VGA with a good cable could do 4k 144, and analog 7.1 audio on a newly designed cable. then they'd sync up, no delay, without the audio receiver getting it's stank all over the signal and causing delays
+HDMI only exists to protect bluray from being pirated, HDCP, and 95% of users of HDMI are likely not using that, nor pirating, and EVERYTHING gets pirated, ANYWAY. So, therefore, HDMI is dead, and display port should take over, meaning all TV and console and bluray manufacturers need to adopt to it, and DP can also do higher refresh rates 4k 144+ , which can then be sent over USB-C so the cables are all unified. Unfortunately, since next-gen console derps, tv-derps and the receiver derps went along with hderpmi, it's going to be a painful bunch fo years dicking around with HDMI, which people have generally not liked for a long time, anyway.
+Hi
+HDMI is cracked
+It's a good thing I sat back on upgrading for a bit.
+Who uses HDMI? DisplayPort FTW!
+wait who uses multichannel recievers for HDMI ive never had a single one work ever just plug it directly to the tv also most tvs have 4+ HDMI ports what are you all running to need a box to manage them all
+My screen isn't 4k so, think I'm good.
+Get new one
+Man said Stick ply lol
+Linus; we need a full review of the Thermaltake Cigarette lighter like in the most ironic and and over the top way; c’mon we know how extra you can be 😂https://www.amazon.com/gp/aw/d/B0002F8WLM/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8
+marijuana trees in the background?
+What if someone makes a wireless hdmi reciever
+Is this the reason why the new consoles are delayed?
+So PS5/XBOX SX/3000 RTX SONY X900H, LG CX, SAMSUNG Q90 are all faulty ?
+Maybe this can explain the widely spread sound drops when reproducing Dolby Atmos content to my JBL 9.1 soundbar (Apple Tv 4k connected directly to the bar or not; internal Netflix/Disney+/Amazon via 2020 QLED Samsung apps, etc.)
+LMAO.. so you're telling me all these people that bought the new generation Xboxes and PlayStations an all that ain't even going to get reliable connection. Makes me glad I stuck with my Xbox One X PlayStation 4 Pro with my two 1TB Samsung T5 SSDs and I never use a pass-through. I direct connect everything an optical plug Outsource Audio
+ouch ... ouch ... who the heck tested that ?  (gee ... DRM f*cking things up as per usual)
+I miss going outside and playing with a stick
+Ah yes. So I learned my 4K monitor doesn't have hdmi 2.1 capabilities. I plug it in and nope still stuck at 30hz.  The monitor can only do 60hz anyways, but I apparently can only do it through DP.
+Don't get how HDMI is still a thing with DisplayPort being an open standard, and usually outperforming it.
+I do not condone breaking your HDMI cord in half.
+Hi Linus! HDMI's are better connections for GPUs going to monitors right? Been meaning to ask (ibecause I've watched your videos about GPUs, and when you benchmark them, what to expect, is this a good gpu, should I get tgis or that, is it budget friendly vs performnce and what not.. and all those tips you teach us..), where do you keep those GPUs you test? Are you selling them? Or keeping them as inventory for testing? Just curious, good sir.
+My story: bought a 980, hdmi broke. Then a 1070, hdmi broke. Then a 2060, hdmi broke in a year. I sulked & refused to play at living room home tv anymore, i attached an android device to the tv in hopes that someone in my house will utilize it, none did. Bought a dvi monitor and retreated with itx rig to asylum in my man cave, instead from being the general background noise in my house and 8least interactive with family. Now, house is silent like a library. For me, its just that fragile and sort of putting out my hopes of couch gaming
+Rele
+display pooooooooort
+"or all your hdmi connectors will fall off" thats why I use dvi
+HDCP does more harm than good.
+yep, I have EVGA 3080 sc2 ultra connected to an LG c9 4k 120hz gsync compatible OLED tv. It works, but full of issues. Turn the computer off, want to turn in back on, the tv detects no input. So I have to turn it off with the button, turn it on again and it works. Eventually, when I turn it on, the image gets all corrupted sort of broken and moved to the side. Eventually, the screen goes black for a second and if I leave the computer and the screen turns off, it turns back on as I move the mouse most of the time, but not always... Still enjoy it, but hope it will eventually be working properly... When I connected a 4k 60hz monitor to the display port, all was fine. It just seems it is all because of the hdmi
+School uses hdmi to show the screen at The tv looking thing
+I don't get HDCP. If it can display it, it can get the data anyway, so it can just be bypassed.
+I'm still using vega
+Grandma when the tv says “No signal”:
+your videos are actually really usefull linus
+HDMI was invented first for copy protection then convenience
+Got the 4K TV, and Xbox One Slim that play 4K, but the 4K YouTube still lags hard whether it’s Streaming or playing from a USB Drive. 😛
+The best thing to see when you are picking a video to watch while drawing on your drawing tablet... which is wired to your gpu with HDMI. HDMI 2.0, thankfully. My main monitor is on Displayport.
+Why can't we just switch to display port?
+can someone answer a question i have? is there any downside to converting DP to hdmi? like latency or somthing, is it a active conversion like vga to hdmi ?  or is it easier to convert digital to digital
+I've had a 4k UHD TV for 5 years. Only thing I've ever managed to watch in 4k is a YouTube video of a tropical island. Got an Xbox one X it initially allowed YouTube 4k. But didn't recognize my TV as 4k. Twiddled with all the settings and it just stopped YouTube Being in 4k.  Last night I tried to finally resolve it. Got it to recognise my TV as 4k yippee. Set resolution to 4k. Screen went black for about 10 seconds. Then flashed up something went wrong for a fraction of a second then black again. Repeated ad infinitum. So turned out of and on again. Same thing black ten seconds then screen on for tenth of a second. Except I'm at the home screen and can't navigate to menu to reset resolution with a black screen only a briefly flashed  frame  every 10 seconds. Both TV and glitch loop Xbox one massive waste of money.
+Hey Linus! Are you in a pulseway ad?
+I still can't get HDR in windows on any of my HDR monitors...
+Imagine not using DP
+Light travels faster than sound. Hello Mcfly!
+So TL;DW HDMI is broken because of DRM. Go figure.
+How to get rid of HDCP      Just buy an HDMI splitter, insert it to your device, then plug one of them to a TV, and one to your device of choice (like a capture card, for example), and done.
+Just NO.  Don't blame the standard for sloppy industry practices that often break the spec or substitute a convention where they think the spec is ambiguous instead of getting back together and hammering out a spec update.  All these tech companies try to break spec when they have an advantage to get some kind of lock in on an 'ecosystem.'  In the early days of the web, website coders had to bend over backwards to keep their site working with standard-breaking Internet Explorer.  Increasingly it is now Chrome that they bend over backwards for.  Only Firefox even seems to try to follow the standards they're all agreeing to.  At least these days most of the things Chrome breaks seem to get integrated back into the standard... but by doing it constantly they ensure Chrome is always first to have the new shiny features.  Screw them, Firefox for life, because all the other functional browsers are written by assholes.
+That BSOD gave me PTSD
+yall sound like whoever wrote the script im done with linus
+Stick Play? Wow. I had no idea you were into such dark stuff Linus. Don't look it up! *Shudders*
+Muito bom
+teacher:today we are going to learn about what EDID is kid named E:ight imma head out
+Womp womp.
+Hey Linus whatever happened to Anthony
+BSOD! lol
+so i got a GTX 970 4gb and 16 gb of ddr 3 ram and a 750w power supply and a stock cooler and also a core i7 2600k and i wanted to know if all of these parts can run VR so could you make a video off of it so i could do my research please and thank you and its a asus gtx 970 strix 4gb thank you
+Just use Displayport
+Just go with Display Port that it's free to use and you don't have to pay more for HDMI licence on your product.
+So once again the "protecting me from copyright infringement" people are screwing the vast majority of lawful users to protect themselves from the tiny minority of unlawful users, and of course that tiny unlawful minority will once again just find a way around the protections leaving the vast majority screwed with no benefit to anyone.
+THE CONNECTOR  is a disaster!
+"Stick play" that what she said........ok seeing myself out
+liuns: talking about hdmi  Me don’t know tf is the hdmi: interesting
+Is liuns still alive
+can u make a pink pc  with the nvidia 3090 so i can make it for my sister pls
+wait.... did you just plug in a wireless mouse with broken thumb button into a 1kWh powerbank? Hermione would say 'Riddikulus'!
+Imagine buying a console and then buying a screen that costs 2x as much as the console lol.
+Yeeee Jackery devices are the bomb!
+HDMI vs SCART
+My setup is not good enough to have these problems 😂
+Yeah, I have this issue. ASUS TUF 3090 + LG CX55 OLED. Fortunately a power cycle always fixes it, so it's just a minor inconvenience and I didn't just waste a huge pile of money. At least now I know why it's happening.
+Oh no! I have to use 4k 60 instead of 4k120! Oh wait. I guess that isn't an issue because I'm not a technopedant.
+This video was really well written
+As always, copy protection screws the  law abiding citizen. This is so dumb.
+is it possible to cool your PC using dry ice or liquid nitrogen. what kind if CPU performance can we get when we super cool it does it perform faster or slower?
+hy brother give me gtx 1660ti graphic card i am a poor guy.
+"Go outside and play with a stick..." *Looks longingly outside, during lockdown*
+Just don't use cheap Panasonic chipset
+few years ago i bought a 4K HDMI 2.0  tv and simply because of the great HDCP and handshake thing i couldn't pass a 4K signal from my AVR which had HDMI 1.4 to my TV , i went everywhere to solve it , the advice from the agents of both companies was simply to get a newer AVR with HDMI 2.0 to replace the old one which already costed me a fortune compared to my income and was relatively new, searching online before losing hope and buying new AVR, i found a splitter from HDFURY and issue resolved, splitting signal to HDCP 1.4 for AVR and HDCP 2.2 for TV, i hope they do it again for HDMI 2.1 ports and release new splitter because the new HDMI 2.1 have the same shitty HDCP-handshake and EDID issues with old ports
+good people who waste money on 4k120 deserve it tbh
+Fiasco
+Useless tech that boast what it can do but does not. Also this top echelon of equipment for technology only the one percent deem “important.” Nothing but posers! Next year it will be obsolete because they made it so. Reminds me of an ex who dates out of convenience but never had a lease in her name. Oops..... I digress. Lol Great channel
+My solution:  I hold off on buying anything against the backdrop of a pandemic recession.  I can’t find gen 9 consoles at MSRP anyway....I think most people are also with me here in this camp.
+Thank you for the information. Subscribed.
+Linus what is the best budget pc I could get to game and watch your stream. My daughter and I watch your video she was born with spinal bifida and we fall asleep every night to your videos are 7 year pc just started over heated tried to replace piece by piece and nothing seems to be helping thank you for the videos.
+0:50 colonel needs you to find the difference between these two images       ________                     ________ /                 \            /                \ |    .        .     |           |   .        .     | |       —         |           |      —         |  \_________/             \________/   It’s the same picture
+He's growing a beard, he's evolving.
+3:58 It's funny how a simple sound can make so many peoples butt clench in terror.
+hey linus i am having a problem with my gpu after i change the monitor i am having fps drop  by half in all games i av tried multiple fix please a respond thank you
+linus is gay
+Encryption 4k BD SGX + AVX can kiss my ass. Can we finally start using Display Port as a main connector as well, there is zero reason to use HDMI on PC unless connecting the video to an HDTV.
+Even before 2.1 I needed to buy 17 different hdmi cables before one ACTUALLY REGISTERED 144hz
+😎 Hey Girl... Wanna come over to my place for some _S T I C K P L A Y_ ?  😘
+4:22 I'm perfectly fine with 1080p60, always have been, always will be. 😌😎
+6 minutes tech quickie my ass
+Come on - they can do perfectly working SATA hardware, why is video so different? It's just high-bandwidth data. It looks like the problem with the standard specs, or a standard being not enough of a standard. It's like that stupid "limited range" - I hate it so much. Any devices that uses "limited range" belongs to a museum. Yet still - for nVidia it's the default mode for HDMI operation. I have to reset it on each driver update. It's infuriating. Why, why, why, why? Or should I be happy it doesn't reset to HD from 4K on each update...
+I Like  yur videos i wish you can be a live streamer 👍
+Second monitor (HDMI): Yeah, now I'm panicking Primary monitor (DP): Dont panic! Second monitor (HDMI): No, I am because, I'm gonna lose my job!
+I just don’t understand how none of this was tested before it was released.  How long before Panasonic goes out of business as a result of all of the lawsuits?  I discovered this issue as well, as it seems to affect all current Denon Receivers, and there doesn’t seem to be a software solution to resolve it. So they will likely have to send out hardware replacements to each customer. Good luck getting that to work
+why not ppl JUST use DP ...and still use hdmi .. DP works with High rez , works with High Hz , works with HDR , Works with G-Sync , you have GPUs with 2-3 DP ports , its has locking connector Dafck else you want ?
+4:38 ------> To skip to the ad
+Thank god I am using displayport for gaming
+"Subscribe! Or all your HDMI connectors fall off!" Jokes on you. I use Displayport.
+Looking at Linus' T-shirt, makes me wanna plug an RCA cable into Linus.
+HDMI is like the greedy evil twin of DP, it can't really do anything useful beyond what its twin can and all of its exclusive features are designed to either screw consumers over with DRM or flashy nonsense nobody ever used like spliced in ethernet.
+F
+Me who is too poor to even use 2.1: oh no! Anyway
+Can you do a video on Nvidia DGX workstations and a general overview of what they are capable of.
+It should have been called "HdMI 2.1 is broken"
+We want hdmi 3!!!!
+Here I am pirating constantly using HDMI for all my devices & hadn't even heard of HDCP.
+What a great thumbnail , must have took a lot of time to think
+Why the f is Linus Here in this channel?
+What's your problem with HDMI . WHY are you stuck with this still
+I have felt for long the 4K HDR over HDMI 2.0b is a joke.  And the most available 4K videos are on Youtube and that is streamed over a RJ45 jack or wifi and the TV plays 4K HDR.  And I am wondering where the hell does all that bandwidth come from through my 200Mbps ISP ?? Now they are talking of HDMI 2.1 and the content we get is all the same. May be I am missing something ??
+I'm too broke to build a pc :/
+Well fortunately I got a 30 series card for 1440p. I knew 4K was still a reach
+My HDMI stops my computer from shutting down properly. It passes enough power from my monitor, through my graphics card, through my motherboard, to my ram which as a result doesn't clear down properly and causes ram errors on reboot if i dont unplug the HDMI after shutting down. It also provides enough power to keep the RGB lit on both my RAM and my AIO. Both of these problems occur even if i unplug the PSU.
+Stupid question: So if such is the case with HDMI, wouldn't circumstances be similar for other connector types like USB-C and Thunderbolt, and DisplayPort?  Do these run the same way? We should have one-size-fits-all optical cable, compatible with digital as well as analog devices of all sorts. Can it be so difficult?  Data is just data, right? 1s and 0s?  Analog, well analog can have their dedicated optical fibers within the cable.
+I hate it when the gadget (signal producer) doesn't allow you to override any of the HDMI signal parameters, relying on only the device's internal handshake.  If you can override, you can often get around bugs in the receiver's implementation.
+Imagine settling for 4K 60p. Must be a nightmare living way up there. I just got a 4K 60 display and I love it
+Why doesn't everyone just use Display Port? I've never used an HDMI for anything other than TV. Before DP, I used DVI which was still good for 1080p.
+Just go back to VGA hahahaha
+Make a video of how shity display port 🤣  I use it but dam hdmi seam to have less problems
+3:58 Thanks for the mini heart attack.
+Ditched my oled c9 due to hdmi issues on my 3090 moved tv to bedroom for wife and bought a large acer 4k gaming screen. Hdmi is trash , display port is what everything needs.
+Well, DisplayPort will do
+I think we need a proper solution to VOLUME control - there is no good solution out there right now to cover basic scenarios where we have TV, PROJECTOR, SOUNDBAR etc working together through a HDMI switch. I want to be able to choose which device is the master volume control - for example - I might have an android TV box and I want the volume control from that box to control the volume on the Sound Bar through the TV.
+Would you explode if you had to not move your hands around for 5 seconds?
+Hdcp should be illegal. My tv that is "compliment" I can't use 4k from most devices without the screen going blank. 4k looks great when its solid black
+#brokengamer
+Interesting video.
+“HDCP which is designed to inconvenience customers while pirates bypass it anyway”
+Pana-suck-it strikes again!
+On the upside I was able to score a used 46 inch 1080p HDMI 120 hertz Toshiba television because the owners thought the audio did not work when they hooked it up to there 4K PlayStation I believed them but I didn't care as I was hooking it up to my receiver anyway
+It wouldn't surprise me if the problem is intentional to try and get people to upgrade their Hardware to Arc HDMI receivers and TVs the other option is to use an optical cord
+HDCP is the main culprit.... they wont admit it
+Well atleast going to the TV then back to the receiver will knock out 1 source of input lag.
+I just recently saw this problem on a Sony ZA2100ES receiver. Connected to an AV Matrix, we were seeing a 1.X HDCP signal instead of the 2.1 or higher. The receiver was brand new as well as the AV matrix and cables, etc.
+Go outside and play with a stick lol
+HDCP the reason I can't play 4K Blurays on my HTPC and had to buy a standalone player. Why make it harder for legit users than piracy, just make it easier. I needed to build a whole new PC, that couldn't play games when my current PC was powerful enough just because of HDCP, it's only a pain for legit users.
+The number of error messages I saw pop up in the video XD
+DisplayPort/optical audio
+When my dad bought a new TV from Samsung, it was like hell to figure out how the goddam thing works. We kept trying to set it good bc we have a Onkyo receiver for our 5.1 Dolby Surround system. But everytime after we did the setup progress it activates HDR after that instantly. Which messed with the cable-tv which as a result we got the snowy screen everytime. In the end we got it to be disabled. And tbh i don't really care about 4k resolution What's even the point of it. If they're gonna go on like this then in a year or 2 they'll have like 20k res. Just leave it with 4 and 8k ok? you probably wont see a diffrence anymore. (Comming back to the subject) the manuals nowadays sucks!! How the heck are u supposed to turn a setting off if there is litterly not a good guide. and dont get me talking about the 'settup guide' it makes me wanna die. Y DO TV'S HAVE TO BE SO COMPLICATED?! CAN'T THEIR INTERFACE JUST BE PLUG-AND-PLAY?! No, because it has so many features they want to have the goddam thing but making it family friendly to use?! All a tv needs to do in my opinion is send out video and audio. And maybe able to install some streaming apps like netflix. BUT NOT BE A WHOLE DAMN COMPUTER ON ITS OWN. IT'S EVEN MORE CONFUSING THEN LINUX!!!  and to set it up it needs to be very easy. Plug in the power. Set up language, (AND NO SMART DEVICE DETECTING SHIT) if i litterly disconnect the HDMI cord from the tv i can go ahead and redo the whole entire setup like WTF this aint a tv anymore. Im never going to buy a tv from Samsung again. It makes me go crazy
+3:09 HDCP, considering the nature of these things, i'm going to assume that's probably it.
+HDMI works great on all my old consoles, but it seems to be hit or miss with the newer stuff. Like my Xbox One X wont output Dolby Digital 5.1 through HDMI, so I have an optical cable just for the xbox that hooks directly to the sound system. But my 360, PS3, WiiU, and my friggin $30 DVD player dont have any issue with 5.1 through HDMI. Very frustrating. Hopefully the Series X doesnt have this problem, as it doesnt have an optical out port. First world problems I guess...
+So its not that HDMI 2.1 is broken its that one of the early adopter chipsets has a problem.  Nice clickbait
+Laughs in Display
+Serves them right for trusting Panasonic to get anything right these days LOL
+Imagine buying a Denon receiver for thousands of dollars and it being broken by design because of a chip they don't make themselves...I would be pissed.   This is another reason why I use car audio components in my home, each piece is a lot easier to swap out and with a 200a linear power supply I can run almost any sort of configuration. Best part is that the entire system (amps, speakers, crossovers, subs, head unit and power supply) I still spent significantly less than that hypothetical Denon receiver.
+Or use displayport
+No issues on my LG CX 55 with my Series X or via my 3090 Ventus. Series X was tested with Ori which actually runs with 4K 120hz support. 3090 tested with a litany of games.
+change the background to the old one guys i liked that better
+Me who uses dvi: what?   Cred: Captain XLAB
+2.1 even allowed 10k @ 60hz :3
+Is it possible to have hdmi 2.1 cable 10m long speed at 48gbps?
+In the next few years, they will have to confront the fact that HDMI and DP, simply do not have the bandwidth for next generation 8k video (Future video cards like Geforce rtx4080, or amd 6000 series).  Either they will have to update these connections, or make a whole new one.
+Um, at the beginning of the video you conflated Hertz with frames per second and they are two different things.
+HDCP is probably the culprit. If they would stop spending time making things not work, and spend it on making things work, we'd all be better off.
+No recommendation to use display port???
+copy protection? CRINGE!!!
+let me guess, the problem is from the copyright protection nonsense.
+What is HDMI-MHL tho?
+All I want is to watch stuff, why's it gotta be so hard 🤦‍♂️
+funny coming from a guy whose only physical contribution to the computer world is mousepads
+Why does Linus face Looks Like deepfake in this Video ?
+Why don't we just use display port
+My monitor only supports v-sub, VGA and HDMI
+Time to move everything to either display port, or... Better yet, USB-C
+#nerfhdmi
+DRM destroys everything. (I don't actually know if DRM is the problem, but I don't care, DRM sucks balls)
+For a receiver I can understand this is annoying, but why would you need a hmdi 2.1 on you nvidia cart, just use the dp because most gaming headsets just use usb or optical for sound
+I’ve had hdmi issues so many times over the years, it’s nice when it works but damn does it fail a lot.
+Oh no! Anyway..
+In my opinion, I think it is time to abandon hdmi. I think tvs should start including usbc/thunderbolt 3 ports and displayport ports. Maybe displayport can just do video and usbc can handle audio and data. Just a thought. I just think that usbc/thunderbolt 3 and DisplayPort can do the job better. Not to mention, they are a whole lot easier to handle. USBC is compact and reversible. DIsplayport is still pretty big like hdmi. Both displayport and hdmi are a pain because they are a one direction only and are hard to put in if you can't see behind your tv. Luckily, we have micro displayport and micro hdmi to the rescue.
+Die! Panasonic DIE!!!
+HDCP : causing problems to legitimate customers since forever.
+So how about returning this bs and demanding the money back? Instead of bitching about this it's what many more ppl should do with premature products that are sold for a premium.
+This is why I use S-Video like all others who have seen the light.
+I'm using a 10 year old hdmi cable, is it worth it to replace?
+how unsurprising that copyright protection crap is ruining things for users...
+NO! HDMI is good o?
+I played with a stick just yesterday.  It was pretty good.  The gameplay and the story were practically nonexistent,  but the graphics were impeccable.
+I have hdmi 2.1 devices but not a receiver, so we gg boys.
+Display Port <3
+Copyright Protection is always a Problem and will be forever. The connection would be fine otherwise.
+wait yall have 4k 60?
+My audio cut out at 3:23, so i thought it was an effect lmao
+Me who doesn't even know if I use hdmi 2.0 I only know I use hdmi with a vga adapter to my old monitor
+Another internet pollution video. These channels need banned.
+Bluestacks can fix that issue idunno why but it worksn
+Your almost gave me a hearth attack with your BSOD !!!!!!!!!
+They are more worried that Netflix will lose a couple bucks than they are about their product's success...  Great business model.
+Oh no, all of my HDMI connectors have fallen off
+A brand new system causing trouble for early adopters ? - Who would have thought ?
+I ran into this problem months ago when the LG OLEDs first started supporting G-Sync.  At the time it was either G Sync or 7.1.  I posted about it on multiple forums and never got any solutions.  Eventually I found an article and ARC and realized this might actually fix my problem.  So put the HDMI 2.0 cable from my 2080 Ti to my LG C9 OLED HDMI port 4, then ran another HDMI 2.0 cable on the TVs e-ARC port, HDMI port 2, to my Sony receivers e-ARC port and viola, all audio formats are now supported over e-ARC.  And now that I have an RTX 3090 I’m able to run G-Sync, 12 bit HDR, and 4K120hz over HDMI 2.1
+Reason: too much freedom around HDMI 2.1. There are no strict rules, you can already applied 2.1 sticker on your TV if it has "something" for HDMI 2.1. Not 100%. That is why we see more failures due freedom. Factories saves too much stuff for HDMI 2.1 to reduce costs.
+Display port https://youtu.be/anLY_KKjy_M
+Just another reason to wait with buying a new GPU for the time being
+This is what the play with a stick joke reminded me of https://youtu.be/zmhG3VRao6w?t=292
+Wonder why I didn't get notified of this one 🤔
+The HDTVTest channel did a more detailed video on this https://www.youtube.com/watch?v=e4N95PynVh8
+Either there is no problem with my HDMI cables or my stuff is really old and outdated!
+My Xbox Series X console is perfectly fine. I'm currently gaming at 4K 120Hz right now.
+This why you use DisplayPort and don't buy anything from Sony. Don't support that copyright crap.
+That’s the symptom not the problem
+Sooooo return my Xbox series x until the issue is fixed?
+When I was a kid, playing with sticks was the best multiplayer experience anyone could ever have! It was all fun... well... at least until someone got their eye poked.
+Crying and laughing in DVI-D
+laughing in display port
+What about Radeon Graphics?
+I never knew what HDCP really was. But after hearing about some people having problems with it despite not pirating content, HDCP is not just morally unethical it is down right useless and unneeded tech ever created. They should've really have thought about what it might do to people who have the errors despite not violating copyright laws.
+When will HDMI Ultra High Speed have certified cables?
+What is MrBeast doing inside my ad to install honey haha
+dp wins again
+120 is overkill anyway, it overworks your gpu for negligible benefits, most folks actually cannot tell a difference between 60 and 120hz, even with great vision
+i have a jackery 250 and its one of the greatest things ever for camping and overlanding like we do
+EDID's are the worst. Sooo many problems
+Do you guys remember when a staple of good design and engineering was to invent solutions that do one thing and do it well? You take the video output and feed it to the monitor's input. One job. What is this on-the-fly copyright protection policing BS?
+I panicked and plugged my HDMI 2.0 directly just to be safe
+It would be rich that the thing that is breaking things up is the stupid HDCP bull crap. Wouldn't be the first time that sort of thing screws over the consumer more than anybody else by giving a broken experience. Hell, I bet that the engineers know exactly what is broken but they are not allowed to admit that it's the stupid copy right 'protection' thing.
+haha ps3 time
+Is this why my PS5 won't show on screen 90% of the time I try to start it.
+Glad I didn't switch from vga
+04:28 - Linus: "Or go outside and play with a stick" Me: At least if Linus drops a stick it won't matter if it breaks.
+Now I know why my TV's display went snowy and looked like frost after plugging on my laptop.
+Cries in VGA
+me who uses vga
+Stuff like this is why I still haven't upgraded past 1080p gear.
+I HATE the fact that HDMI carries audio and video. Now every component in my system has to support all of the latest HDMI audio and video features or I have to route around it with ARC. And troubleshooting which component in the chain is the problem is a huge PITA. Just come out with a separate high-bandwidth digital audio cable and put an end to this madness. Putting audio and video in the same cable is causing more problems than it solves
+Go  wich  too
+HDMI is an analog protocol for transferring digital information.  It is NOT binary.
+HDCP sucks. Netflix switched to hdcp 2.2 and now I can't watch 4k because my receiver doesn't support 2.2
+How much channels doea linus have..
+My monitor connected over HDMI Benq EX2780Q  doesn't get signal until windows is loaded
+I personally don't believe you need anything more than 4k60 on a large TV or 1440p60 on a monitor
+Linus- do you know da wae?
+for some reason my hdmi to vga adapter broadcasts actual tv signals to 127 MHz but it looks fucked because its in 60 hz
+having drm even on cables in this age XD
+Nice plant in the background! 😃 wait nvm it’s not weed
+That's why the new graphics cards should have come with three display ports and not an hdmi Heck I'd even prefer if they came with a display port, a USB-C and an old trustworthy DVI  connection intead of giving preference to HDMI which is honestly for TVs and not monitors
+Cables sold as 2.1 but not are also a huge problem
+That's bad and all but my name Jeff
+"Dynamic HDR"  Linus....  C'mon, man...
+"Or play with a stick"  Or use a working video standard, like Displayport, and abandon crappy standards like HDMI.
+He likes stick play what a surprise he's definitely a power bottom.
+Correction: HDMI 2.1 allows up to 10K 60fps... :P And this example is why it is ALWAYS a smart thing to wait when a new standard is coming.. I decided to wait a bit getting a new reciver.
+you haven't seen anything, unless you try to get both 4k hdr image to your 4k tv and dolby true hd or dts hd master audio to your old 1080p receiver.  i went ahead and bought this little splitter device that said to take one 4k hdr source and split it into two signals. one containing the original signal to your tv, and other signal on second cable as a 720p black video with original audio.  sometimes it works just fine, but sometimes it takes up to 30 minutes of power cycling my tv, nvidia shield, my amp and that splitter box. it either works like is should, or it starts to play the audio on this 200% slower phase mode while video works just fine. only reason i have tolerated this, has been the fact that this viewhd box cost only 60€ and 4k amp with even close to similar features as my current one would cost at least 450€.
+Cool Plant in the background. Makes tech much more cooler. 🌱 😎
+I swear that even though I was watching this on my phone, that blue screen gave me a micro panic attack!
+HDCP is a cancer.
+https://youtu.be/e4N95PynVh8
+Lol just set a custom resolution at 4K 119hz 😈
+And all of them failed to Q&A 4K 120Hz? Then fuck those companies and don't buy anything from them.
+Hey Linus, why didn't you call HDCP what it is; DRM? More people know it by that name.
+Ok hear me out: DISPLAY PORT
+So...this is only a $1000+  graphics card problem?
+Is this the reason why hdmi has latency issues on tvs while literally no other port has it?
+I wish they would just give the plug some retaining mechanism. DVI gets screwed on, DisplayPort has hooks, RCA jacks sit super tight. HDMI gets lose when you turn the screen.
+HDMI is broken even with just 4K blu rays i have never been able to get HDR content to pass through an AV receiver without issues. The solution to this should be ARC but that doesn't support lossless Dolby Atmos. Most 4K Blu-Ray players have 2 HDMI outputs for this reason, one for video, one for audio. But sometimes those glitch out and try to push both through one channel or the TV display will say you are connected to the audio output. Even when everything works fine I still get random 1-2 second drops of video or audio during a movie.
+Come on, who among us doesn't enjoy stick play 🤪
+Love your sponsors product, the price, Meh !! I'll give it a miss......
+Pioneer receivers  isn't affected , thank gawd
+Splice HDMI beer bottle glass and cans with optical audio IO to the DIMM slots and CPU L2/L3 APICs, GG
+A HDMI port we have was overused and is bent open, causing it to 'fall out' and go slightly static or drop out every few milliseconds. HD static is very loud.
+I used EARC to get my 2080Ti AV to my new Denon X2700H, works fine but would have rather I knew this issue before I purchased it. What powers do we have if 8K60 and 4K120, which are big marketing points for these Av receivers if they dont even work as intended? Im lucky in that when I do get a HDMI 2.1 GPU to benefit from 4K120 (at the desktop anyway as I still see 1440p120 the sweet spot for gaming) that my LG C9 will handle the video signals and use audio as passthrough like i am right now and have no other inputs I need 4K120 for.
+"Stick play anyone?" *Gets cops called on*
+HDMI was broken when media companies added HDCP !
+Me on a 10 year old PC and a 12 year old monitor: I dont have such weaknesses
+Nice cyberpunk 2077 transitions there :D
+3:57 Don't you EVER... DO THAT... AGAIN!!!
+what hdmi cable would you recoment for using for computer to tv? i need hdmi that is about 15 meter and i have asus nvidia 2060 super and newer lg tv 4k uhd. but 4k i not importend just good qualety hdmi for stream from computer to my tv.
+"everyone who bought an xbox series x or playstation 5" oh. basically 0.000000001% of the population, then.
+Yeah it sucks
+HDMI is "broken", because it often breaks! or just malfunctions.  I wish more devices supported SDI and other connections!
+Linus WTH man, it was proven the chipset from PANASONIC SOLUTIONS (not panasonic) was not the culprit on those receivers instead it was the XBOX Series X/S...
+Diggin the new hair / beard, also, why the fuck does my hdmi cable check for copyright. Sounds like some consent needed  to be monitored
+100% of the shows are pirated online, why copy protection exist in that context, it only annoys paid customers
+So HDMI is like the male reproductive organ......
+This is why you go 1080/240hz fuck everything else tbh.
+When reel-to-reel tape recorders started showing up on the consumer market, Big Recording labels were crying about the end of their business. Cassette tapes came out years later, the same Big Record bosses screamed bloody murder. VHS tapes and recorders? Same sad song. ... Hey, Jack Valenti, nobody forgot what you said! "The VCR is to the American film producer and the American public as the Boston Strangler is to the woman alone..." Really, being able to make your own recordings is tantamount to murder? This guy and his attitudes shaped the entire entertainment industry; he honestly believed that Producers were owed a profit and that the Public were leeches trying to steal from them.
+clickbait title
+And my dumbass brought an 4k Monitor before HDMI 2.1
+I dunno, stick play doesn't try and force you to buy a bloody season pass...
+The 2.1 on my Sony x900h tv is finicky for sure. But nothing a reset doesn't fix. And 4k120 cod black ops on my ps5 is like butter 🧈
+imagine buying new 8k equipment? oooh. Can't relate.   But in all seriousness this is why I wait and don't rush to get stuff like this. Wait for everyone else to work out the kinks.
+Thank you for the high quality content. Linus is working very hard in this video and the WAN show. Please take care of yourself too.
+do any TVs have DisplayPort? It’s got higher bandwidth so it seems like it’d be a way for TV sellers to slap bigger numbers on the box because of the larger bandwidth compared to hdmi 2.1
+Too bad Ps5 has NO VRR. Yet. And my generator is 9lb! 😂🤣
+0:51 "120 hz pictures" linus sounded like emo phillips saying that
+HATE hdmi, SDI needs to be everywhere.
+“Setttle for 4K 60Hz” isn’t a phrase I though I’d hear thrown around so nonchalantly, especially considering I haven’t even broken 1440p 60Hz yet on my setup 😂
+*Stick-play*
+But what about DisplayPort?
+Well DisplayPort 2.0 will be coming. I wonder what that’ll be like.
+Display port >>>> hdmi
+so just use displayport?
+12G-SDI as standard would be the solution.   Yeah, I know it won't happen.
+The background made me check if it’s a short circuit video
+No issue for PS5 though... it works just fine there
+2:53 they had to "EDID" that "IDENTIFACATION DATA" into the "DISPLAY'
+Linus without a beard looks like this guys's son.
+Hdmi audio is what annoys me the most. I use my sound system for my pc as well but when i do i need to have the tv powered on and set as a second monitor for audio. And if i turn the tv off the monitor regularly flickers and reconnects.
+Panasonic rarely f up
+Awesome
+Misleading title is misleading. Should read: A Tiny Fraction of HDMI 2.1 Users May Have Issues
+hdcp stripper is the best way to name the device.
+I got linux ad about IT Management at the start of linux video. Wha
+I felt like such an ejit watch this in 144p it all looks like playdough
+the lg cx can still do 120 on its hdmi 2.1 and i guess im one of the lucky ones jesus christ
+DRM breaking things once again
+Is this why the ps5 has trouble running at 120hz with a lot of monitors?
+laughs in vga
+Bet the issue is with the DRM implementation. Wouldn't en the first time DRM fucks the consumer
+i have never managed to get a sound connection via HDMI nor DisplayPort on my 4k Display via my Nvidia Grafikcard. The build speakers in my display remained silent so far.....
+Ah yes, broken EDID, just like LG when using multiple monitors.
+Playing with sticks... lol. That brings back memories. They could be guns, rifles, swords, spears, hokey sticks, walking canes, ships, bows, fishing rods. No need for 4k graphic just imagination and fun. We used to be so easy to please.   Anyway good to know to avoid HDMI 2.1 devices until the faulty chips are cleared. Thanks.
+Its crazy to hear that this is such a serious issue. I game at 4K + 120Hz + 10bit + HDR with a LG CX + RTX 3070 + HDMI 2.1 cable from Amazon. I've never encountered a single issue. Was I just lucky?
+But my stick can't hit 120fps...
+short answer to a non-existing question: just use display port if possible
+Simple, drop hdcp.... don't need it...
+"sighs with relief" in LG OLED C9
+hdmi is cool, but what your beard really needs is a captain's hat and uniform. all white with gold buttons right down to the shoes. maybe a blue blazer if you want to switch it up.
+This information is not up to date anymore and is now bordering on disinformation. The Panasonic chip in the receivers isn't faulty at all, it just doesn't support "compressed modes" (formats using Display Stream Compression) which are *optional* in the HDMI spec, but which Microsoft assumed every HDMI 2.1 device would support and so force-enabled in the Xbox.  In fact the PS5 and the GeForce 3000 series have no problem at all running at 2160p120 through those receivers, as you can see in this video (released two weeks before yours!) from the always excellent Vincent Teoh: https://www.youtube.com/watch?v=e4N95PynVh8  Could you please update the description to correct what you say in the video itself?
+Damn, and I hoped to be able to *finally* use my PS3 (three) running "10 HD channels" at "120 fps", which is just a tad more pixels/s than 4k at 120 fps...  https://www.eurogamer.net/articles/news311005ps3120
+How many Chanel’s do you need?
+Yep, calling it : DRM fucked up *again* (called it before I even clicked the video)...
+If only there was something other than hdmi that carries 8k or 4K 120
+Display > hdmi
+Actually The analog looks badass and the hd sucks
+Just replace HDMI with USB 3.0/3.1 - it has enough bandwidth to transfer a 24bit full RGB image and that's without using any compression.
+Reminds me of HDMI 1.0
+Linus wants me to play with my stick in public. Got it
+HDCP is the culprit of all hdmi problems I used a device to removed HDCP and it worked when i had similar issue with hdmi 2.0b
+I am posting from the alternate universe where consumer devices used SDI. All of my connections work flawlessly and I get to twist on those cool connectors, it is truly bliss
+0:55 Him putting the comparison up like Im not watching this on a 1366 x 768 laptop
+HDCP, the DRM nobody asked for and definitely don't need
+HDMI 2.1 cables at full bandwidth and WiFi interference. This cable needs to go optical.
+right now im using vga on my benq fp71g+. im thinking about buying a new one and in all honesty i think im gonna buy one with dp because the name sounds cooler and is not as mainstream as hdmi. also because it has a locking pins like the micro usb male used in phones.
+Wtf I confuse for a second at the beginning I got pulseway ads by linus without beard
+Nobody: PPPeter fans: *HDMI JEDNA HDMI JEDNA HDMI JEDNAAAAAA*
+Displayport FTW
+I bet Microsoft, Sony and Nvidia knew full well they were selling products with defective Panasonic chips. This is class action lawsuit worthy
+"The nuances and idiosynchrocies of each individual component can affect a standard protocol in unforseen ways."  This right here is why i have an old, mechanically managed car. And not an electronically managed car. If it does something it shouldn't, finding the cause is straightforward troubleshooting and deductive reasoning.   Why is my brake pedal sinking?  Low or no fluid (This will mandate further troubleshooting as there are a few reasons this can happen)  Low set pedal stopped (easily adjusted with a wrench or even by hand if you're lucky)  Low or no material on brake pads or shoes. (Relatively easy to replace)  Those are pretty much the only reasons why brakes will fail on an older car. Aside from freak accidents  Meanwhile a misbehaving ABS system can just lock up your brakes while you're driving on the highway, and totally immobilize you, or worse.  Just because the computer is acting up and sending BS signals to the ABS.  Ive had computers act up and make my car do bizzare things. Never again. Not worth the stress of not knowing.
+Am i the only one who's perfectly content with 1080p, and even 720p?  And 60fps max?
+Let’s just make Thunderbolt 3 a connection standard even for TVs. Let’s get rid of HDMI lol.
+Me with a 1920x1080 tv and 1680x1050 monitor: uhhhhhhhhhhh k
+Date with me  within  today can you   do it for her ????
+So one chipset for a new hdmi standard has an issue with one resolution and frame rate combo? Doesn't sound like HDMI is broken to me... My hdmi is working just as fine as it always has
+HDCP is the work of the devil and everyone involved with creating it ought to be drawn & quartered.
+sorry Linus, you lost me at "go outside and like play"
+When my PC can only run cyberpunk with 1080p 30fps lowest setting
+Component. Home.
+When is the mousepad coming?
+TBH all I really want to use out of HDMI 2.1 is the eARC function. I like plugging in my devices directly to the TV and then routing the audio out over ARC so I can control the volume with the TV remote rather than switching around different remotes. Problem is ARC doesn't support uncompressed surround sound from my Wii U or Switch over ARC. eARC fixes that. The better picture quality is nice but I've been fine using a 1080p screen for the past half a decade. Heck, sticking with 1080p let's my PS4 Pro and RTX 2060 laptop get better performance than if I had a 4K screen and used 4K mode.
+Me, not giving a fk because 144hz was wayyyyy more important to me than 4k when I bought my budget monitor : 😃
+Display port for life
+So, it's only affecting Receivers? What about the problems with the LG CX?
+So.... Is this why RTX 30xx isn't in stock? lol
+This was an issue with hdmi 2.0 as well with 1440p @ 120hz.
+Not happy I’ve spent over $2500 to get my setup for series X...
+This is why I wish we would all just move to DisplayPort. It’s an open standard with 4K options. Manufacturers don’t have to pay a royalty or licensing fee to include it.  Apple had the right idea with Thunderbolt 2
+My LG cx is fine
+I dont understand why a cable that support 8k60 "only" support 4k120 when 8k has 4 times the pixels of 4k shouldnt 4k in turn be able to be played at 4 times the Framerate ? Not that anyone would be able to get to 4k240 but in theory the bandwidth should allow that. Or what am I missing?
+when Linus said stick play I nearly creamed my pants
+3:03 f*ck that - literally making consumers pay for unnecessary DRM-shit that can be circumvented by pirates anyway.
+I prefer displayport over usb-c. Running an entire computer and monitor with just 2 cables is great.
+4:36 i might cought it... "stick" play...
+Fun fact: if you remove the beard from this guy he looks a lot like linus from linus tech tips
+HDMI SUCKS!  Give me Display Port and some nice analog audio outs.  Then everything will be fine.
+What happened to the white wall?
+I'm still crying that my graphics card only supports HDMI and can't handle 4K 60FPS, making my TV permanently downscaled to 1080p :'(
+They still make new HDMI's? I thought we were switching to displayport
+Omg I got an ad for Pulseway at the start which has Linus in it and I thought I was watching the video until the ad ended lol
+Or use displayport or something
+So what you saying is no one tested this before putting it in all the devices?
+I GOT A PULSEWAY AD AT THE START OF THE VIDEO I CANT
+Wow drm causing problems I'm shocked
+Why can’t hdmi use USBc standard?
+Linus the minus can endorse copy right enfringement now. You are such a sell out, for the Babel.
+Aaaargh! Quit showing off your dope mouse pads and sell them to us already!
+Yo, I thought I got a BSoD at 3:58. I was about to reboot my system lol
+You can use a TRRS 3.5mm jack for YPbPr.  Those are only one small, dumb cable and are infinitely reversible, so they're markedly better than HDMI for video. I still use dual-link DVI anyway, so none of it really matters.
+When you get an ad starring Linus on a video with linus. Smh
+" Checks in to see the Linus video, first add before the video...a Linus add for Monitor Systems" damn :D
+0:45 4K120 is 2160x3840 = 8294400 x 120 is 995328000 pixels and 8K is 4320x7680= 33177600 x 60 is 1990656000 pixels which is 2 times as much as 4K, so why not have HDMI 2.1 be at 4K 240 fps or for 8640x15360 and so on?  Also i thought 1080x1920 = 2073600 was known as 1K, 2160x3840 = 8294400 is known as 4K but 4320x7680 = 33177600 is known as 8K?  So 2073600 is 1K, 8294400:2073600 i= 4 and 33177600:2073600 = 16 so shouldn't 8K be called 16K?
+Ps5, LG GX/CX, dennon receiver works 4K/120hz thanks. I've got this setup.
+PS5 actually does work because it is only 32GBps.
+HDCP is the absolute worst thing. I hate it so much, LOL. It's caused me so many issues with the PS4.
+And we're still using vga in school lol
+The thing that bugs me the most though. Why is the GPro Wireless missing a side mousebutton?!
+The blue screen should have come with a trigger warning
+“settle for 4k60” “use HDMI ARC instead”  Boy what a time to be alive
+No its not
+Sitting here watching this, my cat walks up and distracts me, then I hear the Windows error sound and look up to see BSOD. I'm running Ubuntu. It's been a long time since I was that confused.
+HDCP: Exists HDMI Splitter go brrrrrrrrrrrr
+This is reminding me of a oral pres of rs232 i did in the past (rs232 does transmission via pos/neg volts representing 1's and 0's, old tech though)
+Run an optical audio cable from your display to the receiver and all video inputs directly to display. Easy
+Jesus christ.....how many fucking channels is this tool bag on?
+It outputs stray voltage from TVs which knocks out set top boxes and thus internet. Stick to DP or Component Cables
+So HDMI isn't broken.  Panasonic just released a buggy chip.
+This being on the short circuit set threw me off at first.
+good thing i use display port
+I got confuse with a pulseway ads. I find it weird for linus to start with a segue first.
+Me who just bought a gtx 1050 ti and am glad that I'm not using a gt 730 anymore XD
+I could get 2.0 to work with 144hz 1440p and then dp 1.4 worked right away and no flickering/blackout
+Didn't realize I have different channel now.
+Ah yes, copyright bollocks ruining everyones day (again)!
+I'm relieved since i'm using DP in my 144hz display
+I have dennon 4700h, LG GX  and PS5 and my system works but I have had to restart once it glitched.  Do not plug onto game port, use 8K port on receiver and make sure settings are on 8k enhanced. If enough people comment I will post video. Its not broken fir PS5. That's an incorrect stamens.
+*sigh* so pirates have to ruin it for everyone don't they?
+Thanks Linus. That's why my new Marantz SR7015 is acting wierd.
+Xsx / ps5 should Just include optical audio out
+and it is so fragile..... both XBOX and PS suffer from dead HDMI chip, why not add a DP port if they need a DP to HDMI conversion chip anyway
+Stick play followed by a segway to jackery.....13 year old me is giggling.
+Time to shave.  You're starting to look like a pirate.
+Ha, 'outdoor lovers'
+Me: Just upgraded work monitor from VGA to HDMI to get on with the times.  Linus: HDMI is broken.
+Can we just make everything connect with dual link SDI?
+What's the song at 2:40 called?
+Does anybody knows where to get the same mousepad or whats brand it is ? i love the design
+Fun fact: Saying fun fact makes people read your comment.
+This’ll be interesting in Australia with ACCC & Australian Consumer Law legislation.
+Yesterday I had big trouble with HDCP (High-bandwidth Digital Content Protection) with the 5600xt of my girlfriend and the TV. It got a signal but it looked like a bad antenna-signal. Situation: She had a 580 8GB in the first place and the TV was connectet with a 4 meter HDMI to DVI-Cable. a week ago, she got the 5600xt which didn't had DVI so I bought an adapter and didn't realized that it was DVI to Displayport.  But i got everything connected. But the TV showed a picture that was like this Bad-Antenna-Signal (I dont know the english word for it) Started to mess around with the settings on the driver.... i didn't targed the HDCP but i disabled it.. and BOOM... i got a picture..  BUT.... I couldnt change the resolution-settings... But i found the "Show all modifications" deeeeep down in some Windows settings.. and it worked.. but no 4k like the TV is capable of. just 1080p @ 60hz
+I cannot get 4k 120Hz to pass though on my Denon reciever. I had to connect directly to the 1 hdmi port available with a 2.1 connection on my TV
+10years ago i still used VGA and used it on my HD Monitor at 1080p... switched to HDMI, Framerate droped about 10 FPS but the 1080p was so much clearer and i was like "Frames or HD....Frames or HD.."
+Who could have guessed that early adopters would get screwed by copy protection. That's never happened before... And actually, I own a 2.1 ready Yamaha receiver that will likely have this issue whenever I get a 2.1 TV and Xbox SX, so yeah....really should have seen this coming.
+I wonder if there are early adopters that were lucky enough to snap these items up that now have buyer's remorse for getting one of the early ones.
+Meanwhile I'm still on PS3 and I'm happy when I get a stable 720p30
+I seriously didn't recognize you with the beard.
+Your SCART connector had 3 cables??? 🤔
+And boy oh boy I thought this video was all about linus ranting about his hdmi cable breaking
+copy protection is and always has been super dodgy and a hardware flaw.
+Now try to get DTS and 4K@120Hz on current series LG OLED TVs. Good luck!
+People testes custom resolutions? Like 100 hz or 110?
+How many TVs support passing full 5.1 (or more) audio from connected HDMI devices through ARC?   I tried that with my Bravia and wasn’t able to get more than 2.0 audio through, which I’m told is normal in a lot of cases (same with using Toslink/SPDIF).
+good thing i always just plug my stuff directly into the display. mainly because i only have a pc for gaming and a ps3 for a blue ray player mainly, everything else is streaming.
+DVI D gang
+1440p 144Hz is the sweetspot.
+4:30 dude, we aint allowed to go outside. Had whats called lockdown lite earlier, now doing it properly here in germany, with the rights of assembly, freedom of movement, liberty, bodily integrity as well as inviobility of the home (mainl meaning protection from warrantless search and seizure) suspended in case of pandemics with the new and improved §28 Infektionsschutzgesetz.
+I'm no engineer, but could the problem be simply digital noise interference? The same issue that plagues many audio devices
+When do we start to use fiber optical cables for the connection?
+1:29 Sound very similar to the Intel Puma chips used in a ton or modems, sold in North America. It's a Class Action Lawsuit now
+Who get linus pulseway ads ? Before watching linus video
+Can you guys please do a build in this case it would be great lol THERMALTAKE MOZART TX Cube Tower
+Linus: Just settle for 4K 60..  Me: Lol at me settling for a 720p monitor that runs the Witcher 2 at 25 fps ( yes 2, not 3🤣)
+Hey Linus! Try to make a video about Phone Bootloop, since some of us may don't know what Bootloop mean!  Hope you read this :3
+“Laughs in DisplayPort”
+Speaking of stick play, here's today's sponsor: Jackery!
+I run my HDMI from my RTX 3090 FE directly to my LG 55C9.  I haven't had any issues running 120Hz.  My TV is the source switcher for audio, and it sends its audio out VIA toslink to an OLD Sony receiver.
+I had the sony 65 inch 900e series in 2017. Sonys top line led of the time with a back-lit display with local dimming.   I then bought the xbox one x and was so hyped to run 4k at 60hz back then on forza 7 and horizon 4. Looked fucking amazing!   But every now and then I would get that snow you mentioned when forza booted up.   By doing the famous turning it off and back on again resolved it. Only happened maybe twice a month and only on 4k 60hz content.   Recently purchased sonys a8 oled 65 and bit the bullet on the risk of burn in. No support for hdmi 2.1 and my amp doesn't support it either. Only 4k at 60hz max with hdr or dolby vision pass through.   Though overall the oled with the  series x looks absolutely stunning. Made my old 900e of 3 years ago look like an entry level tv.   I'm not too bothered about 2.1. I watch movies and series 70% and game 30%. I'm an ok gamer.   But when I'm online and some 14 year old that's had sex with my mum shoots me in the head and die on call of duty. Its not because im not running 120hz.   Its because im shit.   I'm a sony tv fan. I just love sonys sets and familiar with the layout.   But unfortunately I wanted an oled and sonys flagship oleds do not come with 2.1. Their lower end led model does though? I found that weird.   So for me to run 2.1 I would need to sacrifice the contrast ratio and fantastic picture of my oled and down grade back to led. Then find a new 9.2 channel amp with 2.1 pass through  with this so called bug you mentioned.  I'm not willing to sacrifice picture quality and spend more money just for the 120hz.   The set up I have does me absolutely fine and games like resident evil look absolutely incredible! I would rather a great picture at 60hz than go back to led with poor viewing angles and blooming at 120hz.   Others might think different. But as long as I'm happy that's all that matters right?
+Yeah I think I'll play with my stick
+Just get rid of the copy protection which always causes trouble. Not like it works anyway since you can all movies online anyway
+Recommended is never bad
+4k-60Hz should be enough for anybody. No, seriously.
+copyright bullshit strikes again, guess we need pirated cables
+Good shit I'm nothing close to an early adopter
+1080p 60fps master race.
+Cables are often a problem with HDMI. No clip or screw to secure the connection. When I have a video cable that goes bad, most likely it's HDMI, regardless of the cost or supposed quality. HDMI is yet another example of mediocre hardware that through popular marketing comes to undeservedly dominate the market.
+OK, this is a pretty big problem. My problem with HDMI is that it is hopeless for professional color work, due to the "equalization" that is applied to the signals, supposedly for better appearance on TVs. For example a PC with an HDMI and a DisplayPort monitor -- it will be impossible to match colors on such a setup. Try to get a particular white background to look the same on both displays -- it can't be done, even with expensive professional color-calibrated displays. A professional who relies on color rendition using only HDMI monitors is going to have dissatisfied clients.
+all i want to do is turn on my home theatre system with one remote! All the manuals  say it should do it, but it just doesnt!
+Why tf don’t you upload in one channel
+I'm going to try and get a 4K 60 hertz TV I don't really see the point of 120 hertz
+Since I went display port on PC I've never looked back
+Displayport 1.4 ftw!
+bug on 4k 120Hz? is that resolutiion? I thought my 1080p is the highest res
+I always hated HDMI because they don't have a way of locking, unlike VGA, DVI, DP.
+Hdmi is trash, only use Displayport.
+How many channels can 1 person have
+Im sorry but I won't watch the old videos. It's either bearded Linus or nothing.
+Why don't tv's just use dp?
+why does he look like linus tech tips
+I wish 1440p 120fps would become standard onto TVs
+I looked up at the screen when the windows error sound played (3:57)  I'm on linux
+Is anyone suprised that the copy protection causes problems? Why bother...
+When I started the video, it was stuttering and having issued. I thought it was an editing joke and laughed. Turns out my computer just sucks.
+I guess Xbox Series X, PlayStation 5, and Nvidia RTX 3000 scalpers will be on Larry Bundy Jr.s "Fact Hunt: 'n' More Times Scalpers Got Screwed Over."
+I use DisplayPort. HDMI Sucks.
+gnu was right. do one thing, and do it well
+am I the only one that thought that the plant was weed
+Why not replace HDMI with USB-C 4 / Thunderbolt ? One port to rule them all ?
+So idiot greed in the shape of DRM screws over the people who spent their hard earned money while not 'protecting' anything yet again?
+I thought the problem was that the Panasonic chip could only handle compressed signals while the Nvidia cards and Xbox only send uncompressed signals. Also, the PS5 is not affected by this problem because it uses the same Panasonic chip.
+Dsiplayport for life.       Until your TV doesn't have one :(
+Micro USB is even more broken! 😭
+Can you stop with the clickbait please?
+best evidence that linus has no idea what he's talking about
+You got one thing wrong here: The PS5 is confirmed to not be affected by the issue.
+I’m impressed. No one noticed the plant.
+Could you guys do a video about how exactly hdmi's copy protection works? I've always been curious about what stops a black box from saying 'yep, im a tv' and then recording the image and sound
+I wonder why they didn’t just use RJ45 Ethernet rather than building a new standard like HDMI?
+HDMI has built in DRM? What a trashcan standard. No reason not to be using Displayport
+4:29 omg...HOOP AND STICK!  I gotta go...bye!
+OMG so the Panasonic Chip is the reason all AV-Receivers suddenly are not available anymore? I just wired my setup and ordered a Receiver and the earliest it will be here is end of January...
+Does linus ever take time off? I feel like he must be working every second of every day. Hosts LTT, plus has like 3 or 4 other channels as well.
+I'm in the AV manufacturing biz. HDMI isn't so much broken from a technical sense, it's broken from a lack of communication between specs and hardware developers.
+SDI everything point to point pls
+Can I have a pc
+I have a whole snoo of HDMI 2.1 cables lol cause I am dumb. Lol
+Stupid question here.   Why TVs don't use Display port 1.4 ? Or just put one in there to have an option
+When are those oversized desk mats dropping? I need one for my 72in desk
+Kid looks like he's holding a shotgun
+Anyone tried playing 4k blu-rays on their pc? Cheers copyright protection...
+It's been confirmed that PS5 isn't affected by this and, unfortunately, it's looking like the chipset issue won't be fixed via a firmware update.
+I can wait until these issues get fixed
+Glad I didn’t get rid of my 2080ti
+I got a new desk and moved my pc now i cant use my HDMI projector because no extension cable works ... fml
+Me in year 69420 with blue tooth hdmi losers virgans
+Im using HDMI 1.4 everywere. Working really good for my needs. 1080P and DTS HD-Master 5.1 audio.
+All of that anti-consumer copyright garbage not only makes piracy more enticing but also ethically legitimizes it
+A whole lot of NADA* c:
+Would it be possible to actually check if the product you are about to buy has the broken chip?
+DRM on a cable? Fuck that. Team DisplayPort.
+Why not use USBC for everything? *i know it is not realistic but let me hope to...
+Don’t worry guys, it still works, I checked.
+Boy, HDCP sure stopped me from playing all those MKVs on my Kodi box lmao
+120hz or 120fps??
+Copy protection problem, huh?! And on top of that, we need to pay for this crap?!  Why this problem has been solved already?! We're in 2020, right?!
+Sound United aka Dennon and Marantz have updated their guidance regarding this issue - Nvidia and PS5 can successfully pass through. They are continuing to work on the issue with the Series X.
+Why is it that no TV will do 1440p 120? On my friends Sony it’s just 4K 120 and 1080p 120?
+i use vga
+Good good
+3:58 thanks for the mini heart attack Linus, I was watching on PC fullscreen
+Somehow I doubt there will be a single ps5/xbox game that plays a 4k game at 120fps. I remember when the pro/onex were supposed to do 4k at 60fps and didn't. Not that I care, I think HDR and Ray tracing make a much bigger 'ooh, pretty' factor than 4k (as does OLED, but.. well, yeah).
+Wow! So many issues in 2020 and we still have one month left in it. From covid 19 pandemic, George Floyd to tech scaples and now, throw in another problem with HDMI. 2020 has got to be one of the worst year in recent memory. 😁
+Ah, yes, this limit on 8K 120hz gaming is very important to keep in mind for those of us who are using a GTX 750ti that's held together by duck tape and super glue.
+Dat SMOOTH segue
+so if is broken than are we going back to RF
+me still using vga: hmm, interesting
+HDMI was broken since the beginning. Not only there's iffy HDCP implementations. Consumer Electronics Control and Audio Return Channel can cause problems even between devices of the same make.
+what's a stick?
+Supporting 4k 120 and actually getting over 60 fps are entirely different things.
+119hz stonks
+I'd suggest the Ryzen USB stutter issue.  Doesn't seem to matter what generation CPU or board. I'd love to know if just using an add-in USB card would be enough, or if it has something to do with IF latency shit, or who knows what. Was over here the last couple years just thinking games were buggy or Windows was shit.
+It would have been good if everything was cat 6, 6A or 7. Low cable cost. DIY crimping. No loss over length. And upto 10G speeds
+god fullscreen + that bluescreen and noise freak me out every time it happens in these videos ;_;
+Just over here with my HDMI 2.0-only TV not worrying about this.
+Vga gang
+Imagine not using VGA
+Analogue and spdif for the win.....
+A thing not working because of shitty copyright protection implementation ? Color me surprised because that has NEVER happened before
+everything was easier without that copyright crap
+Technology is a fascinating dilemma, we do make it ever easier to handle but at the same time so incredibly complicated to fix
+Does this effect the YAMAHA RX-V4ABL  ?
+Biggest problem of hdmi 2.1 right now is that its features necessitate a bandwidth that some hdmi 2.1 compatible TVs cant handle. Manufacturers boast features but cant deliver ALL of them at the same time. For example my 900h has 4K 120hz but Sony admitted they can't have the same image clarity in that mode than in 4K60, obviously because of firmware/bandwidth issues.
+Jokes on you, I'm still using VGA 😎
+Linus i played with my stick outside and now i got arrested, i need a tech quickie about what to do next asap
+Of course it broke, that's why the cords so short LOL
+RIP Linus
+So ps5 don’t got this problem?
+guess being too poor to afford any HDMI 2.1 devices was a blessing in disguise... sucks for all the early adopters that bought HDMI 2.1 capable AVRs though...
+BSOD in videos.  That's almost as bad as sirens in music, while you are driving.
+So  my 1080p 60hertz monitor will be fine, right?
+3:32 won't you be connecting your gadget directly to the display in the first place?
+did u google cursed images for that thumbnail
+Actually PS5 doesn't have any issues with these chips. So it honestly comes down to compatibility issues. Vincent i believe prove this.
+Just another petty dispute...
+Actually not Panasonic but another company that bought out the Panasonic branch that manufactures these and kept the branding right?
+Obviously DP (btw. Royalty free) is the better choice. Why HDMI even exists??
+This chipset issues remind me of the us robotics 56k OEM chipsets sent out to companies like gateway back in the late 90s when they first came out with the 56k modems.  The problems were that the customers were getting 24400 speeds which obviously was not what was bought. It took almost 6 months to fix.
+I prefer DP over hdmi
+I guess this Youtuber didn't do his homework before posting this video just yesterday.  Out of the 3 current devices on the market capable of 4k 120Hz only the new Xbox has an issue.  There are plenty of updated articles and YouTube videos explaining this initial confusion.  Nvidia and PS5 no issues
+we not gonna talk ab how he said stick play, then jack so like...
+They had FIVE 👏 FUCKING 👏 YEARS 👏 to figure this shit out as they were stalling and refusing to implement HDMI 2.1 in TVs, monitors and GPUs for no fucking reason and they didn't even bother taking a look or quality testing.... corporate retardation at work, ladies and gents...
+HDMI has always been bullshit. It was created solely to stop people from pirating video. Everything else is an after thought.  Display port and optical audio is the way to go. If not optical then just use stereo
+i didnt know i was watching techquickie
+This was more deeply tested by Vincent Teoh over on HDTV Test here: https://www.youtube.com/watch?v=e4N95PynVh8 The problem seems to be that HDMI 2.1's Display Stream Compression (DSC) isn't handled properly by the Panasonic chip in the receivers. Only the Xbox Series X actually uses this feature though (so called 4K120B), while the PS5 and PC send data uncompressed (4K120A).
+Gringos trying to say words ending in O or A kkkkkk
+Early adopters eat the costs.   It's ok.
+DVI represent. Who needs 4k60 anyway
+Poor 4k Casuals. they 4k TVs has at least 15ms inputlag,1080p @120hz in game mode while a Plasma TV has 0.001ms inputlag 1080p @600hz and CRT monitors has 0ms inputlag. They now have to fix this hdmi 2.1 bug.😂 They buy a 4k display but acuses you of hacking...poorn noobs.
+I would love to see a video where you use a hub to plug in as many keyboards / mice and other peripherals till you hit the cable’s bandwidth wall. 3 test scenarios with usb 2, 3, and 4. It would be interesting to see how much a single usb 3 port could handle in practice
+now consoles will have to deal with PC problems too, HAH!
+Anyone still ok with 1080p, or am I now the old guy?  Lol
+Meanwhile i am laughing while waiting for 2nd gen 2.1 TVs and updated series x before I buy so I don't have to deal with these issues hahahahahaha
+DP > HDMI junk
+1440p 120hz on good old fashion HDMI 2.0 is where it's at.
+DisplayPort Master Race!
+Why not just use display port?
+conclusion: buy Korean TV not Japanese
+Display port is best
+and meanwhile, im struggling with mi 1080p 75Hz freesync monitor to stop randomly getting black screens when opening a random game in full screen.
+Why are you using Shortcircuit's set?
+I wonder when this hip young super cool white cat wakes up in the AM.. How does he decide to wear 2, 4, 6, or 8 hoop earings....  This fucker would starve in a week..  Without electricity !!!!!!!!!!!!!!!!!!!! #truth #firstworldproblems
+Wait this isn't short circuit
+Me, who still use vga: ...
+16:9 🤢🤮
+Did linus act on Pulseway ads?
+White balance is a bit too dark
+ooo for some reason i didn't know portable power stations like that were a thing 0.o  guess i'll save my hdcp rant about it doing nothing but piss off paying customers for later lol
+Check out my DIY Wooden PC case!!! https://www.youtube.com/watch?v=871NHlUjtD0
+Why Are CPU Wafer'S Circle  WHY Why why
+i use VGA(don't judge) anyway hdmi sends the signal late to my tv for some reason
+Does HDCP even work? I don't think I have ever played even a single piece of content that has triggered it.
+how many channel does linus have
+Imagine a world without HDCP though, people could just download movies for free on the internet and all the video rental stores would go out of business!
+You mean to say people still connect their peripherals to the back of their receivers? ARC rules.
+HDCP has caused more problems than it's worth an has not stopped piracy in any way
+i still use DVI-D :P
+I'll say this is why I haven't got a 4k 120hz tv but really its because I'm now poor.
+I don't get it. What about DisplayPort? Why people don't use it instead?
+Not sure how that battery bank is suited to people who like to have sex outside, but okay..
+Why is there even DRM in a display connector? I've used pirated content pretty much all my life and never had any issue. So did they just add junk to the spec to solve nothing?
+Going outside to play with my stick until the next update on this.. buying a 2.1 tv is gonna be a nightmare bois.
+HDMI is a shit, not even supposed to work properly with my new graphics card and gsync monitor. I don't even want to know why, it it could have such problems - it already SUCKS.  Nothing can beat DisplayPort, it's royalty free, it works out of box every time and supports 2/4k at 144hz
+Your bamboo has some sus leaves ^^
+Yeah, my 2.1 does not work with 2019 Samsung and PC with TITAN GPU :D TV tells me it cannot see any device.... And on monitor it is working, via HDMI...
+I love how just before this video i saw linuses pulseway ad
+In heaven we already have hologram TVs. Hologram gaming is the thing up here.
+But, most gamers dont use HDMI, we use DP.
+DVI was way better imho
+Ugh 5:02, that G Pro Wireless has missing side button...
+HDMI IS BROKEN IS A CLICKBAIT MANN why not just use HDMI 2.1 has some problems or something
+Claim your “here before a million views” ticket here
+Me chilling with DVI...
+Techquickie's titles are garbage nowadays. This was supposed to be an informative channel and you're using your clickbait garbage again. Why no do what you did on LTT?
+Or y'know, just use DP...
+2:36 linus ooff moment
+Why did he grow a beard in a year where we all have to wear masks?
+Where the hell is the white background😐😐🤐😒?
+My HDMI broke 10 Minutes ago, lol and then this video shows up on my YT Feed...😕
+Oh cool, an HDMI splitter.
+The sore kohlrabi developmentally warn because fact univariably deserve unto a likeable pastor. foolish, utopian vision
+We're too busy playing Cyberpunk Linus, I thought you knew better.
+Kane Williamson
+I am using DisplayPort to HDMI converter and the picture quality is bad.
+All your HDMI connections will fall off  Well I watched this on phone and I use D-Sub connection for my monitor, so, HA! :v
+I'm fine with "variable-resolution sub-60fps" a.k.a. go-outside-and-play-with-sticks
+skipped a beat at 3:58
+Meanwhile I am dreaming of 480p 30fps
+nobody: YouTube: showing Linus ads on his own channel
+Can't hear the video or see the audio
+Me stuck using DVI: "Well..."
+As an apple sheep, I should say that thunderbolt may be an option for you pc guys in the future :)
+It needs time, bruh..
+DisplayPort 1.4 has entered the chat.
+It warms my heart to see that this video correctly attributes the problem to Panasonic. Nice work on accurate reporting here. Oh, and HDMI Forum members likely know the root cause of the issue, they just aren't telling the public...and probably never will? Good luck returning your 2020 AVRs.
+Was so close to but the new Denon HDMI 2.1 receiver. Phew
+You know what? I had just bought my new pc this Monday with Ryzen 5800x and MSI 3080 and connect my monitor with an HDMI cable. I kept experience the black screen issue when the pc is restarted. I had to keep restarting the display driver and adjust the dram voltage which made the thing worse as the pc could not boot up. It took me 3 days to diagnose the problem, including taking out the GPU and resetting the rams. Now the pc can boot to windows yet the black screen problem still exists. I then change the HDMI cable to DisplayPort cable and the black screen issue disappears. So maybe this is the reason!
+PS5 manages 4K 120FPS just fine as tested by HDTV Test channel &IIRC Digital Foundry had the same results
+Lol I got a MKBHD Dbrand ad on this video.
+3:59
+I don't even have a PC or Console to do this.
+I'll play with a stick thank you
+🎤▶️ voice message (00:27)
+What a big widespread issue for all the gamers who spent thousands of dollars for these 2.1 AV speakers. No one cares.
+that why my speakers connected by spfid cable so all these ppl that get audio problems shouldn't depend on dumbass HDMI
+oh no my 20k tv has a bad chip now i cant run my 3090sli system 🥴
+What timing... There was an announcement this was resolved and fixed before this video went up lol
+Linus, you're still making those Subscribe or else "jokes".  :(
+Once again, DRM screws over the consumer.
+I dunno why but that background music makes it a bit difficult to focus
+Mini and micro HDMI SUCKS
+USB - C isn't enough for Everything ?????
+How about the voltage difference between HDMI and DP and you need an active conversion cable to plug one into the other. HDMI to DVI is cheap. HDMI to DP is not
+Others - 4K 120Hz 😁 Me - 144p 960Hz 😍
+Good thing usb-c is getting adopted! Not like there's inconsistent standards for that too... :R
+Lol who even watches netflix anyways; HDCP is bullshit. ANYONE with a brain already knows thr internet somewhere has recordings of all their shows whether they like it or not, which makes HDCP null and void.
+So DP port is non existent ? Just asking.. seldom used it..
+You bastard, you told me to go outside and play with a stick? That trickery stopped working on me last year.
+Some people who own 1080p 120-144hz displays with HDMI 1.4 ports and can't make the PS5 games run at 120fps even after enabling Performance mode. Surprised not many Tech YouTubers are even mentioning on the 1.4 hdmi issue going on. Sony being very annoying this generation...
+I lagged as he said lossless
+I'm pretty sure almost everyone used the S/PDIF connection back in the day.
+If you have a 4K display, it most likely has DP. if you have a 4K 120hz display, it definitely has DP. Just use DisplayPost, as DP 1.4 (which isnt even the newest version, its pretty widespread) can not only do 4K120 which is the top speed of HDMI 2.1, but it can also do 1440p144 and 1080p240, so I don't see any minuses. Oh, you have a 4K120 TV that doesn't have DP? That's your own problem, and either way, don't game on a TV. Oh, your new Xbox doesn't have DP? That's your own problem because you didn't get a PC. I mean I may be missing something, if so, please tell me, but I really don't see why we can't just use DP, which is in every way better, but just less widespread. And again, the old generation of DP 1.4 is better in every way to the "new" HDMI generation of 2.1, but there is still DisplayPort 2.0, which can do 8K60! That's because DP 1.4 has 32.4Gbps bandwidth. And either way, DP 2.0 does 80Gbps, compared to HDMI 2.1's measly 48Gbps.
+Playstation 5 is not affected.  That is incorrect and has been clarified.  Eg https://www.youtube.com/watch?v=e4N95PynVh8
+As someone who does video work for live events, HDMI is by far the worst standard I have to work with... The connector is flimsy and doesn't lock, EDID causes issues, cables aren't all made equal, HDMI switchers are stupid expensive because of the processing needed. If HDMI didn't exist it would actually make my job way easier
+The chipset in question is not made by panasonic.  Its made by panasonic solutions, which is not part of panasonic anymore (part of Nuvoton Technology).
+Sorry, but we're going to need a video comparison of Stick Play 2.0 vs 2.1
+Thats why I still use DVI It just works
+HDCP is denuvo of games and we all know how much we hate denuvo.
+either way I have a suspicious feeling at some point or another we're going to find that it's all  dolby's fault... somehow I'm I'm pretty sure it's going to be all their fault, as is proper, and tradition.
+me who uses RCA... wait you didn't have to plug in the HDMI cable through the arc to get sound? so like does that mean that a modern receiver can't take a separate sound input...? I feel like these are surmountable problems... especially when you're talking about your display coming from an output device anyways like a game console or a video card or computer...  well I guess maybe not a game console, I have a suspicious feeling they probably only have one port out the asshole, which I guess sucks... funny how when you simplify the delivery chain, you end up having one device that fails trying to do seven different things, if you just had seven different devices and one of them failed you could you know get a new one... or you know fix that one device rather than well I guess it's that the same thing technically since you're just waiting on one thing... let me rephrase that if you had several different options you could just you know do another thing of your seven different options...  it's times like these that I really do love the PC concept... no matter how much people are trying to shove it all into one do everything apple style port.  don't the new consoles have DisplayPort? or is it one of those things where you can only use one or the other
+Kek, I’m still in 1080p muahahahaha
+phuck
+Could u make a video on computer audio like from price points like low med high with sound cards and purchasable computer sound systems I say purchasable  cuz I know some make their sounds systems for their computers maybe this is something u have done before but what about a refresher any new leaps and bounds in sound card tech
+"Don't buy LG 27GN950, it doesn't have HDMI 2.1..." they said... Well, good sirs, I laugh in your general direction over DP 1.4.
+But all the sticks are frozen to the ground :(
+Screw HDMI.  This comment was made by DisplayPort gang.
+Seeing non-bearded Linus in the same video really reaffirms that bearded Linus is best Linus.
+stop make overcomplicate
+You know what would be great if companies like panasonic, nvidia, asus etc released their products early cheap because its buggy, becomes more expensive in its mid cycle use, then goes back down to cheap at end of life. id be fine with that. why pay more for tech that does not work
+blame the useless HDCP feature everytime, you're probably right
+I got Linus ad at beginning of Linus video
+So your telling me my oled lg cx 48inch with hdmi 2.1 is fucked. With my 3080 I haven't purchased 😕 yet....? I won't get my 120hrtz 4k over hdmi 2.1 ??
+me with 60 hz screen watching this while frying my gtx 1060 on roblox
+Why the smeg does a video port need to try and interfere with what I'm playing? You know full well that it's going to screw with what they consider legit media too.
+Wait, did NOBODY test their HDMI output devices before shipping them to consumers? How did they overlook the most anticipated next-gen format (4K 120fps)?
+*laughs in VGA*
+DRM and closed standards. Idiocy.
+1080p 240Hz for me not affected
+It will be a cold day in hell when my stupid HDMI cable prevents me from watching my pirated movies.
+Ok !
+What I heard this video was...they don’t know and they got to figure it out soon. And than a lot of filler words. Haha love you still Linus tech tips!
+i prefer analog inputs for audio. have a hdmi audio splitter to split it into 6 channel rca then individually amp them.  most hdmi receivers have absolutely stupid and retarded hdmi inputs. they get break ALL THE FUCKING TIME. most av receivers have this issue.
+I have 1 question.  Why my TV not connect with my PC after install driver? My laptop not connect too
+RIP Green Screen
+why isnt the displayport the standard rather than hdmi
+You should do another old Tech video on your main channel of scrap yard wars.... You have to build a pc from 1998 - 2003 specs.... Best one wins lol with the issue of P4 netburst, rocking AMD cpus, and the older P3 lower latency chips it be a interesting competition.. Who will go for old VOODOO multi GPUS or the mainstream at the later dates...    Also note they have to use like Ebay, Craigslist and so on and have to ask the seller to pick up the product cannot be shipped LOL.....   8 EP to 12 EP series that can span new EP every like 1 to 2 weeks.   Windows 98, ME, 2000, and XP sp3 x86, or sp2 amd_64 lol or a linux variation thats modern .... Who will come out on top The user specs, or just the raw horse power of the windows OS of the time or a newer Light Version of Linux
+It brokey
+i m seeing Linus ads on linus vidoes hmmm !
+4:27 nice South Park: Stick of Truth reference, especially near a console release Christmas!
+That plant in the background there... do you intend to smoke it all alone or sell it on lttstoredotcom?
+“Settle” for 4K 60  Me: oH nO wHaT a NiGhTmArE
+Why don't TVs just use display port..
+I couldn't figure out what's the problem with my display, it was working fine the earlier night but the next day there was no display at all. I thought my HDMI cable was broken so I changed another it was the same problem with the new cable too. I thought my monitor was broken but when I plugged my monitor to my old pc it worked, then it gave me a heart attacke may be my gpu was broken so I went to my friends house to check my pc damn there was display on his monitor. Everything looks fine, one thing I can't understand is why there is no display on my monitor when it is plugged in my pc and there is display when its plugged in to another monitor.
+It’s broky
+who even uses hdmi all my monitors have been displayport for like 6 years
+Can we just get display ports on TV's please?
+1:55 *laughs in poor*
+well, the real world has infinite fps, resolution, and contrast and the color is 100 percent accurate. so playing with a stick is a demo of these
+1000 dollar battery pack just buy a generator
+This should really have gotten a mention on Techlinked. This is fucking important tech news guys.
+As a custom AV installer, these are not just early adopter problems, they happen with every version of HDMI. HDMI is and always will be fundamentally flawed. No revision will fix the insurmountable issues. From the poor physical design of the connector itself, the lack of ESD protection (IE simply hotplugging can damage), inter-device operation regarding different hardware manufacturers... the list goes on. Not to mention the obstacles with video distribution, CEC, licensing fees, DRM, forcing manufacturers to limit output options on devices that use HDMI, etc.  Just this past week had a customer with a brand new Denon, AppleTV, and Samsung TV. Would only pass 4k (not to mention Dolby Vision) from AppleTV reliably if plugged into the last HDMI input that was closest to the output.  Display port is fantastic, but in the world of A/V, HDMI is a despot. To everyone that has DP on their monitors, good for you! In fact you may not know it, but most DP chip sets allow for passive DP to HDMI converters, because DP can output HDMI signals!
+what happened to thunder bolt being the standard? (⁦ಠಿ_ʖಠ)>⌐■-■ someone explain to me please(ಡ﹏ಡ)
+who goes outside and just plays with a stick
+i will get back and use my vga monitor with an hdmi adapter
+**Laughs in 1080p 60fps**
+I tried going outside but the graphics were all snowy. ❄❄❄
+WHAT IS THERE TO LAUGH??   5:42
+Bitcoin is the future, Investing in it now will be the wisest thing to do especially with the current rise
+just use DisplayPort
+Oh new shortcircuit video is up
+Panasonic semiconductor solutions was bought by Nuvoton. Even though it has the Panasonic name, don't think it anything to do with them.
+Somebody tie his hands. So annoying. 😡
+Sadly HDMI also has DRM and not only that, its often broken thus not allowing you to actually use HDMI even for stuff that is not meant to be protected by DRM. And 4k is not meant for HDMI no-matter what companies say. Removing HDCP would go a long way. Only use HDMI if DP is unavailable
+Panasonic. Just slightly ahead of our time.
+Can you please make a video on why we can’t just use USB4/TypeC instead of any other ports that transfer data or power <= 100W ?
+bring back the old techquickie!!
+Freeky deeky
+Me who uses VGA. oh no..... anyways
+Still working
+everyone knows that outside only runs at 60fps  so going outside wont help
+just switch to a DisplayPort, people using HDMI nowadays are just using it because they're brainless
+Where was this missed in quality control? Did nobody ever set a device to 4K 120?!
+God I thought I just got a BSOD. Thanks Linus!
+THIS GUY PROMOTES HIS MERCH SO MUCH SO THAT THE YOUTUBERS WHO SHOW GRAPHS AND ALL FOR SUBS GET SHY XD (ps ik who linus is this just comment lub ur vid <3
+I remember seeing these issues with HDMI in the early days. I have never thought of it as reliable but it is convenient. What ever happened to good old Toslink?
+I don't get the point of HDCP. We literally have programs to break it with the click of a button.
+why not just make everything thunderbolt 4 from now on.. as far as displays go
+Nothing better that hardware/software attempting to prevent content piracy hurting the paying consumer... again... for the 1 millionth time
+Hdmi is cool and all but when we getting pcie gen4 direct connection monitors
+Coming down to graphic card /PC gaming Display port is best
+So just use display port  That’s easy
+This time, my boomer daddy was right
+This video is freaking scaring me with those blue screens and damaged image effects
+LTT Title on Techquickie
+Wish we can all just switch to USB4/TB already.
+why is copyright exists even on hdmi cables
+yes it is the voice of linus.........................................
+I swear HDMI and Bluetooth are a power of shit mega shit
+old news linus
+make a video where a player sets a benchmark high score on a high end extreme pc and try to achieve the same score on a lower end PC and see how low end u can go before PC performance becomes the player's bottleneck!
+did you unplug and plug it again?
+There was a time when this man was not leaving me in any Tech Videos   Now this studio has joined the ceremony as well
+Ditch HDCP.
+Laught's in vga hahahah
+I hate to see you with moustache btw
+"The problem, is that when 4K 120 FPS..." Ok thank god 😅
+Of course it's fucking HDCP causing the issues.  Copy protection causes issues all the time.  I'm so sick of copyright lasting as long as it does.
+Background music is noisy and loud
+DHCP AFAP PLEASE!?
+HDCP is so weird, like who does it even stop? Who does it even help.
+Jackery Powerstation is $500US.
+this is why I just use watercolor paints to transfer visual images from my CPU to my monitor. I get about 120 frames per day, then I need to buy a new monitor
+Every consle I own use hdmo
+Fkg Panasonic!!!!!!!!!!!!!!!!!!!!! I think it's time TVs and AV Receivers support friggin DP as well.
+Wrong set.
+What is the name of the background music Linus has on?
+Stick play... Jackery... Hmm...
+This music is so distracting
+im using hdmi 1.4 and it still works fine.. new hdmi revisions is a hit and miss nowadays
+HDMI audio has always sucked in my opinion. Idk if its the Dolby codec but you cant hear the talking but all the music and sound effects blast your ear drums
+What about 2560x1440 at 120 Hz?  is that also out of the question? or 4K at 90 Hz?
+Another option to work around AVR support if you want lossless atmos is this bad boy https://thenaudio.com/product/sharc-earc-audio-converter/ . I can run atmos this way to my older non eARC AVR connecting my 3090 to my TV. I get 4k 120hz and don't have to sacrifice sound quality or channels. (Or buy a new AVR when mine is still totally capable otherwise)
+1080p 144fps outputting to a 144hz monitor via DP1.4 cable for the win.
+Even my LG OLED TV doesn't always play nicely with my LG sound bar. And that's pre-HDMI 2.1!
+HDMI is most bogus thing I have seen. One HDMI revision and your $100k TV is old hardware now. They should scrape HDMI for optical fibre. It can handle 10 times more bandwidth and cheaper.
+4:00 dont do that to me omg
+Can we just get rid of HDCP? It has never once stopped pirating. Ever.
+A lot of HDMI cables can fail near the connector port
+have you seen the frame rate outside?!? i swear it is over 1k fps
+So in a nutshell, DRM fucks us again.
+DRM again.
+*laughs in DVI
+Sorry. Ps5 works. I have it connected to a marantz avr (:. The Xbox, on the other hand...
+HAIL THE STICK PLAY
+If there's enough bandwidth for 8K@60, shouldn't it be able to support 4K@240?
+This video is incorrect in many ways.  The PS5 isn't impacted by this issue at all at present - the particular bug in the Panasonic (actually Nuvoton) chipset is related to the usage of Display Stream Compression.  The Xbox Series X enables DSC automatically, triggering this issue. The PS5 does not do this.  For PC users, ensuring that an RTX 3000-series board does not exceed 40 Gbps of bandwidth for output (possible for 4K @ 120Hz without chroma subsampling) avoids the issue.  Vincent Teoh has covered this properly and in-depth: https://youtu.be/e4N95PynVh8
+Or just use DisplayPort with 4k120
+Oh no, my 4k120 mode... Now how will I get all the 360 no-scope headshots and my 50/0 K/Ds?
+I prefer DisplayPort sad that tv‘s rarely have such a connector
+Who is using 120hz 4k?
+i would LOVE IT if hdcp would absolutely stop any further advancement in tech, so it'd have to be ditched..
+If you don't appreciate stick play, then you have no idea how funny the ear might be
+that bluescreen gave me the chills! here I am waiting for cyberpunk to drop and suddenly bam!
+Thanks to the early adopters of all tech for Beta Testing stuff for Free.
+When are the deskmats dropping?
+Man happy i didn't get my TV this year.  Next year hope for a better year. I hope not so much delays.
+Funny how DRM is STILL the bane of all technology and users.
+My monitors are DVI-D and displayport, im good
+video suggestions, why not rant about why manufacturers of tvs only really offer 3-4 hdmi ports per tv for retailers?   Its BS when you have  multiple consoles and devices that  natively use it and everything else and its grandparents has a mod to make it hdmi compatible!  Which then forces you not to use it or to jump through switches or redoing the setup all the time.  Another, why is there no 4k Blu ray /VHS combo player?   There was once a Blu ray/vhs combo player (its a fact).  Those should be all over the place and cheap for you to enjoy your physical media from retro times to modern all in one device!  Another rant, why haven't Blu ray burners dropped much in price?  Why are blu ray burnable discs so expensive?   Why aren't they in everyone's computer despite existing for over a decade?!  Also why don't publishers publish games on blu ray drives?  Most of the games out would easily fit on a few blu rays.  Why use DVD Sized boxes for games when CD sized would suffice?   Why are switch games in such large cases for such tiny games?  What is with the shrinking of game isles?   Why doesn't microsoft make a windows media center any more?   What do you think about youtube downloading program/apps and what free one do you use for 1080p video?  4k if possible.
+Edid... the source of all my past video distribution issues at work.
+TLDR; It pays to wait a couple years to work the bugs out.
+Me who dosent even use more than 1080p:yah don care
+I really miss the white background videos, they felt more academic
+Well i feel very sorry for the 5%(maybe less) of the people out there that watch and play on 4k lol
+So that’s why my hdmi cable won’t work
+But is my DVI connection fine? ;)
+EDID n Eddy
+Glad i held off on buying lol
+Is there a list of devices that have this panasonic chipset any where? I'm in the market for both tv and receiver and would like to avoid this.
+How.. can they not know what the problem is? Don’t they test these bloody things? It’s clearly widespread enough to be flagged by global media!!
+2:07 How is THAT gonna happen? For ARC to work you need to connect your gadget to the audio system and then audio system to display's ARC input.
+Why isn't DisplayPort 2.0 more common? It's been out for like a year but nothing uses it, a lot of people who surprised that the Nvidia 3000 series didn't even come with it, also I wasn't surprised that AMD didn't take advantage of this and release the 6000 series with DP 2.0 to have another advantage over Nvidia. Somebody release something with DP 2.0 already, it's way better than HDMI 2.1 at its full spec
+Lg oled cx tv's series is perfect and without problems on 4k and 120fps...
+tfw the only options are the 43" Rog for $2000 or $5k Alienware Oled :(
+Go outside and play with a stick... Not in California. Pretty sure they’ve banned “outside” at this point.
+It it supports 8K60p, it should support 4K240p
+Guarantee the problem ends up being HDCP
+Am i the only one here who stopped the video at the BSOD and disappointed after there were no "easter eggs" or "hidden messages"? :-)
+I hate the fact that there is no HDMI 2.0 or higher to DP 1.4 or higher adaptors that support high refresh rates, so many people could benefit from this as I now have to get new monitor or monitors to fully utilize the high refresh rate modes on the new consoles, but if there was a good adaptor, it would be fins as I could use the DisplayPorts...
+He meant to say HDCP that is designed to make your life difficult for minimal copy protection.
+I have always hated HDMI, cables just need to be cables.
+The one time I ever appreciate using hdmi 1.0
+How did this get thourgh beta testing?
+What happened to that white background where Squidward was all alone
+It's covered in bark, it's such a lark... Sony's stick ad: https://youtu.be/KlaMu-u-GiI
+Souds like a class action lawsuit against nvidia
+screw HDMI audio - make optical great again
+stopped the video about 1 minute in and realized i don't give a shit.. hope this helps someone
+Still waiting on DP 2.0
+Chromecast?
+Smart TVs: my time has come (to kill hdmi)
+as a PC person which uses DP i don't quite get why this is a thing, but interesting nonetheless :D
+I thought I was watching ShortCircuit for a minute because of the set lol
+According to the updated info Marantz and Denon do not have this problem with Nvidia and PS5   https://www.audioholics.com/news/bug-in-hdmi-2.1-chipsets
+Linus' beard is the best thing that came out of 2020.
+What about 4k 119hz
+Ah yes, I am frequently buying $1000 portable batteries as Xmas gifts
+This is what happens when you put copy-protection as the primary function instead of a top tier consumer experience.
+3:57 I had exactly that scenario with my i5 8600K and 2666MHz Crucial Ballistix Sport LT RAM. For some reason the CPU just didn't like that RAM in dual channel mode. I had 2 sticks. Each individual stick would run fine. Both at the same time would not. Took me almost 4 months to figure that out.  It runs perfectly fine with 3000MHz Corsair Vengeance RGB RAM.  Sometimes tech is just weird.
+What happened to the old set :(
+INPUT LAG INPUT LAG INPUT LAG. But thank fuck we can't CoPy ThE sIgNaL. Thanks HDCP
+Ain't nothing wrong with that stick. Faster refresh rates and look at that resolution!!!
+Its the last gift ftom 2020
+Why bother with HDMI if everything is going to USB-C nowadays?
+Listen to Linus at 0.25x speed is to funny :D
+Use DisplayPort lol on PC no problem
+... no one tested that BEFORE selling these???
+The problem with plugging those devices directly into the HDTV is that few TVs have multiple hdmi 2.1 ports. The Sony X900H for example has four hdmi ports. Only ports 3 & 4 are HDMI 2.1 compliant and port 3 is also the eARC port. Also, youtuber Stop the FOMO goes into the detail about the problem. It can't be fixed with a software update: https://youtu.be/lCzitcu_ZRM?t=244
+Display Port VR for the win.
+Panasonic: "We broke HDMI" Me: _laughs in Display Port_
+so what youre saying is my b8 is still awesome? i should keep waiting on the cx? could be worse news.
+you think they would test this before release
+To be clear in case anyone is confused, he means that 4K120HZ with an ERARC audio setup for the latest Dolby stuff isn't possible due to the bug. If you don't use an audio setup and just use a headset or tv speakers you're good.
+I think you guys haven't seen that there is more info on this issue and its been out for a while, other have made videos about it. Only mainly affecting XBSX. See link https://youtu.be/e4N95PynVh8
+That time to finally tell you what I really knew all along while spent money on my ads.
+Doesnt 8K @60hz needs the same bandwidth as 4K @240hz? Why "only" 4K @120hz ?😅  8K has 4 times the pixels of 4K, not just 2 times
+OK we done. We all fink what best cable is it now VGA gang
+Just 6 hours before the cyberpunk, HDMI is broken wth
+1080p 60 is all I need for a long time.
+DisplayPort gang.
+Why don't they just switch to usb c
+Is this why 1440p 120hz won't work for my series x?
+DRM. Enough said.
+Me who doesn’t have any things that support 4K: oh no! Anyway
+I've heard Panasonic implemented 4k@120hz compressed, but all the 2.1 sources are sending uncompressed exceeding the hardware bandwidth of the chip. If so, it can't be fixed.
+Hmm, my Yamaha receiver from 2 yrs ago that’s NOT HDMI 2.1 has this same issue sometimes but oddly only when using Netflix from my Apple 4K box. Power cycle the receiver and it works just fine.
+You fool, I don't use hdmi, as all my gear is second hand and uses dvi/vga
+let’s just replace hdmi and power management with usb c
+You are paying 1$ per watt...
+1:00 but how does this affect beautiful screen tearing?
+What about DisplayPort tho
+Exactly why I waited! Last time I used early adopter hardware I had/have the same issue.
+I bought one of these recovers. Just the problem with jumping into newer tech. I guess it's true what they say mo money mo problems.
+LG have promised a firmware patch for their TVs. It was supposed to be released by end of November but it's still not released on my set. LG did confirm it will be available on my model. Reports from users who have access to the beta firmware update all report that it has resolved all issues.
+me using DVI        *broke noises*
+Why doesnt HDMI take a queue from USB-C and make itself 2 sided?
+All hail the beard of Linus!!!!
+Look at Vincent's video for a bit more in depth info: https://youtu.be/e4N95PynVh8
+Sounds like it's time to stop pushing these ridiculous unnecessary features. Nobody needs 8K. Only a small percentage of people can even take advantage of 4K, and that is plenty resolution for images indistinguishable from real life. And nobody needs 120 fps either. The human eye is incapable of seeing more than 60 anyway. Stop asking for stupid features and problems like this will go away.
+"All the manufacturers have to do is build a product according to the spec". Please bear in mind the spec is many thousands of pages of dry technical detail. The HDMI spec isn't openly accessible, but take a look at an old WiFi or 3G/4G standard and you'll see these specs are absolute monsters.
+AMD ryzen 3 and my USB internal card reader were very non-compatible, caused windows hangings and would not let the system shut down properly, took me about a month to figure that out
+So is this problem for people using av receivers? Can't i just use headphones and not encounter this problem?  If it is, then how is this a big deal? Seems miniscule.
+8k60, should be pixel per second similar to 4k240, so why only 4k120? Is it because doubling the line frequency is harder than halving it to get 60hz?
+9900k, Radeon 7 in x8 mode, 1440p monitors.   even at a few years old, i see no compelling reason to upgrade as everything else will feel like a more expensive version of what I'm already doing.   _barreling towards my inevitable demise_
+I play with my stick everyday. It's quite entertaining TBH.
+good thing I don't really care about 4K
+"The idiosyncrasies of each component" hehe, nice one. Yeah, I sometimes feel like some components just have their own personalities. they just don´t get along with some others. Why?
+I know, been using DVI all they way til I upgraded to DP and avoided HDMI as much as possible. Always recommended others to use DVI and DP too unless they have a media setup with only HDMI.
+As someone who has had to live with the blessings of VHS video I am more than happy with watching stuff in FHD. No tuning required, no scratches, wear or tear!  After getting a Blu-ray DVD player, I started re-purchasing some of my favourite movies in Blue-ray. But to be honest, it doesn't make it much more superior experience.  A great movie will still be great both on DVD and on Blu-ray.  A bad movie however...    Not kidding, there have been occasions where 'super real life' audio or video actually broke my suspense of disbelief. Example 1: while watching the 'digitally enhanced' Star Wars trilogy in the theatre back in the late 1990s, during the scene where both droids are in the Death Star guard room and some stormtroopers knock on the metal door, I snapped my head back to the fire exit on my right in the theatre, because the sound was so realistic I thought someone was knocking on the fire exit door.  Example 2: while watching "Platoon (1986)" on Blue-ray for the first time, I noticed some odd stuff on the face of the protagonist. After careful analysis, I came to the conclusion that I was seeing his pores.
+*laughs in SDI* 1080p60? 80m with normal cable, no repeater needet 4Kp60? 30 meter with good cable¨ 8K? split it to 4 times 4K, done.  and yes, i am waiting for my new video mixer from bmd (atem constellation 8K), 10 inputs up to 8Kp60 or 40 inputs up to 4Kp60
+oh look, DRM f-ed us again.
+They need dvi on all TVs , well I mean the good kind of dvi
+Isn't it theoretically more optimal to connect direct to your TV or monitor and use the ARC port for your reciever?
+Hey no shitting on sticks! At least when you play with a stick the resolution will be amazing! Also the frame rate will be so smooth it's basically magic. However I can't seem to turn motion blur off. Still better then most other devices.  Well unless you're colour blind... Or need glasses... Or just have one or multiple blind eyes...  Yeah nevermind real life sucks (Although I guess all those thing are still a problem if your trying to watch TV lol)
+I worked on a project involving HDMI for about a year and I have two takeaways:  HDCP is the cause of untold problems, and HDMI is a cluster****. :)
+Lol... All I got out of this Video was that suckers who bought AV-Receivers with this crap are now dealing with the Hardware equivalent of Denuvo CRP messing around with their content.
+I have no sympathy for early adopters. Being a beta tester at twice the price just means youre a sucker.
+Do something with chromebooks lmfao
+Yeah definitely like the new set for this channel
+What if I connect my graphics card with Display Port?
+Why don't they just go display port on like everything or "next gen" stuff
+RICH PEOPLE BE COPING
+Playing with your stick outside may result in prison time.
+My CX and my 3070 work just fine👌🏼
+2:10 nice to put out AMD
+HaHa Display port go bbbbbbbrrrrrrrrrrr
+Displayport > HDMI
+Outdoor lovers == doggers?
+Well crap honestly I was going to get a tv with 2.1 HDMI for that purpose
+So HDCP is a big culprit. DRM fucking us over yet again.
+"or all your HDMI connectors will fall off" me who uses scart: 😏
+I have a video idea, 10 best pc stands or make your own diy pc stand
+Of course it's an issue that arose out of the need for greedy corporations to add in useless copyright protection that will get broken anyway. It's always totally useless and it never fucking works!
+The only stick I play is a joystick.
+Oh boy, could this mean a class action lawsuit for Panasonic?
+Dont forget that there is no solution for long hdmi 2.1 cables yet...
+laughs in vga
+Are you telling me that they boasted 60fps 120hz but never tested it?  Big Yikes.
+I can't watch before beard linus
+Hmmmmmmmmm i cant afford anything releated to hdr 120fps 4k xd not my problem xd
+I wanna know more about HDCP now. My first thought about it is that it's a huge load of BS
+linus: go outside and play with a stick covid: nope
+pulseway ad from linus on Linus video i thought skip button was fake lol :)
+When you needed three cables for video and 6 for audio....  *laughs in SCART*
+Interesting info, but the background music made it difficult to differentiate the dialogue at points.    Also, something something stickplay innuendo. There, I was that person.  Carry on.
+It's sad that Linus has to shake his own hand 3:26
+Next, can you do a video on AV distribution?
+Do a complete outdoors camping gaming setup using the Jackery 1000, and the long range wifi you tested
+The outside does have a higher resolution, refresh rate and audio quality.  Imma find me a stick.
+So what you're saying is... Displayport is still the best?
+WHY DOES HE TALK LIKE THAT
+My biggest gripe with hdmi and usb protocols is the shitty naming. I hate that we have like 5 iterations of hdmi 2 and usb 3. Had they kept every upgrade no matter how iterative, a simple 1,2,3,4,5 etc. this complexity of having a 2.1 cable or 2.0 cable having so much variation wouldn’t be an issue.
+Finally Linus uploaded this...finally...
+Why are companies still using Panasonic? Anything I’ve ever owned made by them has been garbage!
+settles for 1080 p mode what the hell are you guys talking about
+Oh damn...  So I guess that's what was probably happening to me? Just build a brand new pc configuration with 3070  and after installing windows and just trying different settings, the 'play HDR games and apps' made my screen go black. And there was no way of going back... safe mode didn't even had this option so that I could disable it. And I had to reinstall the brand new install. After which I broke it again, the same way but tinkering with options in the nvidia control panel. I guess this should be the reason, since I didn't manage to find this problem anywhere.
+There's one DisplayPort "feature" that is completely broken/annoying: the one that makes the host device think the monitor/TV is disconnected when all you did was turn it off and therefor removes it from the configration. Sadly, not all monitors have an own option to disable it.
+I use the HDMI-cable included with my PlayStation 4 Slim Edition both for my PlayStation and my laptop for school to connect it to my TV and haven’t really had issues with it! I guess that’s the advantage of not being an early adopter for any new tech LOL
+As soon as he said HDCP.  I thought. Trouble.
+im still good with 1080p...
+How in the hell did this chip get thru ALL OF THESE COMPANY's quality control without picking up on it?  Especially nvidia, you're telling me they never plugged any of their 3000 series cards in with a 2.1 hdmi and tested it?     That's a whole lotta FAIL from multiple companies in one issue.
+Linus wants us to play with our sticks??
+1000 comments
+me who still uses 1680x1200 :,)
+Actual Title: "HD MI"
+4:48  "Liquid crystal display display"
+Could you see that little superman swirl of hair that was dropping in front of your eye when you were recording this?
+The physical design of HDMI (plugs) is even worse than non-C USB. Short keyed shitty plugs. Just horrible. Always has been.
+4:24  People with 1440p 144Hz Monitors: *Cries in being left out*
+Me who uses DP: oh. ok.
+me: *reads the title* bruh just get a new cable it’s not that expensive
+Why am I watching this when there's new Cyberpunk 2077 streams up lol
+this is interesting, but all tf I want to know is when manufacturers will implement DisplayPort 2.0
+Outside stick game is the best, it's in like 12K and runs at 300 fps 🪵.
+"Dissapointing for folks who bought a ... nvidia 3000 series graphics card", Haha! Good one!
+Your business must be doing amazing ! You have random companies paying you more then normal just to do a commercial for them : )
+Aaaand im here still with VGA
+Let's go PortDisplay, oh wait, there's an error in that name :p
+I use VGA and intergrated graphics
+Perfect, im getting the dbrand & MKBHD ad before this video
+This is why I use S-Video like all others who have seen the light.
+>When Linus shows two different resolution screens to highlight the difference in performance, but your laptop screen isn't quality enough to show any difference between the two.
+lol i thot this video waas a older one but it came out today lol
+why they didn't just add DisplayPort on the xbox and ps5 it more common these days on tv
+HDMI was never in the consumer's best interest.  Lured by the "convenience" of one plug, we've pretty much opted in to a world of draconian anti-consumerism.  Yay us!  A short of list of things HDMI did wrong:  1) Twisted pair.  This is, and always will be, a limiting factor to the bandwidth capability of the cable.  Fast signals like coax.  We've known this for ages.  Fast signals also like controlled impedance.  You know what does controlled impedance really well?  Alternatively, how about fiber optics?  Then we can reduce cable size, too.  On that note...  2)  Big thick cables and small connectors with no mechanical support.  So to solve that, let's make *smaller* connectors with big thick cables.  And then, even smaller ones!    3)  Integrated A/V.  This is hit-and-miss.  It would have been SO much more sensible to have separate (but perhaps bondable) A/V channels.  Then we wouldn't necessarily even need to worry about sending 4K / 8K through a receiver, unless you also want video source switching beyond what your TV has.  4)  DRM.  Enough is enough.  Seriously.  Nobody's going to vid-cap 2 hours of video when they can just rip the content in a way more convenient way.  And nobody would do _that_ if they could play it when they wanted to, how they wanted to, for a trivial price.  "But people wouldn't pay!"  Yes they would.  Some wouldn't, but they're not going to anyway.  If people stop paying for content, quality content goes away.  It's a self-solving problem.  Honesty exists, if you actually give it half a chance...  5)  It's yet another patent farm.  I would love to see a hardware equivalent of open-source software, where signaling protocols, interface specifications, and algorithms were all freely available to anyone who wants to make compliant devices.  Instead, we live in a world where every idea is patented, so at this point, we can't even create new interfaces from scratch because _some_ aspect of _any_ design is inherently going to infringe on _someone's_ patent.
+I once had to replace a Panasonic plasma, because the HDMI adapter connection broke when I pushed the HDMI cable too hard. The HDMI medal parts can easily brake.
+My display is 10 bit hdr 600 1440p 144hz is 1.2 dp OK?
+None game on consoles can even run at 120 hz. 60 hz is the upper standard.
+Turtle Approved .
+All my cameras are BROKEN ! 😂 if know what I mean
+Me who uses 1366x768: ....
+Why does hdmi need copy right protection?
+Where can I get this awesome xxl-mousepad ????
+Of just use DisplayPort 1.4 if you don’t have that you’re broke
+What's the hdcp crap? Elgato or even cheaper 100usd cap cards bypass this shit. Lol  It's funny to assume all users will pirate movies and games by recording. It's less than 0.001 does piracy recoding. And they will AL- FUCKING- WAYS BYPASS YOUR SHITTY SECURITY
+lets be honest hdmi 2.1is fine  its the stupid hdcp that is utter SHITE
+3:58 WTF
+Bruh... I literally just bought a Denon receiver... Fml
+Hmm strange, I never got HDCP errors while pirating movies.
+I have come to expect the BSOD prank from LTT videos but it doesn't change that every time it appears, I still panic for a good 2 seconds. GG Linus Media Group, GG
+Never buy the first rev of anything.
+is my monitor broke or the 8k linus is greenish and the 4k linus is magenta ? 00:53
+Nice weed plant. Ohh yeah, Canada...
+The problem is from the video compression. The video signal can be sent compressed or uncompressed. That's how previous generation of monitors were able to get 4k120hz\144hz over HDMI 2.0, compressed signal. The Panasonic chip can only handle compressed signals, and can not do uncompressed (Xbox, PS5, RTX3). There is no possible way to fix this, as the chip completely lacks the ability to transmit uncompressed signals, software can't fix it.
+when the blue screen sound went off I thought something was wrong with my system for a second.
+Isn’t DisplayPort better? I use it and it’s capable of running 4K with 144 FPS (at least to me)
+HDMI, more like HiwannaDIE
+Jackery just became my favourite sponser
+The identity of the channels is being blurred, i think that's a little bit "dangerous". You don't know if you are whatching, LLT, TechQuickie, ShortCircuit.... Channels needs to get back their film sets.
+How many channels does this man have ?
+HDMI issues... scalpers laughing on pyramids of cards... Cyberpunk 2077... Guess I'll stick with my Nvidia 1060 and get around to finishing HalfLife 2 this year.
+DisplayPort :)
+I keep on wondering why these hyperspecific videos keep on being made. It feels like a less improvised techlinked instead of the evergreen tutorials and basic explainers the channel was made for.  I feel like the natural cycle of the channel is trending towards code tutorials or explaining common settings.  While this content is interesting in the short term over time it will lose relevance
+Anyone using HDMI on their Dell Powerconnect switches?
+is HDMI actually any better then display port ? Only using HDMI because my tv doesn't support DP
+4:33 I'll play with my stick inside.
+Linus is that a weed plant next to you LOL
+*laughs in VGA Masterrace
+Why linus has a beard now?
+Funny, I did tag you guys a few weeks ago on Twitter about the same kind of problem on lg‘s hdmi 2.1 soundbars, which are not able to passthrough 4k@120 or vrr and so on.  Pretty ugly for an soundbar like LGs dsn 11 rg which is advertised with full hdmi 2.1 support.
+*laughs in DVI*
+Yes run it to the tv then the AVR simple fix.  But I'd like to address a hdmi cable I grabbed at Wal-Mart 2 years ago the cheap monster cable with LED and claimed to be next gen but ultimately change my HDR games to look weird and off. Oh and does the older high-speed HDMI cables make Nintendo switch games look better?!
+Me: go outside and pick up a stick also me: poking another stick.                   "Do something!"
+What is idiosyncrasy
+So is hdmi better or display port
+HDMI is dead to me...
+most people don't need 8k :/
+3:58 caused a mini panic attack
+HDCP : One more reason why your devices do not work with each other
+That bluescreen scared me...
+What about directional cables. It doesn’t say or show what way. You got hdmi in both ends or DP in both ends, but when you plug it in nothing happens. You disconnect both ends and switch them around, plug in and then it works fine. I’m like wtf.. why does it not say and show direction. Happend for me with some cables that came with two Asus monitors.
+All you need is that $5000 HDMI, and all the problem will be solved.
+copy protection? my cable will check my content source?? wtf??
+Linus, can you make a video explaining why motherboard manufacturers and case manufactures don't create a standard connector for the case I/O such as power switch, power and HDD LED, system speaker, etc? Why do they always have to come with separate wires, even for the positive and negative, and why each motherboard manufacturer places the connection pins at different order? Why can't they come with a standard connector, so we'd have only one cable coming from the case I/O, and one conector in which you don't need to be looking at the mobo manual to connect correctly? I understand that not every case make use of all available connectors, but in that case it would be simply a matter of placing a cable to the correspondent place at the connector. Sounds so dumb to me that they have never came up with that and something so easy to solve...
+Hdmi is great for tv and consoles, dp is for everything else
+Been using DisplayPort for the past 6 years. No issues whatsoever.
+That sound at 3:59 gave me PTSD
+When are standard interfaces going to get flared sockets and beveled connectors so you can plug them in easily by feel.
+LG enter's chat. Oh you wanted to pass DTS audio through eArc out of the TV? LOL too bad. The state of gaming + computing + home theater is infuriatingly annoying if you want full quality audio and video quality. How do they fumble the cutting edge features so hard when that's the only reason to upgrade?
+We have Hp z2 workstation in our clg lab with 2080 in them and mere i7-8700 but the main issue we r facing is the display output through Display Port, when i start the pc it Starts itself up but no hdd light get turned on and noting on the monitor, then when we turn pc of remove the display port from gpu and reinsert it again in the same port then run it it just work's fine then, yes i do check the cable was plugged perfect before Also, so is it a the Cable issue or something else
+Because of this I run 2K @120hz on my 4K LG C9
+Best Segway ad since you left NCIX
+I still use HDMI 1.4 and VGA lol
+It has always been.. Dp is way to go
+“Smiles in display port”
+This is not the first time HDMI has big problems.
+Blue Yeti X for sure!!!! love the channel! @sugarfreebaker
+Trust in DRM to fuck things up.
+It’s PAST time to ditch HDMI !!
+Display port time
+I wanna know the background OST
+wave your hands around more.
+VGA is best
+This is exactly why I wait and buy later. Being an early adopter for new technologies are, at times, a hit or miss.
+Remember when Netflix was on top and the piracy rate dropped significantly ?  Affordable and fair prices are the best DRM
+It's also pretty common for manufacturers to just release products that don't actually conform to the specs for no good reason (though plenty of bad) see: USB-C and UEFI.
+It so happens that i just had a problem with my HDMI Computer (RTX 2070s) to TV (Samsung Q70R) connection. In short: HDR wasnt working any more. Windows showd it wasnt using HDR, the Nvidia control center said it uses 32bit, but only 8bit for output. After some useless reboots i did the following: PC off. TV on, switched to $Streaming_platform, choose a HDR movie, then switched on the PC, and in the end activated the HDMI input on the TV. Et voila... i then could choose 12bit output on the Nvidia control panel. Thouh windows still tells me it doesnt use HDR. Havent tested any HDR Games yet. I guess this becomes relevant if Cyberpunk 2077 offers HDR... I'll see tomorrow ^^
+that last jackery segue is legit the best true one i've ever seen linus do.
+Was about to buy a Yamaha reciever, but I think I wait a little.
+5:20 Linus completely forgets what the video he just shot was about. I love this. This is my brain in 2020 as well. Thank you for leaving this in.
+Same applies to AMD 6000 series gpu's as well and the article never covered that. No offence to LTT as they never wrote the article but seems a little odd to leave that out. Calling out some and not others for a format that has had these issues since launch as well says a lot. #nodrama #nothating #halfassedjournalists
+Please test hdmi 2.1 optial cables. PLEASEEEEEEEEEEEEE I'll sub to Floatplane for a year if you do.
+i would like to see linus play with a stick... does anyone else want to see linus play with a stick... it would be funny to see him play with a stick...
+Manufacturers tend to be all over the place with these “HDMI” standards. I’ve spent countless hours troubleshooting EDID, HDCP and other Sink issues. In my mind, we have a few years left with HDMI. Looking forward see USB  evolve on portable devices. Perhaps Display Link is a suitable replacement. But I still believe HDBaseT is the way to go.  I wonder where do all of the HDMI royalty fees go. HDMI has been broken since inception.
+sounds like someone has been seeing what this legal weed all about XD
+Clickbait
+Laughs in VGA
+Me who has a original xbox one and 720p 60hz monitor: "oh no.... Anyway"
+Me with HDMI 1.4: Interesting.
+Speaking of 60 FPS.. why aren't LTT, Techquickie, or Techlinked videos 60 FPS?
+Meh. My eyes aren’t that good anyway lol....... how about that stick idea hay.
+We traded Analog inputs for this. Fuck HDMI standards. Back then we never had to worry about janky standards that are not listed in the spec sheet. Samsung tried to say their TVs were the first HDMI 2.1 on the Q90R/Q900R only to have a botched standard that can't even do eARC.
+AH i dont want my connectors falling out :o
+Nvidia fake 4k 120hz marketing be like "You can't know if it can run it if you can't see it"
+Maybe the stock shortages were a sign...
+What happened to DP 2.0????
+So HDMI isn't broken. Panasonic is broken... but that wouldn't make for juicy title would it.
+Yeah I'm fine with my 1080p at 60fps
+Stick Play, nice
+because adding other ports like a pc, would've been too expensive on a console? Why didn't they just add a DP on their consoles? I really don't get some choices, if someone doesn't have a 2.1 on their monitor/tv they are fked even if they fix this issue I'm not sure how adapters from hdmi to DP work but from DP to DVI 240hz for example you need and active adapter that costs way more than a normal one
+Unfortunately HDMI ARC has its own problems. It's been flakey for me for years. And this is with 3 different TVs and 2 different audio devices and receivers. It works, except when it magically doesn't. My dad's setup uses ARC. Worked great for months. Then he called me to say he wasn't getting audio. Nothing changed. No cables got moved. No devices had any firmware updates. It just.. It just didn't want to work anymore.
+No... Seriously??.... I can't believe that...
+LG UN8500, cheapest 4k@120hz. I play cod at 120fps on ps5 and i love it
+It's too cold to play with my stick outside.
+"This has been especially disappointing for folks who bought an Xbox Series X, Playstation 5 or Nvidia RTX 3000 series graphics card" So like, 3 people
+A time will come when even hdmi will be wireless  Just think about it
+The beard is looking really good Linus 👍🏻
+So HDMI ARC still works. What's the problem? If you are connecting your games through an AV receiver, you are just asking for extra latency.
+Who isn't using display port in 2020
+stick play, Linus sex tips strikes again i see
+me watching on simple 21.5' 60hz FullHD display: Yeah! This is such a problem!
+Linus! The LG nano cell SM 9000 TV works just fine at 4K and 120 FPS. I had to wait for a firmware update and a GeForce 3080 update on it works! No one seems to be talking about this TV, but it works great at 4K 120. And yes, it does work with gsync turned on also! And HDR!
+Damn the person who added in the sound effect at 3:57, I’m overclocking right now listening to this in the background and about had a heart attack when I thought my system just crashed on what are usually completely stable voltages/clocks
+Well, i'm not planning to go 4K 120Hz anyway
+LOL, looks like someone got a deal with DisplayPort cable maker...bwahahahha
+Is this the reason my G7 Samsung cant display 1440p 240 hz over hdmi but can over dp? (rtx 3090 user)
+TL;DR : Forced DRM causes new hdmi chips to not work at 4k 120 fps on latest generation devices.
+Only use hdmi with tv, consols, not pc.
+I would care, If I could get a 3080...
+Copy protection in a protocol that should only concern itself with transfering video (and I guess audio if they really must) signals? I'm sorry, what? Get that shit out of here.
+Dude. Playing with sticks outside is the best.
+Say that to TV manufactors that rely exclusively on it, display ports!
+My bet is the problem is caused by HDCP. It caused massive problems on HDMI 1.0. It has been the proven source problem for 1.1, 1.2, 1.3, 1.4 and 2.0, so there is no reason we should believe 2.1 is any different.  I have seen systems with high quality, short cables fail because of how crappy HDCP is. I also recall having a MacBook Pro that would have link failures after installing Sierra because HDCP  was always enabled and 2 years of Macs didn't have proper implementations of HDCP.
+This message is brought to you by DISPLAY PORT GANG
+Stick-play usually has great refresh rate and pretty high resolution.. just sayin'
+HDMI broke all my devices because apparently it allows pass through of enourmos voltages unlike DVI and Display Port... damn that electrical outburst destroyed nearly 2000$ worth of tech..
+And then here's me. Using AV and SCART.
+Actually it was broken long time ago, having handshake issues with Yamaha with hdcp 2.2 and a Samsung monitor. If even two big manufacturers can't test stuff properly before releasing, there's no hope to avoid such bugs
+Me watching this: HDMI problems... Oh no...  Also me: well, I guess my DVI cable is fine, by the time I upgrade my PC I might be able to get DP or maybe there will be a new interface like HDMI 3.0 or Super Resolution Cable 1.2
+So you're saying we should go outside and enjoy some stickplay with jackery?
+HDCP was a nightmare for me, pretty ironic that my legally purchased blu rays don't work but "other things" work fine
+God I hate hdmi, the conectors are so fragile, and wiggle, its horrible
+It seems like they running out of sponsors🤣
+why can't we have tv's with display port?
+My LG TV is working just fine in 2.1 with my xbox 🤷‍♂️
+Wish I seen this video earlier, I just bought a Denon 2700h  :(
+I hear Molife in background, nice!
+The HDCP handshake headache can happen with the PS4 Pro and some receivers.  It seems to appear and disappear on devices with different OS revisions.  It randomly hates or loves my Denon receiver with each new patch (the old PS4 always works, so it's some arcane bad juju between the PS4 Pro and receiver's HDCP implementation and the OS and firmware of the devices).  It's a known bug that happens with the Pro.  The workaround is connecting to the TV directly and using ARC.  I really hope that the PS5 avoided the issue.
+1:05I think you are confusing chip with chipsets
+Do YouTube creators not realize annotations stopped existing several years ago? Why do they still point to another video in the corner if it's impossible to interact with? Just stupid..
+So it seems like anti piracy measures is screwing over the consumer once again
+Display Port Master Race!
+HDMI. Short for Handy Dandy Media Input, according to Technology Connections
+4:42 car horn
+Wait, HDMI has built in anti piracy? ... given how bad that kinda stuff has been in games with how invasive those can be, are we entirely sure that isnt the problem?
+yet another reason why DRM is bullshit
+Lol did you know that Linus grows weed?  You can see the big ass plant behind him, shit, when new Linus Meth Tips channel?
+So *_this_* is why my new projector keeps producing digital snow at random! Dammit! I don't want to plug cycle my HDMI connection every day - those connectors do wear out over time!  And of _course_ it's DRM measures fucking up a perfectly working solution *again!* I have had enough of this shit since 35 years ago when my C64 would refuse to load my expensive original diskettes just because the drive head adjustment was ever so slightly out of what the DRM gods had deemed acceptable. I am _sick_ of this crap. _This_ is what drives people into media piracy - because pirated versions simply *work.*
+Yeah I have a theatre room that we ran the hdmi cables through the wall when we were still building our house and now after about 2/3 yrs we are having problems with it bringing sound to our speakers and it randomly blacks out the projector.. we need help!!
+I have found that I have to have my brand new 2020 Visio P Series on with hdmi 2.1 manually set and it actively on the correct input (3 or 4) before I turn on my Series X or it wont do the hdcp handshake and ever display anything.  If I turn on the Xbox then switch to the correct hdmi input (or turn the tv on) I will have to turn the Xbox off then back on.  Not sure if the issue is on the Xbox or tv side and fortunately I’ve found a work around, granted you shouldn’t have to deal with a workaround on a $1700 tv and brand new $500 console.  Hopefully it has to do with this chipset issue and is patchable.  The worst part about this is that I can’t use my harmony remote because it turns everything on simultaneously and there needs to be a delay for the tv to turn on then change to the correct input.
+Considering that you can't buy either new Xbox nor PS5 nor new Nvidia graphic card I would not see this as an issue.
+The Panasonic chips just don't work. If it was an Apple product, they entire device would break and they tell you that you mistreated your device or otherwise such a thing isn't even possible to ever happen.
+TLDR; poor poor 8K users might have to “settle” for 4K as there’s an issue with this new standard. Yea, 99.999999% of people don’t care.
+HDCP is stupid and a waste
+Me using dvi Yeah yeah...
+*Laughs in Display Port*
+DISPLAY PORT FOR THE WIN MOFOS!!
+You need to trim your beard.
+Cant you just use DisplayPort...
+This is not an issue for the PS5 + Denon 2020 Receiver. I have those, and my PS5 video output info screen says it supports HDR 4K @ 120Hz. Nor is it an issue for the RTX3080/3090 cards. BUT, it is still an issue for the XBOX.  https://tekdeeps.com/sound-united-comes-with-a-statement-about-hdmi-2-1-problems-with-denon-and-marantz-receivers/
+I still don't know how you can say the standard is broken, when nobody even knows what exactly is causing today's issues. Just seems like click-bait to me.
+I watched this straight after buying a really over priced hdmi cable
+03:59 Literally made me think Ive got a bsod
+Me who literally uses a high-end UHD 144 Hz monitor with DisplayPort 1.4 (DSC enabled) over a 9 meter cable: 😳->🤔->😂🤣
+I still watch VHS
+new video idea. whats up with that regional bullshit of for example laptop manufacturers?!?!?! I miss the old days, when i could just f*ing configure my laptop for my personal needs. Greedy bastards and their stupid marketing bullshit -.-
+I'm glad I don't have money to buy brand new tech sometimes
+Thank you early adapters. Nothing would ever eventually really work without you.
+Saved it at the end. lol
+Despite watching on my Android phone and generally knowing better, 3:58 triggered a microsecond of the shock and anger response of getting an actual blue screen. It was weird.
+The 4K 120 Hz passthrough with the AV-Receivers does not work with the XSX/XSS or PC but it does with PS5.
+4:00  mini heart attack
+"How to safely mod a case for airflow" I have a q300l and it whistles, I think I have to cut away the metal grid behind the mesh by the fans but I dont want to face the music to 100% disassemble everything
+If you don't know why something doesn't work, blame DRM, hard to be wrong there.
+What a beautiful first frame. <3 LMG editors.
+I still enjoy playing with my stick... Just that some people don't like it when I play with it outside for some reason.
+So the software solution is to strip out HDCP. So simple, they wont do it.
+It's been identified that the main issue is that Panasonic's chip doesn't support uncompressed (chroma 4:4:4) 4k 120hz video. Currently, this only affects Xbox Series X, being the only HDMI 2.1 device that implements this spec (12G4L). PS5 uses 8G4L so its video signal is compressed (chroma 4:2:2) 4k 120hz, so it's compatible with Panasonic's chip. There is a video from HDTVtest that explains this issue in detail.
+i love VGA and DVI ports (ports as ports i not talking about specifications) , i working a lot whit PC's and number of broken hdmi and display port cable is .... well is a lot and never problem whit VGA and DVI cables
+here
+HDCP sounds like a darkweb term...
+oof, just another reason to wait on ps5 and xbsx
+8k60hz is the same number of pixels as 4k240hz so why is that not the 4k refresh rate listed as supported alongside 8k6hz instead of 4k120hz?
+Hdmi 2.1 strippers here we go...
+Fortunately this only affects the cheap chipset on the new AVRs not the TVs you can still eARC or use 2 connections from card. These video is way more scary then it actually is. Denon can do 40gbps no problem with only issues with the xbox series x,everything else is fine. Its been confirmed most of the issues are software related.
+How come HDMI is a thing when Display Port is better?
+With my  new RTX 3080 i can finally see Linus facial hair
+We need more display port on tvs
+Very misleading title.
+I use Display Port because I NEED 144hz
+Hej, why is Tech Quickie filmed at the desk?
+I have to reset my Android TV somehow it doesn't recognize my Xbox or mY chromecast anymore
+3:58 oh thanks a lot. i thought i had an actual issue on my PC... and then i realized it was you guys.
+Erm, we can't go outside due to covid
+🙄 first world problem ....right?
+Go outside and play with 8k because your eyeballs are better than any monitor
+Panasonic playing the long game and getting revenge for their Plasma Screens falling out.
+"HDMI is broken"...*plays with stick*
+Well good I got tripple DP Monitors, getting that RTX3080 next year...
+Misleading clickbait title but okay content with some errors. For instance, is it confirmed that you can't have 4K 120 Hz passing through the problematic AV receivers, with a PS5? I thought it was only a problem for Xbox Series X and Graphic cards (until they get a workaround)  Disappointed still. If you want to have valid information on the topic, you'll find on the HDTVTest channel.
+But hyperbole is alive and well 👍
+I agree, it is completely broken. Even HDMI 2.0 will break all the time and can only be fixed by a complete power cycle. Electrical interference is more likely if you use longer HDMI cables. With some of my longer runs, turning a fan or light on or off in the same room can even cause the display to go dark for a few seconds before connection can be reestablished.
+Just saying, fuck HDCP. I had to watch a movie on a tiny ass laptop screen because my sister's TV wouldn't work with Amazon video. Everything else displayed, but it was a black box in the video window.
+ORRRR, just use DisplayPort 1.4a. Long live the DisplayPort Master Race! Can't wait for 4K240Hz on DisplayPort 2.0.
+*laughts in 1080P with switch (with actual good games)*
+Thank you for info. I just sent back my new Yamaha AV a week ago for black screen problems and cut outs.
+I disagree. DisplayPort is more broken with its stupid hotplug detect implementation where you can't turn off most DisplayPort monitors without Windows thinking you've physically disconnected the thing. Then Windows moves all your open windows to monitors that are still "on", so annoying, why would anyone thing that was a good thing? Sort it out VESA.
+I miss the old techquickie style... You've ruined it.. This is literally shortcircuit
+Seriously who tf thought it was a good idea to have a cable standard owned by one company? And who tf thought it was a good idea to implement copy protection into it?
+I heard it's gonna be 2022 before this is ironed out in AV because the company who made the chips don't even have a prototype that works with the next consoles and video cards.
+video tip: dont fatty-grunt when lifting the sponsors product.
+And 99.8 of all are problem caused by HDCP end story get rid or disable that trash
+"RANT"
+Love the attention to detail in the thumbnail ;)
+Ps5 4k 120,8k 😂
+Who is never banging iJustine linus
+Not as broken as the GPU supply chain
+if you bought a rtx card couldn't you just  displayport instead?
+I still use DVI so this video is kinda irrelevant to me
+It is not Panasonic to be blame - the Panasonic TV company (Japanese company) hasn't produces that chip.  Panasonic Solutions (now owned by Nuvoton Technology - Chinese company) had.
+Don't get me started on HDMI 2.1 cables... I had to buy 6 only to find 1 that works most of the time as it is supposed to..
+2.1 works perfect on the LG CX when using a proper cable, which was a PITA to find.... but after doing so, I get 4K @120 HDR in PS5, XBSX and RTX 3090. No issues .
+Pretty sure they already know what the problem is, they just don't know how to fix it or how to fix it on existing devices without opening the chassis and replacing parts
+what happened to the mouse mats
+Further proof that DRM is pointless and only harms the user
+81,820 th view
+HD    MI
+Thank god for displayport lol
+My 3000$ marantz has no issue with 4K
+That's what happens when everything needs to be "smart".
+R.İ.P. HDMI
+It's so heartening to learn I've spent £2,000 on an LG 55" OLED and RTX3080 to now find out I've basically burned money for nothing...  GG Tech industry... GG.
+DisplayPort master race
+On an rtx 30X0 can't you just get a display port to hdmi 2.1 adapter and connect your display to your card's DP port?
+Was here.
+Imagine using HDMI lol plebs   **this comment was made by DisplayPort gang**
+bruh I was overclocking my pc while watching this I heard the error sound and got scared😅
+I like the video but i just had to be the 69th dislike sorry 😐
+why english speakers insist in calling a portable battery a generator? please educate yourself
+Everything is broken my friend. Everything.
+I use this cable with the blue knobs on the side and it's great
+Everyone: shouyld we test the new technology on an actual device before we start makin it HDMI 2.1: where is the fan on that?
+HDMI for video and fibre optical for sound
+"Settle for 4K 60 mode"  - *laughs nervously knowing he's only able to play at 1080p 60*
+Probably around year 3000 we'll have optic cables and for video output ...
+scapler sweathing intensify.
+USB C is broken.
+I am the 73 061 viewer
+just use display port
+Oh dear... Linus is having an old age moment already (at the very end of the video).
+If I'll go outside to play with a stick, I rather build my own stick with the highest components possible for the best, most realistic stick possible in 4K. Plus, that stick would have so many peripherals and upgrade options that it can last a while.
+HDMI has been broken since its inception. The connector design is garbage, and the copyright mechanisms hinder operation under normal use. SDI and DisplayPort work great, but they'll never hit the broad consumer  market because the picture studios will never allow it.
+2:50 *Beaker's Lab joined the chat*
+Not gonna lie on this one.   https://youtu.be/TTVqmhvfmc0?t=236 Most cursed scene I've witnessed on Linus Media Group channel. Granted, I don't watch particularly often... but I think dropping that Xeon was less cursed.  Old school BSOD with a new school error sound.
+Is it just me or is techquickie slowing down? Not complaining tho
+I still use VGA
+What’s happens to the apple void Linus
+ngl, since I went to DP 1.4 I've had 0 issues
+Console users: 👁👄👁
+How many channels do you have? 😱 How many hours a day do you spend in front of the camera?
+Maybe I'll go outside and play with a stick.. using it as a club against my motherboard.
+Unpopular opinion: thunder bolt is over rated and lighting port is better then thunder bolt
+I play with my stick every day...
+Admittedly outside does have great graphic fidelity and refreshrate. Sadly the game is in hardcore mode by default and we haven't found a way to turn that off yet. Which limits the types of gameplay you can enjoy without ending at the game over screen or in its ridiculous "jail" system that can easily take years and generally has really difficult escape mini-games that are not realistic for most players. Seriously, real life is the worst game and I want a refund.
+That doesnt matter for the poor potato pc owners ;(
+I've got my eye on a marantz av7706, but I guess I'll wait for a version 2 of it?
+Fear the FOMO knows! Watch his channel!
+hiiii from brazil .w.
+69k views with 6.9k likes. Nice.
+Wouldn't be surprised if it's the DRM on it causing the issue
+521th comment
+And that's why I use DisplayPort...
+Can you do an egpu with apple M1 MacBooks ? Please make a video about that because many cpus  bottleneck GPUs does M1 and rtx 3000 series with MacBooks could be rly cool
+I thought he was going to say “...go outside and play with a kid...” 😂
+Hahaha haha! I see a price drop in the new VCs if it can't be patched...lol...
+But have you even tried running 80K at 4 fps?  Of course not, lazy boy
+"Buy your branded HDMI 2.1 cable at LTTStore.com"
+Yeah cuz like ordinary people care about 4K 120Hz output.
+Laughs in displayport
+"Dynamic HDR"? Dynamic High Dynamic Range?
+“HDCP designed for copyright protection” *me* uses an arduino and 132 lines of code to break HDCP Edit: thought I should add that it was a proof of concept, I will not release the code, nor will I use it to release bootleg movies etc
+Glad I waited on getting that HDMI 2.1 Denon I'd been eyeing.
+Why what happened?
+From stick play to jackery ooh la la
+What is the point of HDCP when you can just launch a screen recoder ? SMH
+ngl that blue screen and notification sound made my heart skip a beat since this was playing on a second monitor while I was doing something else
+Meanwhile, on DisplayPort, when you plug in two or more displays, Windows will frequently forget how many displays there are when you log out (which happens dozens of times a day on shared computers on a domain), and the only way to get a blanked-out display to turn back on again, is to power cycle the blank display and/or the PC.  Everyone just accepts it, and it's infuriating.
+FYI Denon and Marantz are two brands of the same corporate group...
+My gut started hurting when I saw and heard that bluescreen scene xD
+Or how developers often call bugs like these: 'A feature!'
+DisplayPort DisplayPort DISPLAYPORT
+Wow, that is INSANE. I'd be SO pissed if I just bought a new receiver and it had a faulty controller chip in it!
+https://youtu.be/ovXUmXaxgN4
+Kewl dbrand hacked mkbhd
+Vga is best i said it first
+Early adopters of anything tend to suffer with this sorta stuff. It's called bleeding edge because it hurts.
+Linus, you forgot to hide the marijuana plant!
+Uh yeah stick play is very entertaining.
+Why is he talking about going outside in 2020 ?
+what about  LG vrr OLED issues?
+Wow, your HDMI 2.1 video is already 3 years old, didn't realise that 2.1 is already around that long (man, time flies ... horrible annoying pests those time flies) ...  From that I doubt there will be any fix for it. If they just only now found out there's a problem (within 3 years), then a fix for 2.1 is unlikely IMHO.
+"Stick Play" TM
+Linus: "Go outside" Covid: "No, I don't think you will"
+i think the problem is money XD
+That's what I call a first world problem.
+Good timing when I bought out a hdmi cable gald not purchased prop cancel and buy sd card or 512gb sd card for camera 4k
+Love these vids.
+But, is it not so, better to use DP over HDMI when gaming?
+I don't understand when I bought a cheapy HDMI cable, it works fine with ROKU box to older television, but the same cable did not work from PC to monitor.  GTX 1080 @1080P 60hZ Acer monitor.
+meanwhile me who uses VGA ports:
+This may sound an odd work around might be to run the HDMI sources in to the LG TV directly.  Then run an optical from the set into the receiver.  Our receiver is only 1080p anyway.  We do lose advanced sound options, but we aren't about to get a new receiver any time soon. We use the LG tv remote to switch sources, not the receiver remote. None our outside sources are HDMI 2.1 yet any way.  The LGs internal stream menu can launch internal apps that are 4k 120hz. Youtube 4k 120hz scenic or street walk videos are like being there in person. Hopefully more streaming apps will come to LGs WebOS in the future. None of the pay streaming services have 120hz content, or much of it. There are some documentaries or scenic shows might.
+I can not get a single hdmi 2.1 cable to work like it should on my rtx 3080 card. It drives me crazy
+I love how every improvement people make to "camping" actually makes it less and less like true "camping"... so then just stay at home
+Well, display port users are unaffected
+laughs in component
+the  tq logo looks too much like something from adobe... "not responding"
+Wait...so is HDMI 2.1 broken or just this specific Panasonic chipset in certain receivers? Pretty misleading video...
+4k 60 is not even good enough for console peasants now a days
+What about displayport??
+Compromising your signal delivery standard for the sake of copy-protection that has so far failed to make any dent in piracy: N I C E
+Fuck i am breaking shit around because of this shit. Ok now i know. Tx
+I have an ASUS Strix 5700xt that was working flawlessly until update 20.11.2, do you know if my GPU may have been affected by this issue? I already DDU and reinstall the drivers, then I even re-install windows 10 and the HDMI is still not working :c
+Techquickie??!
+Is he really keeping the Beard......I miss
+How tf do you manage to ship a product where one of the 3 advertised modes of operation is not working?
+the old things were bulky but very reliable
+it’s truely insane that i just switched to display port years ago
+So... buy a 6800 XT? :D
+Pro Tip: Tech quickie is even quickie-r when you watch at 2x speed. :)
+HDCP is the biggest issue in HDMI connections. So MANY MANY issues with HDCP handshake
+The only thing I don’t like about HDMI is DRM
+Wait, what BS is this about “copyright compliance”?  What does it consist of?
+Were so entitled. Hdmi 4k 120hz is out and 4k 60hz isn't good enough.  Me still using my 1080p tv from 2011 and happy.
+Crap I thought this is a Short Circuit video...
+Watching in 360p wondering what the problem is. Queue thug life meme.
+HDCP is singlehandedly the worst DRM scheme ever created. I imagine the engineers went like "hey, how do we combat copyright infringement?" "why, by literally breaking the video input!"
+I still have a sad amd rx 550 2gb so i dont need to worry. Also hdcp just complicates things.
+HDMI is good
+I mean ltttstore.com no wait lttstore.com
+still playing at 720p 60fps lmao
+Those are the problems you have to expect as an early adopter.
+LTT store.com
+"HDMI is broken"  HDMI in my school where it got changed every month: Yep, that's true
+Didn't even know about it I run 3080 over displayport
+It work on the PS5 https://youtu.be/e4N95PynVh8. HDTVTest make a good video about it
+As soon as they put HDCP on it, it stopped being a convenience for the consumer.
+So Linus went to Panasonic and dropped all the chips?
+ok law
+https://youtu.be/e4N95PynVh8  You are SO late and this has been handled WAY BETTER by a channel you follow LTT .... You should do your homework
+Me who still uses VGA "Oh no, anyways.."
+You really should have had a trigger warning before showing that BSOD....   Especially since I was watching this on a PC.
+Fix this shit ...
+already 43K views
+We all know display port is the future... HDMI is for consoles
+So DRM broke shit again...
+Seriously, why not just use a display port???
+I just upgraded my gpu to a gtx 1660 and my screen tears on my samsung tv with motion smoothing. I am using an old hdmi cable can that cause this problem? I would like to use motion smoothing and its driving me nuts trying to fix it
+Copyright mafia needs to get eliminated. They are not protecting artists, they are benefiting from artists. And causing huge amount of problems.
+The hdmi 2.1 audio problem from the series X is also on the series S
+another reason to just use DP lol
+Ha, ha. That just reminded me RochChip RK3188 ARM chip first edition which was sold as HDMI 2.0 compatible but couldn't reach 4K/60fps just 4K/30fps (HDMI 1.4). They fixed that issue after quite a long time but with new silicon RT3188T :(.
+Yeah what about getting multi channel audio from video card (Nvidia GTX 1070 as an example) to your home theater receiver via HDMI when you need to plug HDMI from video directly to your TV because Rx cannot pass through resolutions like 2560x1440.   Ahh..eArc you say right? Wrong! Doesn't work, only passes through 2 channel from Nvidia card back to Rx. So solution is to create a secondary display and hook that into Rx on another HDMI port and run audio off of that. That works, up to a point.    eARC rears it's ugly head again and always tries to switch audio to the second "ghost" display. It's ridiculous! So then you have to turn off all the control features of eARC which makes auto switching of the inputs  possible.     It's such a giant F up by microsoft, HDMI, HDCP, eARC and all of those protocols invented to make it work. It's fundamentally broken and no one will patch any of these things to make it work. Either stuck with half functioning eARC, 2 channel audio, or limited resolutions from PC. All of which are ridiculous problems when you have a $400 video card, $700 TV, and $1000 Home Theater receiver.
+i want the old techquickie style back
+U WANA DO IT RAW?
+Ahhhhh, it’s called a bug.  No HDMI is not broken.
+me gaming with vga 768p 60hz
+Subscribe!!!
+Why tf did i get us marine ads?
+Is it just me? or did anyone of you guys restarted your pc when the Blue Screen of Death appear..
+720p monitor gang here
+It's irritating to me that I have an LG OLED 4K tv that is 120hz and I can't fully use it because it was the model from 1 year before hdmi 2.1 dropped... They should honestly have some kind of work around to this or start making TVs more like PC monitors.
+curious if it affects the new 6000x line of GPUs from AMD
+Yes Linus, playing with your stick is very entertaining 😂 just don't let your mom catch you.
+Long live DisplayPort
+Niga
+How about “everything USB c”🤔 Specially with usb 4.0
+Years ago I had to do an EDID registry hack to get my monitor to work properly with my then new GTX 460. This kind of compatibility issue isn't new.
+Copy protection rears its ugly head to screw over the customer once more.
+I thought he meant HDMI is op lol
+Me sitting in India and dream of having a dual monitor setup with amd processer and using HDMI port for the first time
+Yup. Purchased my yamaha tsr 700 receiver. 2.1 is bricked out of the box due to the bad panasonic chip. So yes the 600 dollar receiver is a steal at $330 bucks at Costco right now- it's going to have to go in for warranty whenever yamaha gets the new chips.
+Because this HDMI 2.1 issue is because of a defective component in the device, I'd assume those devices can be replaced under manufacturer warranty.
+Gotta love how they conveniently removed the Toslink port
+Maybe if you didn't drop it as often, it wouldn't be broken!
+...and this is why it pays to hang back when new standard revisions launch.
+E
+people who have samsung odyssey g7 and only use display port laughing rn
+Kickstart stick play!
+does it affect display port
+I just had a panic mode turn on at 3:58 coz I was running the video full screen
+I wonder what happens to those who first attach their series X to a 4k 120hz tv after their warranty expires. Since it's a hardware issue I wonder if the manufacturer would still provide a fix/replacement if required
+Techqukie is back from death hurayyyyyyy
+HDMI is trash, use DP
+If I have a 4k 120hz TV, does that mean it has the same "broken" chip, or is this only in output devices?
+Linus looks like ded.
+that was a pretty great segue, ngl.
+Good god I was just listening to the video and the damn error message  freaked me out .
+HDCP needs to vanish.
+Benifits of being up and up on all the newest tech, but not being an early adopter.  I know about the oddities of new tech and It should "be fixed" by time I get it myself.
+DisplayPort has a broken hotplug feature. still waiting for an adapter that is hdmi 2.0b from my gpu into my dp only monitor so that I can enjoy HDR without the hotplug event moving windows across my multi monitor setup. apparently there is only a market for dp to hdmi monitors.
+PS5 is unaffected by the HDMI 2.1 bug in AV receivers https://youtu.be/e4N95PynVh8
+Oh what a surprise.
+The music in this video is horrendous.
+i know a genuine panaphonics when i see it.
+Wtf, why is there copyright protection in my fucking cable
+My VGA does not complain like ye youngsters ports, it just work i tell ya.
+What happened to the white void?
+Is it wierd seeing him in shortcircuit set doing techquickie
+With the stick joke he just revealed that most of his audience are children
+4:00 gave me a heart attack for a sec
+Wait, this is not the Tech Quickie set.
+*Laughs with displayport and G-Sync*
+04:28 I thought he was gonna say "Go outside and play with a kid you don't know"  My probation officer said I couldn't do that anymore
+I wonder if this is way my firestick won't work plugged into my Yamaha receiver
+"Settle for 4K 60" I agree people should get the product they paid for, but my goodness that sounded spoiled.
+These devices don't have Display Port output? Seriously, who still uses HDMI?
+Nice background audio.
+You explained the HDMI issues quite well. But can you explain why TechQuickie is uploaded in 16:9 1080p and LTT uploades a 2:1, or 16:10 1440p? And still why no 60fps? You're the largest independent tech channel with the most badass equipment & have your viewers stuck at 24fps man! Lol
+CAN WE PLEASE HAVE TVS WITH DISPLAYPORT IN THE FUTURE?... AND PLEASE stop producing anything below HDMI 2.1..
+4:52 nice voice crack
+This seems like the kind of issue that only affects LMG employees and 1% of the world...
+For this reason I bypass my AV receiver and go str8 to the TV. Sound I use a 2nd "fake" monitor via display port to hdmi that is plugged into the receiver.
+Display port to HDMI? Type c to hdmi?
+me: *laugh in VGA
+Being able to play on 4k60fps is still an upgrade for many console gamers compared to the old 30fps lock.
+I never really understood the benefit of digital standards in the hardware industry, specifically with cables. I can run 1080p through coax cable, and I can use modern variants of VGA to send 4K 60hz imaging. In the film industry coax is STILL USED to transfer higher than 4k at high refresh. They're trying to make the cable too smart, when what we need is a dumb cable.
+why TVs cant have Display port?
+Anybody still using vga/d-sub like me..
+HDMI 2.1 be out even though PC 1.0 is still the standard SMH😒
+4:00 "idiosyncrasies" , Linux giving me a lesson in English here, making me look up works lmao
+Had this on full screen and wasn't paying attention, then that blue screen error popped up and I sh**t bricks :))
+I think some of the TV's have their ACR port (usually port 4) as the only port that supports 2.1 too. That makes people run optical and I think these same TV's use 48kHz sample out of their optical; which sounds great 15 years ago, but we're a little spoiled and actually expect a $5k+ HT setup to work.
+Laughing in display port
+3:59 - jumpscare warning, traumatic audio
+F...ing DRM. So many unnecessary problems because of that
+HDCP is the worst part of HDMI.
+Fortunately HDMI 2.1 will eventually become as reliable as 2.0. We... just need to sacrifice a few thousands of early adopters until everything is working as intended (then I can start buying HDMI 2.1 devices.)
+Display port 2.0.... still upset Nvidia and AMD did not release it with new cards.
+Displayport on Consoles when?
+Displayport 2.0 be like: PATHETIC
+DisplayPort: The time has come. Execute HDMI 66.
+360p gang
+i have a 4k 60fps monitor and its still happening but if i turn on the monitor first it works fine
+me who plays games at 720p 60 or 1080p 30 low :you guys see more then 60 ?
+Wow I’ve been having trouble with my new 4K TVs sound when hooked up to my PC and now I know why...
+Thanks panasonic
+1080p144 is possible even on HDMI 1.4b, so you don't have to limit yourself to 120fps on 2.1 :)
+I use Displayport 1.4 :). Probable cause = low quality cheapo cables.
+This is yet another example of why even when I've got the money available, I am never an early adopter.  I like to let the bugs get worked out before I fiddle with newish stuff
+I see Jackery really impressed y'all. Surprised the heck out of me 😁
+is that's why servers still use VGA ???
+I really don't want to hear about Linus playing with his stick...
+I'm pretty sure the HDMI 2.1 chipset on AV receivers being broken has already been thoroughly debunked, for the most part. HDTVtest showed that the issue was only with Xbox Series S/X connected to them, and due to the fact that it was using some kind of protocol that's not supported; (I can't remember the exact terminology off the top of my head.) The PS5 will work fine with these receivers, and RTX 30 series will as well, as long as it's not passing more than 40Gbps, as that's what the receiver's bandwidth tops out at; (which is the same as the newer LG OLEDs.)
+:) MY MY MY all the nvdia fanbois tears taste gooood right now :)
+It's not just HDMI, everything and everyone is broken this year
+me usin VGA port - "hmmmm whatever.... "
+Hello there! I hope you stay safe, have a nice day, and enjoy the holidays! God bless you! <3 :D
+Why is Linus pronouncing processing like a yank?
+HDMI broken plz nerf
+Why has tech quickie changed I liked the old way maybe it's home sickness but it's starting to look like ltt I'm just saying my opinion.
+then buy a new one
+Got an MKBHD dbrand ad on this video lol
+See this is why I don’t go into things like this at launch.    That and I can’t afford it
+instead of hdmi 2.0 we can use dp port is very much high speed fps
+I miss the old white background it's a classic
+Why can’t everyone just use display port it’s faster and it doesn’t have a lot of issues
+song name pls
+DisplayPort carries audio, has higher bandwidth, is daisy-chainable, and is royalty free. Why don't manufacturers just use that?
+*ANALOG* is always the *BEST* option.
+Hey staff of @Techquicke could you pls bring back the white screen background videos... without that background Techquicke aint Techquicke... it mores looks like @Short Circuit
+if you liked this video and you like the word HONK you will like this comment
+Damn that error sound got me, I had just been reinstalling something and then put this on to listen while sorting my washing out and then the error beep came on and I thought something broke lol.
+hdmi 2.0 is fucked as well. 4k 120 and 60 with hdr screen tears and gets random black screens all the time coming from a PC.
+The person that the show look like linus...  But woth no beard.... 😂
+The clarity of your voice and the room sound is a major perk of this video. Thanks!
+Petition to replace HDMI with 32G SDI
+Let's all just revert to VGA.
+me using hdmi   cries in corner
+Gamers be like: eww 60fps Me: I'm okay with 60fps
+Had a heart beat skip at 3:58
+Hdmi ass fr
+I'm over here using a laptop without a screen connected to a monitor.
+Dude, I was watching my phone when the BSOD came up. I almost shat my pants
+This video on HDTVTest explains that the issue is likely due to standards issue between the different HDMI chips. Note: I'm not affiliated with HDTVTest. https://www.youtube.com/watch?v=e4N95PynVh8
+Wow I tried to install a soundbar and a tv  for my brother. And nothing happend. Guess what the sound bar has HDMI2.1. Thanks for the info. Now i can prepare to work around that.
+Linus: HDMI is BROKEN   DisplayPort:  Am I a joke to you?
+When in doubt, use VGA.
+Cant  people using 300 series cards use Display Port instead?
+damn it linus i was downstairs from my computer listening with wireless headphones and came back upstairs when i heard that fake windows notification
+Mmm DisplayPort, no issues for years.
+Use display port 1.4
+My headphones didn’t work at the beginning of the video making me think Linus was making a joke about how crap HDMI is.
+Just use Display Port for 4k 120 fps Kappa
+Imagine buying the latest funbox™ from a scalper for 3x the normal price, only to find out the manufacturer fucked up and the funbox™ does not work.
+have you tried not dropping it?
+Hdmi : 8k 60 fps..  real life : infinite resolution infinite fps.  Price : real life = free...  Price : HDMI with 8k60 fos = well I don't know but I give Guarantee that I have sold my car or even home..
+I don't use Xbox or NVIDIA. Well, I might use either, but I'm a AMD and PlayStation fan. I also do like certain aspects of Intel, but not much anymore. Sooooo, not a problem for me.
+So... why aren't we all just using DisplayPort 2.0?
+HDCP is such a joke lol. x)
+most of the 2.1 hdmi cables have a high fail rate its messed up yo
+Aight then.
+Then you should see the marketing for the Raspberry Pi 4 Model B. Brags about dual 4K HDMI output.
+Why on earth they keep on with HDCP is beyond me. All it does is cause problems for legitimate users.
+Me who uses DisplayPort: "Oh no... anyway"
+Hey guys, I hope you can help me out here. I managed to grab a 3060 ti and hooked it up to my TV (hdmi 2.1 capable, right port selected) but I’m not getting 4K 120hz, not even 1440p@120hz, I can only get it to work with 1080p. I’m using a 90 degree cable adapter because my TV is mounted to the wall, could the adapter be the issue or is anyone experiencing the same issue with a 30 series card? My previous Vega 56 managed at least 1440p@120 hz with the same setup. Thanks in advance
+Laughs in VGA
+Imma1st
+now he dropped another thing
+No questions about the plant?
+Display port 4life
+HDCP is the reason I stick with toslink. I decide what I play or listen to and not a manufacturer that is located thousands of miles away
+"Copy Protection"? Who does that over HDMI anyway?
+AWESOME VIDEO
+i didn't realize this was techquickie...
+Vizio p65q9-h1 recent buyer here, RTX 3080 won't work at 4k 120hz. Firmware update caused no recognition of the card. The 4k 60hz port works fine but as of yet, can't get the 120hz :(
+somebody say hi to my comment
+I wish it was just all usb c
+Computer engineering is hard guys 😂.
+Hdmi is br(ok)en
+So it's DRM....
+This video is partially wrong... More info on the matter here https://www.youtube.com/watch?v=e4N95PynVh8
+I’m not buying a new console until we get DVI or DisplayPort.
+109
+101st comment!
+USB is perfect.... you monsters!
+Hello
+Im Happy that i'm not still using VGA👌
+I refuse to go above 1080P and a toslink connection. I never asked for everything to be done by one single wire.
+The blue screen startled me. I'm on a phone.
+understandable have a great day
+f
+Claim your before 10k ticket here
+F
+Check in
+What a great time to have just wired your media setup all with HDMI
+just buy a new one duh
+im early yay
+Meanwhile, I’m living the dream at 720p 120fps
+0:53 Linus said 'hertz' but it was written 'fps' up there.
+If HDMI is so great, why isn't there a HDMI 2.. Oh wait, there is.
+E
+Hi
+BONK
+Lin us the breaker
+The title of this video sounds like a threat when you get a pop up notification
+Under 100 comments
+Yeah, we know
+Well, fix it with super glue...
+Who else thinks Linus looks better with his beanie
+I've been telling people this for years.
+Fr
+Wow hdmi 2.0 is the best
+Am I late???
+heppens to the best of us
+And so am i........
+55th
+not second
+Oh i'm early
+RIP HDMI
+Oh i'm early
+linus looks beat down
+I'm early holy shit
+Dat random background music
+im fast
+2 views
+Yeah HDMI on PS5 is cool, but do you remember plugging in those 3 cables from your PS2 to your TV? :')
+Fisry
+Hdmi vs The world
+Recently i don't get the point of his videos
+last time i was this early, linus posted his last video. I guess im on a streak
+Sir please 🙏 can you pls make video on ram ICs (b-die,e-die,etc..), latency, timings , tertiary timings ,tRDWR , tRCD , tRP , tRAS ,CAS , fClock , u Clock ,mClock, 1.1 v SOC, bclk ,fclk, ProcODT ,GDM(gear down mode) Etc. , Full RAM guide? Plss make🙏😭
+fourth
+Early
+that's an oof
+1 view. Earliest I've ever been
+wow, 28 comments, now that's really early
+Recommended: 2 seconds ago
+linus
+Li nus te ch tipps.
+Not first :)
+Turtles are cool
+True      writing this because i dont know what to write but i do know that i generally agree with the title.
+Maybe if you didn’t drop it as often, it wouldn’t be broken...
+Early time
+just use VGA and a sinfle audio jack. done
+First?
+yes i agree
+The last time I was this early Justin was already here
+poop
+Earliest I've ever been 2 Views
+Yaayay early
+fortntie hmdi
+one day linus wont be able to host any show anymore :(
+Biggest 14 year old fan....
+2 views, 13 comments. Nice job YT!
+Heart plssssss
+*posted 19 seconds ago*
+12 comment
+Gvng
+HpeeMI
+First!
+4th.
+Hi
+First
+HI!
+Hii I'll wait for HDMI 3
+First
